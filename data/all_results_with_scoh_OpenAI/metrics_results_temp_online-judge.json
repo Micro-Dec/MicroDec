@@ -1,0 +1,978 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.2569444444444444,
+            "IFN": 1.5,
+            "SMQ": 0.3092261904761905,
+            "scoh": 0.3619047619047619,
+            "scop": 0.05267857142857143,
+            "CMQ": 0.5085714285714286,
+            "ccoh": 0.5285714285714286,
+            "ccop": 0.02
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.UserMapper",
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.QuestionMapper",
+                "per.piers.onlineJudge.model.InputOutput",
+                "per.piers.onlineJudge.mapper.AdvisorMapper",
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "2": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.mapper.ScoreMapper",
+                "per.piers.onlineJudge.controller.ScoreManagerController",
+                "per.piers.onlineJudge.controller.ScoreController",
+                "per.piers.onlineJudge.controller.UserController",
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.2569444444444444,
+            "IFN": 1.5,
+            "SMQ": 0.3483928571428571,
+            "scoh": 0.3988095238095238,
+            "scop": 0.050416666666666665,
+            "CMQ": 0.589047619047619,
+            "ccoh": 0.6023809523809524,
+            "ccop": 0.013333333333333334
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController",
+                "per.piers.onlineJudge.controller.ScoreController",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "2": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.UserMapper",
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.QuestionMapper",
+                "per.piers.onlineJudge.model.InputOutput",
+                "per.piers.onlineJudge.mapper.AdvisorMapper",
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "5": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "6": [
+                "per.piers.onlineJudge.mapper.ScoreMapper",
+                "per.piers.onlineJudge.model.Score"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.21333333333333332,
+            "IFN": 1.2,
+            "SMQ": 0.3086026077097505,
+            "scoh": 0.401360544217687,
+            "scop": 0.0927579365079365,
+            "CMQ": 0.590702947845805,
+            "ccoh": 0.6020408163265306,
+            "ccop": 0.011337868480725623
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.mapper.ScoreMapper",
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "2": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController",
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "3": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.UserMapper",
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.QuestionMapper",
+                "per.piers.onlineJudge.model.InputOutput",
+                "per.piers.onlineJudge.mapper.AdvisorMapper",
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "4": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "5": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "6": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "7": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.21333333333333332,
+            "IFN": 1.2,
+            "SMQ": 0.3258928571428571,
+            "scoh": 0.41666666666666663,
+            "scop": 0.09077380952380952,
+            "CMQ": 0.5186224489795919,
+            "ccoh": 0.525,
+            "ccop": 0.006377551020408163
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.UserMapper",
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.mapper.QuestionMapper",
+                "per.piers.onlineJudge.model.InputOutput",
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "2": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "6": [
+                "per.piers.onlineJudge.mapper.ScoreMapper",
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "7": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "8": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController",
+                "per.piers.onlineJudge.controller.ScoreController"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.21333333333333332,
+            "IFN": 1.2,
+            "SMQ": 0.2725694444444444,
+            "scoh": 0.3796296296296296,
+            "scop": 0.10706018518518517,
+            "CMQ": 0.5509259259259259,
+            "ccoh": 0.5555555555555556,
+            "ccop": 0.004629629629629629
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "2": [
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "5": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "6": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController",
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "7": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "8": [
+                "per.piers.onlineJudge.mapper.ScoreMapper",
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "9": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.UserMapper",
+                "per.piers.onlineJudge.model.InputOutput",
+                "per.piers.onlineJudge.config.RootConfig"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.21333333333333332,
+            "IFN": 1.2,
+            "SMQ": 0.23518518518518516,
+            "scoh": 0.35,
+            "scop": 0.11481481481481483,
+            "CMQ": 0.49753086419753084,
+            "ccoh": 0.5,
+            "ccop": 0.0024691358024691358
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "2": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController",
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "5": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "6": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "7": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "8": [
+                "per.piers.onlineJudge.mapper.ScoreMapper",
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "9": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "10": [
+                "per.piers.onlineJudge.mapper.UserMapper",
+                "per.piers.onlineJudge.config.RootConfig"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": 0.24772727272727268,
+            "scoh": 0.3409090909090909,
+            "scop": 0.09318181818181819,
+            "CMQ": 0.6485399449035812,
+            "ccoh": 0.6515151515151515,
+            "ccop": 0.0029752066115702478
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.mapper.ScoreMapper",
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "2": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "6": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "7": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.mapper.QuestionMapper",
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "8": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "9": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ],
+            "10": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "11": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": 0.16582491582491585,
+            "scoh": 0.2638888888888889,
+            "scop": 0.09806397306397305,
+            "CMQ": 0.6648301193755739,
+            "ccoh": 0.6666666666666666,
+            "ccop": 0.0018365472910927456
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "2": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.mapper.ScoreMapper",
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "5": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "6": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "7": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ],
+            "8": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "9": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "10": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "11": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "12": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": 0.16239316239316243,
+            "scoh": 0.25641025641025644,
+            "scop": 0.09401709401709402,
+            "CMQ": 0.6903353057199211,
+            "ccoh": 0.6923076923076923,
+            "ccop": 0.0019723865877712033
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "2": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "3": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "4": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "5": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "6": [
+                "per.piers.onlineJudge.mapper.ScoreMapper"
+            ],
+            "7": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "8": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "9": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.mapper.CategoryMapper",
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "10": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "11": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "12": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "13": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": 0.12774725274725274,
+            "scoh": 0.25,
+            "scop": 0.12225274725274725,
+            "CMQ": 0.7125950972104819,
+            "ccoh": 0.7142857142857143,
+            "ccop": 0.00169061707523246
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.mapper.CategoryMapper"
+            ],
+            "2": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "5": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "6": [
+                "per.piers.onlineJudge.util.DataAccessObject",
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "7": [
+                "per.piers.onlineJudge.mapper.ScoreMapper"
+            ],
+            "8": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "9": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "10": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "11": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "12": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "13": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ],
+            "14": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": 0.004761904761904773,
+            "scoh": 0.2,
+            "scop": 0.19523809523809524,
+            "CMQ": 0.7987301587301587,
+            "ccoh": 0.8,
+            "ccop": 0.0012698412698412698
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "2": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "6": [
+                "per.piers.onlineJudge.mapper.ScoreMapper"
+            ],
+            "7": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "8": [
+                "per.piers.onlineJudge.model.AllScore",
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "9": [
+                "per.piers.onlineJudge.util.DataAccessObject"
+            ],
+            "10": [
+                "per.piers.onlineJudge.mapper.CategoryMapper"
+            ],
+            "11": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "12": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "13": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "14": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "15": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": -0.05833333333333332,
+            "scoh": 0.15625,
+            "scop": 0.21458333333333332,
+            "CMQ": 0.81125,
+            "ccoh": 0.8125,
+            "ccop": 0.00125
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "2": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "3": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "4": [
+                "per.piers.onlineJudge.mapper.CategoryMapper"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.UserImportController",
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "6": [
+                "per.piers.onlineJudge.mapper.ScoreMapper"
+            ],
+            "7": [
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "8": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "9": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "10": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ],
+            "11": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "12": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "13": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "14": [
+                "per.piers.onlineJudge.util.DataAccessObject"
+            ],
+            "15": [
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "16": [
+                "per.piers.onlineJudge.model.AllScore"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": -0.08088235294117646,
+            "scoh": 0.11764705882352941,
+            "scop": 0.19852941176470587,
+            "CMQ": 0.8812716262975778,
+            "ccoh": 0.8823529411764706,
+            "ccop": 0.0010813148788927337
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "2": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "3": [
+                "per.piers.onlineJudge.model.AllScore"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "6": [
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "7": [
+                "per.piers.onlineJudge.model.User",
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "8": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "9": [
+                "per.piers.onlineJudge.mapper.ScoreMapper"
+            ],
+            "10": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ],
+            "11": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "12": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "13": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "14": [
+                "per.piers.onlineJudge.mapper.CategoryMapper"
+            ],
+            "15": [
+                "per.piers.onlineJudge.util.DataAccessObject"
+            ],
+            "16": [
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "17": [
+                "per.piers.onlineJudge.controller.UserImportController"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": -0.1715686274509804,
+            "scoh": 0.08333333333333333,
+            "scop": 0.2549019607843137,
+            "CMQ": 0.9435900721944551,
+            "ccoh": 0.9444444444444444,
+            "ccop": 0.0008543722499893204
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.model.Advisor",
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "2": [
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "3": [
+                "per.piers.onlineJudge.mapper.CategoryMapper"
+            ],
+            "4": [
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "6": [
+                "per.piers.onlineJudge.model.AllScore"
+            ],
+            "7": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "8": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "9": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "10": [
+                "per.piers.onlineJudge.util.DataAccessObject"
+            ],
+            "11": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "12": [
+                "per.piers.onlineJudge.mapper.ScoreMapper"
+            ],
+            "13": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "14": [
+                "per.piers.onlineJudge.controller.UserImportController"
+            ],
+            "15": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ],
+            "16": [
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "17": [
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "18": [
+                "per.piers.onlineJudge.model.User"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": -0.18421052631578946,
+            "scoh": 0.05263157894736842,
+            "scop": 0.23684210526315788,
+            "CMQ": 0.9992818303067611,
+            "ccoh": 1.0,
+            "ccop": 0.0007181696932389453
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "2": [
+                "per.piers.onlineJudge.model.User"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.Category",
+                "per.piers.onlineJudge.model.Question"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.UserImportController"
+            ],
+            "6": [
+                "per.piers.onlineJudge.mapper.ScoreMapper"
+            ],
+            "7": [
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "8": [
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "9": [
+                "per.piers.onlineJudge.util.DataAccessObject"
+            ],
+            "10": [
+                "per.piers.onlineJudge.mapper.CategoryMapper"
+            ],
+            "11": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "12": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "13": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "14": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "15": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ],
+            "16": [
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "17": [
+                "per.piers.onlineJudge.model.Advisor"
+            ],
+            "18": [
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "19": [
+                "per.piers.onlineJudge.model.AllScore"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.3444444444444444,
+            "IFN": 1.0,
+            "SMQ": -0.1881578947368421,
+            "scoh": 0.025,
+            "scop": 0.2131578947368421,
+            "CMQ": 0.9993628808864266,
+            "ccoh": 1.0,
+            "ccop": 0.0006371191135734072
+        },
+        "named_clusters": {
+            "1": [
+                "per.piers.onlineJudge.model.InputOutput"
+            ],
+            "2": [
+                "per.piers.onlineJudge.model.User"
+            ],
+            "3": [
+                "per.piers.onlineJudge.controller.QuestionAnalysisController",
+                "per.piers.onlineJudge.util.FindPlagiarismAlgorithm"
+            ],
+            "4": [
+                "per.piers.onlineJudge.model.Category"
+            ],
+            "5": [
+                "per.piers.onlineJudge.controller.UserImportController"
+            ],
+            "6": [
+                "per.piers.onlineJudge.mapper.ScoreMapper"
+            ],
+            "7": [
+                "per.piers.onlineJudge.mapper.AdvisorMapper"
+            ],
+            "8": [
+                "per.piers.onlineJudge.controller.ScoreManagerController"
+            ],
+            "9": [
+                "per.piers.onlineJudge.util.DataAccessObject"
+            ],
+            "10": [
+                "per.piers.onlineJudge.mapper.CategoryMapper"
+            ],
+            "11": [
+                "per.piers.onlineJudge.model.Score"
+            ],
+            "12": [
+                "per.piers.onlineJudge.controller.ScoreController"
+            ],
+            "13": [
+                "per.piers.onlineJudge.mapper.QuestionMapper"
+            ],
+            "14": [
+                "per.piers.onlineJudge.config.RootConfig"
+            ],
+            "15": [
+                "per.piers.onlineJudge.mapper.UserMapper"
+            ],
+            "16": [
+                "per.piers.onlineJudge.controller.UserController"
+            ],
+            "17": [
+                "per.piers.onlineJudge.model.Advisor"
+            ],
+            "18": [
+                "per.piers.onlineJudge.util.ExcelUtil"
+            ],
+            "19": [
+                "per.piers.onlineJudge.model.AllScore"
+            ],
+            "20": [
+                "per.piers.onlineJudge.model.Question"
+            ]
+        }
+    }
+}

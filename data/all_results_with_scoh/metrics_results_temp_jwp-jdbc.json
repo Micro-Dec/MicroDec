@@ -1,0 +1,2823 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.08740981240981242,
+            "scoh": 0.09034632034632036,
+            "scop": 0.0029365079365079364,
+            "CMQ": 0.6204761904761904,
+            "ccoh": 0.6304761904761904,
+            "ccop": 0.01
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.ControllerScanner",
+                "core.mvc.tobe.AnnotationHandlerMapping",
+                "core.mvc.tobe.support.PathVariableArgumentResolver",
+                "core.mvc.tobe.HandlerKey",
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller",
+                "next.model.Result"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.ModelAndView",
+                "core.mvc.HandlerAdapter",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter",
+                "support.exception.FunctionWithException"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "next.model.Answer"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.09686100936100936,
+            "scoh": 0.10228428978428979,
+            "scop": 0.005423280423280423,
+            "CMQ": 0.5772608872608872,
+            "ccoh": 0.5817053317053317,
+            "ccop": 0.0044444444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.ModelAndView",
+                "core.mvc.HandlerAdapter",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.ControllerScanner",
+                "core.mvc.tobe.AnnotationHandlerMapping",
+                "core.mvc.tobe.support.PathVariableArgumentResolver",
+                "core.mvc.tobe.HandlerKey",
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping",
+                "support.exception.FunctionWithException",
+                "next.model.Result"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.15773666368904463,
+            "scoh": 0.1627757163471449,
+            "scop": 0.005039052658100277,
+            "CMQ": 0.5097917955060812,
+            "ccoh": 0.5143269428983714,
+            "ccop": 0.0045351473922902496
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.ModelAndView",
+                "core.mvc.HandlerAdapter",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.ControllerScanner",
+                "core.mvc.tobe.AnnotationHandlerMapping",
+                "core.mvc.tobe.support.PathVariableArgumentResolver",
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping",
+                "support.exception.FunctionWithException",
+                "next.model.Result"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.14857009723081152,
+            "scoh": 0.15284541847041846,
+            "scop": 0.0042753212396069535,
+            "CMQ": 0.5933183879612451,
+            "ccoh": 0.5958694083694084,
+            "ccop": 0.002551020408163265
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.ModelAndView",
+                "core.mvc.HandlerAdapter",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "2": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.ControllerScanner",
+                "core.mvc.tobe.AnnotationHandlerMapping",
+                "core.mvc.tobe.support.PathVariableArgumentResolver",
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "3": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping",
+                "next.model.Result"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "next.model.Answer"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.16880277644166533,
+            "scoh": 0.17289963123296456,
+            "scop": 0.004096854791299236,
+            "CMQ": 0.713303671637005,
+            "ccoh": 0.7148468815135482,
+            "ccop": 0.0015432098765432098
+        },
+        "named_clusters": {
+            "1": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "2": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.ModelAndView",
+                "core.mvc.HandlerAdapter",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "3": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.ControllerScanner",
+                "core.mvc.tobe.AnnotationHandlerMapping",
+                "core.mvc.tobe.support.PathVariableArgumentResolver",
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "support.exception.FunctionWithException"
+            ],
+            "6": [
+                "next.model.Answer"
+            ],
+            "7": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.2026146384479718,
+            "scoh": 0.206468253968254,
+            "scop": 0.003853615520282186,
+            "CMQ": 0.6648324514991182,
+            "ccoh": 0.6673015873015873,
+            "ccop": 0.0024691358024691358
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.ModelAndView",
+                "core.mvc.HandlerAdapter",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.ControllerScanner",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "core.mvc.tobe.AnnotationHandlerMapping",
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "next.model.Result"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.21998773448773448,
+            "scoh": 0.22734487734487735,
+            "scop": 0.007357142857142857,
+            "CMQ": 0.6575285320739866,
+            "ccoh": 0.6601731601731602,
+            "ccop": 0.0026446280991735535
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.ControllerScanner",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "core.mvc.tobe.AnnotationHandlerMapping",
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "next.model.Result"
+            ],
+            "11": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.19907407407407407,
+            "scoh": 0.2086309523809524,
+            "scop": 0.009556878306878307,
+            "CMQ": 0.693603786785605,
+            "ccoh": 0.6958994708994709,
+            "ccop": 0.002295684113865932
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "core.mvc.tobe.AnnotationHandlerMapping",
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "next.model.Result"
+            ],
+            "11": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.13641890516890517,
+            "scoh": 0.15412087912087913,
+            "scop": 0.01770197395197395,
+            "CMQ": 0.7942425096271251,
+            "ccoh": 0.7962148962148963,
+            "ccop": 0.0019723865877712033
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "next.model.Result"
+            ],
+            "11": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.16410910518053373,
+            "scoh": 0.18010204081632653,
+            "scop": 0.01599293563579278,
+            "CMQ": 0.8066920259227951,
+            "ccoh": 0.8085034013605442,
+            "ccop": 0.001811375437749064
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "next.model.Result"
+            ],
+            "11": [
+                "core.mvc.DispatcherServlet",
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "14": [
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.ArgumentResolver"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.1475283446712018,
+            "scoh": 0.17365079365079364,
+            "scop": 0.026122448979591838,
+            "CMQ": 0.8305668934240361,
+            "ccoh": 0.8323809523809522,
+            "ccop": 0.0018140589569160996
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "2": [
+                "next.controller.UpdateFormUserController",
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "next.model.Result"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "11": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "14": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "15": [
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.ArgumentResolver"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.1428571428571428,
+            "SMQ": 0.13876984126984127,
+            "scoh": 0.1630952380952381,
+            "scop": 0.024325396825396823,
+            "CMQ": 0.8353075396825397,
+            "ccoh": 0.8369047619047619,
+            "ccop": 0.0015972222222222223
+        },
+        "named_clusters": {
+            "1": [
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "2": [
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "3": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View",
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "6": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "7": [
+                "next.model.Answer"
+            ],
+            "8": [
+                "support.exception.FunctionWithException"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "13": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "14": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "15": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "16": [
+                "next.controller.UpdateFormUserController"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.1428571428571428,
+            "SMQ": 0.13274247198879552,
+            "scoh": 0.15644257703081232,
+            "scop": 0.023700105042016806,
+            "CMQ": 0.8331659869830285,
+            "ccoh": 0.8347338935574229,
+            "ccop": 0.0015679065743944636
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View"
+            ],
+            "2": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "3": [
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "7": [
+                "support.exception.FunctionWithException"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "14": [
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "15": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "16": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "17": [
+                "next.controller.UpdateFormUserController"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.12690242763772178,
+            "scoh": 0.14960317460317463,
+            "scop": 0.022700746965452847,
+            "CMQ": 0.8406110592385102,
+            "ccoh": 0.8420634920634921,
+            "ccop": 0.0014524328249818446
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "2": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "3": [
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.UpdateUserController"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "6": [
+                "next.model.Result"
+            ],
+            "7": [
+                "next.model.Answer"
+            ],
+            "8": [
+                "support.exception.FunctionWithException"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View"
+            ],
+            "12": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "13": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "14": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "15": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "16": [
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "17": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "18": [
+                "next.controller.LoginController"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.12390350877192982,
+            "scoh": 0.14786967418546365,
+            "scop": 0.023966165413533833,
+            "CMQ": 0.8420930493876015,
+            "ccoh": 0.843358395989975,
+            "ccop": 0.0012653466023733798
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "2": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "next.controller.UserController",
+                "core.mvc.View"
+            ],
+            "3": [
+                "next.dao.UserDao"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "5": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "6": [
+                "next.model.Question"
+            ],
+            "7": [
+                "next.model.Answer"
+            ],
+            "8": [
+                "support.exception.FunctionWithException"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "13": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "14": [
+                "next.model.User",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.UpdateUserController"
+            ],
+            "15": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "16": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "17": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "18": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "19": [
+                "next.controller.LoginController"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.11967105263157896,
+            "scoh": 0.14416666666666667,
+            "scop": 0.024495614035087716,
+            "CMQ": 0.8639473684210526,
+            "ccoh": 0.865,
+            "ccop": 0.0010526315789473684
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "2": [
+                "next.controller.LoginController"
+            ],
+            "3": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "4": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "5": [
+                "next.model.Question"
+            ],
+            "6": [
+                "next.model.Answer"
+            ],
+            "7": [
+                "support.exception.FunctionWithException"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.UpdateUserController"
+            ],
+            "14": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "15": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "core.mvc.View"
+            ],
+            "16": [
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "17": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "18": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "19": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "20": [
+                "next.controller.UserController"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.114484126984127,
+            "scoh": 0.1388888888888889,
+            "scop": 0.024404761904761905,
+            "CMQ": 0.8578004535147392,
+            "ccoh": 0.8587301587301587,
+            "ccop": 0.0009297052154195011
+        },
+        "named_clusters": {
+            "1": [
+                "next.controller.LoginController"
+            ],
+            "2": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "core.mvc.View"
+            ],
+            "3": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "6": [
+                "next.model.Answer"
+            ],
+            "7": [
+                "support.exception.FunctionWithException"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "14": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.RequestParamArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "15": [
+                "next.dao.UserDao"
+            ],
+            "16": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "17": [
+                "next.model.User",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.UpdateUserController"
+            ],
+            "18": [
+                "core.mvc.tobe.HandlerExecution",
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "19": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "20": [
+                "next.controller.UserController"
+            ],
+            "21": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.1428571428571428,
+            "SMQ": 0.09896584896584897,
+            "scoh": 0.12878787878787878,
+            "scop": 0.029822029822029823,
+            "CMQ": 0.8384756657483929,
+            "ccoh": 0.8393939393939394,
+            "ccop": 0.0009182736455463728
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "2": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "3": [
+                "core.db.DataBase",
+                "next.controller.LoginController",
+                "next.controller.UpdateUserController"
+            ],
+            "4": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "5": [
+                "next.model.Question"
+            ],
+            "6": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "7": [
+                "next.model.Answer"
+            ],
+            "8": [
+                "support.exception.FunctionWithException"
+            ],
+            "9": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "10": [
+                "next.model.Result"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver",
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "13": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "14": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "15": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "16": [
+                "core.mvc.ModelAndView",
+                "core.mvc.View"
+            ],
+            "17": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "18": [
+                "next.controller.UserController"
+            ],
+            "19": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "20": [
+                "next.model.User",
+                "next.dao.UserDao",
+                "next.controller.UserSessionUtils"
+            ],
+            "21": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "22": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.07872200263504613,
+            "scoh": 0.10724637681159421,
+            "scop": 0.02852437417654809,
+            "CMQ": 0.8817338186817479,
+            "ccoh": 0.8826086956521739,
+            "ccop": 0.0008748769704260338
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "2": [
+                "next.model.User",
+                "next.dao.UserDao",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "next.model.Result"
+            ],
+            "9": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "10": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "11": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "core.mvc.View"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "14": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "15": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "16": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "17": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "18": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "19": [
+                "next.controller.UserController"
+            ],
+            "20": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "21": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "22": [
+                "next.controller.LoginController"
+            ],
+            "23": [
+                "core.mvc.tobe.HandlerExecution"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.07895531400966184,
+            "scoh": 0.1076388888888889,
+            "scop": 0.028683574879227056,
+            "CMQ": 0.8811699222852343,
+            "ccoh": 0.8819444444444445,
+            "ccop": 0.00077452215921025
+        },
+        "named_clusters": {
+            "1": [
+                "next.controller.UserController"
+            ],
+            "2": [
+                "next.model.User",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "4": [
+                "support.exception.FunctionWithException"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "next.model.Question"
+            ],
+            "7": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "14": [
+                "core.mvc.ModelAndView",
+                "core.mvc.asis.ControllerHandlerAdapter",
+                "core.mvc.View"
+            ],
+            "15": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "16": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "17": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "18": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "19": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "20": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "21": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "22": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "23": [
+                "next.dao.UserDao"
+            ],
+            "24": [
+                "next.controller.LoginController"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.08166666666666667,
+            "scoh": 0.11,
+            "scop": 0.02833333333333334,
+            "CMQ": 0.8859333333333334,
+            "ccoh": 0.8866666666666667,
+            "ccop": 0.0007333333333333333
+        },
+        "named_clusters": {
+            "1": [
+                "next.controller.UserController"
+            ],
+            "2": [
+                "next.model.User",
+                "core.db.DataBase",
+                "next.controller.UserSessionUtils",
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "4": [
+                "support.exception.FunctionWithException"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "next.model.Question"
+            ],
+            "7": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "14": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "15": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "16": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "17": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "18": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "19": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "20": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "21": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "22": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "23": [
+                "next.dao.UserDao"
+            ],
+            "24": [
+                "next.controller.LoginController"
+            ],
+            "25": [
+                "core.mvc.ModelAndView",
+                "core.mvc.View"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.0948717948717949,
+            "scoh": 0.1217948717948718,
+            "scop": 0.026923076923076918,
+            "CMQ": 0.8325948717948717,
+            "ccoh": 0.8333333333333333,
+            "ccop": 0.0007384615384615384
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "2": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "3": [
+                "core.db.DataBase",
+                "next.controller.UpdateUserController"
+            ],
+            "4": [
+                "next.controller.UserController"
+            ],
+            "5": [
+                "support.exception.FunctionWithException"
+            ],
+            "6": [
+                "next.model.Question"
+            ],
+            "7": [
+                "next.model.Answer"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "10": [
+                "next.model.Result"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "14": [
+                "core.mvc.ModelAndView",
+                "core.mvc.View"
+            ],
+            "15": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "16": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "17": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "18": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "19": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "20": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "21": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "22": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "23": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "24": [
+                "next.model.User",
+                "next.dao.UserDao",
+                "next.controller.UserSessionUtils"
+            ],
+            "25": [
+                "next.controller.LoginController"
+            ],
+            "26": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.0771604938271605,
+            "scoh": 0.10493827160493828,
+            "scop": 0.027777777777777776,
+            "CMQ": 0.8635563023027412,
+            "ccoh": 0.8641975308641976,
+            "ccop": 0.0006412285614564817
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "2": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "next.controller.UserSessionUtils"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "next.model.Result"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "13": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "14": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "15": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "16": [
+                "core.mvc.ModelAndView",
+                "core.mvc.View"
+            ],
+            "17": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "18": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver",
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "19": [
+                "next.model.User",
+                "core.db.DataBase",
+                "next.controller.UpdateUserController"
+            ],
+            "20": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "21": [
+                "next.controller.LoginController"
+            ],
+            "22": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "23": [
+                "next.dao.UserDao"
+            ],
+            "24": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "25": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "26": [
+                "next.controller.UserController"
+            ],
+            "27": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.09259259259259259,
+            "scoh": 0.125,
+            "scop": 0.032407407407407406,
+            "CMQ": 0.8922412586433751,
+            "ccoh": 0.8928571428571429,
+            "ccop": 0.0006158842137678116
+        },
+        "named_clusters": {
+            "1": [
+                "core.db.DataBase",
+                "next.controller.UpdateUserController"
+            ],
+            "2": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "3": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "7": [
+                "support.exception.FunctionWithException"
+            ],
+            "8": [
+                "next.model.Result"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "11": [
+                "next.controller.UserController"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "14": [
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "15": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "16": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "17": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "18": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "19": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "20": [
+                "core.mvc.ModelAndView",
+                "core.mvc.View"
+            ],
+            "21": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "22": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "23": [
+                "next.model.User",
+                "next.dao.UserDao"
+            ],
+            "24": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "25": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver"
+            ],
+            "26": [
+                "next.controller.LoginController"
+            ],
+            "27": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "28": [
+                "next.controller.UserSessionUtils"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.06958128078817734,
+            "scoh": 0.10344827586206896,
+            "scop": 0.033866995073891626,
+            "CMQ": 0.89598752699653,
+            "ccoh": 0.896551724137931,
+            "ccop": 0.0005641971414011502
+        },
+        "named_clusters": {
+            "1": [
+                "next.dao.UserDao"
+            ],
+            "2": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "3": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "4": [
+                "core.mvc.ModelAndView",
+                "core.mvc.View"
+            ],
+            "5": [
+                "next.model.Question"
+            ],
+            "6": [
+                "next.model.Answer"
+            ],
+            "7": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "8": [
+                "support.exception.FunctionWithException"
+            ],
+            "9": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "10": [
+                "next.model.Result"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "13": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "14": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "15": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver"
+            ],
+            "16": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "17": [
+                "next.controller.UpdateUserController"
+            ],
+            "18": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "19": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "20": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "21": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "22": [
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "23": [
+                "next.controller.LoginController"
+            ],
+            "24": [
+                "next.model.User",
+                "core.db.DataBase"
+            ],
+            "25": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "26": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "27": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "28": [
+                "next.controller.UserController"
+            ],
+            "29": [
+                "next.controller.UserSessionUtils"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.05114942528735632,
+            "scoh": 0.08333333333333333,
+            "scop": 0.03218390804597701,
+            "CMQ": 0.8995296604571278,
+            "ccoh": 0.9,
+            "ccop": 0.00047033954287224207
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.View"
+            ],
+            "2": [
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver"
+            ],
+            "3": [
+                "next.controller.UserSessionUtils"
+            ],
+            "4": [
+                "next.model.Question"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "next.model.Result"
+            ],
+            "8": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "9": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry",
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ],
+            "12": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "13": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "14": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "15": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "16": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "17": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "18": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "19": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "20": [
+                "next.model.User",
+                "core.db.DataBase"
+            ],
+            "21": [
+                "next.controller.UserController"
+            ],
+            "22": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "23": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "24": [
+                "next.dao.UserDao"
+            ],
+            "25": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "26": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "27": [
+                "next.controller.LoginController"
+            ],
+            "28": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "29": [
+                "core.mvc.ModelAndView"
+            ],
+            "30": [
+                "next.controller.UpdateUserController"
+            ]
+        }
+    },
+    "KMeans_31": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.046236559139784944,
+            "scoh": 0.08064516129032258,
+            "scop": 0.034408602150537634,
+            "CMQ": 0.9350537634408601,
+            "ccoh": 0.9354838709677419,
+            "ccop": 0.00043010752688172043
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "2": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "3": [
+                "core.mvc.ModelAndView"
+            ],
+            "4": [
+                "next.controller.UserSessionUtils"
+            ],
+            "5": [
+                "next.model.Question"
+            ],
+            "6": [
+                "next.model.Answer"
+            ],
+            "7": [
+                "support.exception.FunctionWithException"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry"
+            ],
+            "12": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "13": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "14": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "15": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "16": [
+                "next.model.User",
+                "core.db.DataBase"
+            ],
+            "17": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver"
+            ],
+            "18": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "19": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "20": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "21": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "22": [
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "23": [
+                "next.controller.LoginController"
+            ],
+            "24": [
+                "next.dao.UserDao"
+            ],
+            "25": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "26": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "27": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "28": [
+                "next.controller.UserController"
+            ],
+            "29": [
+                "core.mvc.View"
+            ],
+            "30": [
+                "next.controller.UpdateUserController"
+            ],
+            "31": [
+                "core.mvc.HandlerExecutor",
+                "core.mvc.HandlerAdapter"
+            ]
+        }
+    },
+    "KMeans_32": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.028225806451612906,
+            "scoh": 0.0625,
+            "scop": 0.034274193548387094,
+            "CMQ": 0.9370853928199792,
+            "ccoh": 0.9375,
+            "ccop": 0.0004146071800208117
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "2": [
+                "next.controller.UpdateUserController"
+            ],
+            "3": [
+                "next.model.Question"
+            ],
+            "4": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "support.exception.FunctionWithException"
+            ],
+            "7": [
+                "next.model.Result"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "10": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "11": [
+                "core.mvc.ModelAndView"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.HandlerExecutor"
+            ],
+            "14": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver"
+            ],
+            "15": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "16": [
+                "next.dao.UserDao"
+            ],
+            "17": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "18": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "19": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "20": [
+                "next.controller.LoginController"
+            ],
+            "21": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "22": [
+                "next.controller.UserSessionUtils"
+            ],
+            "23": [
+                "next.controller.UserController"
+            ],
+            "24": [
+                "next.model.User",
+                "core.db.DataBase"
+            ],
+            "25": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "26": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "27": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "28": [
+                "core.mvc.View"
+            ],
+            "29": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "30": [
+                "core.mvc.HandlerAdapterRegistry"
+            ],
+            "31": [
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "32": [
+                "core.mvc.HandlerAdapter"
+            ]
+        }
+    },
+    "KMeans_33": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.006155303030303032,
+            "scoh": 0.045454545454545456,
+            "scop": 0.039299242424242424,
+            "CMQ": 0.9693239210284665,
+            "ccoh": 0.9696969696969697,
+            "ccop": 0.00037304866850321395
+        },
+        "named_clusters": {
+            "1": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "2": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "3": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "4": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "next.model.Question"
+            ],
+            "7": [
+                "support.exception.FunctionWithException"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "11": [
+                "core.mvc.ModelAndView"
+            ],
+            "12": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "13": [
+                "core.mvc.HandlerExecutor"
+            ],
+            "14": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "15": [
+                "next.model.User"
+            ],
+            "16": [
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "17": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "18": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "19": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "20": [
+                "core.mvc.tobe.MethodParameter",
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver"
+            ],
+            "21": [
+                "next.controller.LoginController"
+            ],
+            "22": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "23": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "24": [
+                "next.controller.UpdateUserController"
+            ],
+            "25": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "26": [
+                "next.controller.UserController"
+            ],
+            "27": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "28": [
+                "core.mvc.View"
+            ],
+            "29": [
+                "next.controller.UserSessionUtils"
+            ],
+            "30": [
+                "next.dao.UserDao"
+            ],
+            "31": [
+                "core.mvc.HandlerAdapterRegistry"
+            ],
+            "32": [
+                "core.mvc.HandlerAdapter"
+            ],
+            "33": [
+                "core.db.DataBase"
+            ]
+        }
+    },
+    "KMeans_34": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": -0.016042780748663103,
+            "scoh": 0.029411764705882353,
+            "scop": 0.045454545454545456,
+            "CMQ": 0.9702482516260433,
+            "ccoh": 0.9705882352941176,
+            "ccop": 0.0003399836680742626
+        },
+        "named_clusters": {
+            "1": [
+                "next.controller.UserController"
+            ],
+            "2": [
+                "core.db.DataBase"
+            ],
+            "3": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "4": [
+                "support.exception.FunctionWithException"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "next.model.Question"
+            ],
+            "7": [
+                "core.mvc.HandlerMappingRegistry",
+                "core.mvc.HandlerMapping"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "14": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "15": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "16": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "17": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "18": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "19": [
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "20": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "21": [
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver"
+            ],
+            "22": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "23": [
+                "next.dao.UserDao"
+            ],
+            "24": [
+                "next.controller.LoginController"
+            ],
+            "25": [
+                "core.mvc.View"
+            ],
+            "26": [
+                "core.mvc.tobe.MethodParameter"
+            ],
+            "27": [
+                "next.controller.UserSessionUtils"
+            ],
+            "28": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "29": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "30": [
+                "core.mvc.ModelAndView"
+            ],
+            "31": [
+                "core.mvc.HandlerAdapter"
+            ],
+            "32": [
+                "next.controller.UpdateUserController"
+            ],
+            "33": [
+                "core.mvc.HandlerExecutor"
+            ],
+            "34": [
+                "next.model.User"
+            ]
+        }
+    },
+    "KMeans_35": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": -0.030672268907563027,
+            "scoh": 0.014285714285714285,
+            "scop": 0.04495798319327731,
+            "CMQ": 0.9711093849304427,
+            "ccoh": 0.9714285714285714,
+            "ccop": 0.0003191864981286632
+        },
+        "named_clusters": {
+            "1": [
+                "next.controller.UserController"
+            ],
+            "2": [
+                "core.db.DataBase"
+            ],
+            "3": [
+                "core.mvc.tobe.support.PathVariableArgumentResolver"
+            ],
+            "4": [
+                "support.exception.FunctionWithException"
+            ],
+            "5": [
+                "next.model.Answer"
+            ],
+            "6": [
+                "next.model.Question"
+            ],
+            "7": [
+                "core.mvc.HandlerMappingRegistry"
+            ],
+            "8": [
+                "core.mvc.asis.RequestMapping",
+                "core.mvc.asis.Controller"
+            ],
+            "9": [
+                "next.model.Result"
+            ],
+            "10": [
+                "core.mvc.tobe.AnnotationHandlerMapping"
+            ],
+            "11": [
+                "core.mvc.HandlerAdapterRegistry"
+            ],
+            "12": [
+                "core.mvc.tobe.ControllerScanner"
+            ],
+            "13": [
+                "core.mvc.tobe.HandlerKey"
+            ],
+            "14": [
+                "core.mvc.asis.ControllerHandlerAdapter"
+            ],
+            "15": [
+                "core.mvc.tobe.HandlerExecution"
+            ],
+            "16": [
+                "core.mvc.DispatcherServlet"
+            ],
+            "17": [
+                "core.mvc.tobe.support.RequestParamArgumentResolver"
+            ],
+            "18": [
+                "next.controller.UpdateFormUserController"
+            ],
+            "19": [
+                "core.mvc.tobe.support.ModelArgumentResolver"
+            ],
+            "20": [
+                "core.mvc.tobe.HandlerExecutionHandlerAdapter"
+            ],
+            "21": [
+                "core.mvc.tobe.support.AbstractAnnotationArgumentResolver"
+            ],
+            "22": [
+                "core.mvc.tobe.support.ArgumentResolver"
+            ],
+            "23": [
+                "next.dao.UserDao"
+            ],
+            "24": [
+                "next.controller.LoginController"
+            ],
+            "25": [
+                "core.mvc.View"
+            ],
+            "26": [
+                "core.mvc.tobe.MethodParameter"
+            ],
+            "27": [
+                "next.controller.UserSessionUtils"
+            ],
+            "28": [
+                "core.mvc.tobe.support.HttpResponseArgumentResolver"
+            ],
+            "29": [
+                "core.mvc.tobe.support.HttpRequestArgumentResolver"
+            ],
+            "30": [
+                "core.mvc.ModelAndView"
+            ],
+            "31": [
+                "core.mvc.HandlerAdapter"
+            ],
+            "32": [
+                "next.controller.UpdateUserController"
+            ],
+            "33": [
+                "core.mvc.HandlerExecutor"
+            ],
+            "34": [
+                "next.model.User"
+            ],
+            "35": [
+                "core.mvc.HandlerMapping"
+            ]
+        }
+    }
+}

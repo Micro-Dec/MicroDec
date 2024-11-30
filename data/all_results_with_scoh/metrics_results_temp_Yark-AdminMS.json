@@ -1,0 +1,4748 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.6934280144806461,
+            "CHD": 0.4925531586903767,
+            "IFN": 2.0,
+            "SMQ": 0.25548566017316016,
+            "scoh": 0.26017316017316017,
+            "scop": 0.0046875,
+            "CMQ": 0.44621212121212117,
+            "ccoh": 0.4762121212121212,
+            "ccop": 0.03
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.vo.RoleVo",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "2": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.common.CacheBean",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse",
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl",
+                "com.bs.sys.service.impl.DeptServiceImpl",
+                "com.bs.sys.service.IDeptService",
+                "com.bs.sys.service.IUserService"
+            ],
+            "5": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.6403986155865855,
+            "CHD": 0.5128643746554594,
+            "IFN": 1.7142857142857142,
+            "SMQ": 0.26098809523809524,
+            "scoh": 0.26587301587301587,
+            "scop": 0.004884920634920634,
+            "CMQ": 0.37710317460317455,
+            "ccoh": 0.4037698412698412,
+            "ccop": 0.02666666666666667
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse",
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl",
+                "com.bs.sys.service.impl.DeptServiceImpl",
+                "com.bs.sys.service.IDeptService",
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.common.CacheBean",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.vo.RoleVo",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.6403986155865855,
+            "CHD": 0.5128643746554594,
+            "IFN": 1.7142857142857142,
+            "SMQ": 0.2822049973835688,
+            "scoh": 0.3011316064887493,
+            "scop": 0.01892660910518053,
+            "CMQ": 0.47708006279434845,
+            "ccoh": 0.4906855049712192,
+            "ccop": 0.013605442176870748
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.vo.RoleVo",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.common.TreeNodeBuilder",
+                "com.bs.sys.service.IUserService"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "4": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.common.CacheBean",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl",
+                "com.bs.sys.service.impl.DeptServiceImpl",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "7": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.6508249791144529,
+            "CHD": 0.5791871453525589,
+            "IFN": 1.5,
+            "SMQ": 0.279572213500785,
+            "scoh": 0.29521728271728276,
+            "scop": 0.015645069216497786,
+            "CMQ": 0.47234432234432233,
+            "ccoh": 0.4812728937728938,
+            "ccop": 0.008928571428571428
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.service.impl.UserServiceImpl",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.common.CacheBean",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "7": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.vo.RoleVo",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "8": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.service.impl.DeptServiceImpl",
+                "com.bs.sys.service.IDeptService"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.6704864011881555,
+            "CHD": 0.5982545348460135,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.29527391975308637,
+            "scoh": 0.30925925925925923,
+            "scop": 0.01398533950617284,
+            "CMQ": 0.43399270482603813,
+            "ccoh": 0.4393939393939394,
+            "ccop": 0.005401234567901234
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "2": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.service.impl.DeptServiceImpl",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.service.impl.UserServiceImpl",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.service.IUserService"
+            ],
+            "5": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.vo.RoleVo",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "6": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "7": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "8": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.common.CacheBean"
+            ],
+            "9": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.6692857142857143,
+            "CHD": 0.6404202967736803,
+            "IFN": 1.2,
+            "SMQ": 0.28077182539682544,
+            "scoh": 0.30539682539682544,
+            "scop": 0.024624999999999994,
+            "CMQ": 0.41455026455026445,
+            "ccoh": 0.4204761904761904,
+            "ccop": 0.005925925925925926
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.vo.RoleVo",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "2": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.service.impl.DeptServiceImpl",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "3": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "4": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "7": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "8": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.common.CacheBean"
+            ],
+            "9": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "10": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo",
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.6704864011881555,
+            "CHD": 0.5982545348460135,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.3024056036556037,
+            "scoh": 0.3232683982683983,
+            "scop": 0.02086279461279461,
+            "CMQ": 0.46650531286894925,
+            "ccoh": 0.4694805194805195,
+            "ccop": 0.0029752066115702478
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "2": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "3": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "6": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "7": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.common.CacheBean"
+            ],
+            "11": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl",
+                "com.bs.sys.service.IDeptService"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.6692857142857143,
+            "CHD": 0.6404202967736803,
+            "IFN": 1.2,
+            "SMQ": 0.2936755952380953,
+            "scoh": 0.3244047619047619,
+            "scop": 0.03072916666666667,
+            "CMQ": 0.44208644890463067,
+            "ccoh": 0.4448412698412698,
+            "ccop": 0.0027548209366391185
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "2": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.service.impl.DeptServiceImpl",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "3": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "7": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "8": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "9": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.common.CacheBean"
+            ],
+            "11": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.6692857142857143,
+            "CHD": 0.6404202967736803,
+            "IFN": 1.2,
+            "SMQ": 0.2765491452991453,
+            "scoh": 0.31923076923076926,
+            "scop": 0.042681623931623926,
+            "CMQ": 0.41788297172912564,
+            "ccoh": 0.4205128205128206,
+            "ccop": 0.0026298487836949372
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "2": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "6": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "7": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "8": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.common.CacheBean"
+            ],
+            "9": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "10": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "11": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "12": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "13": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.6692857142857143,
+            "CHD": 0.6404202967736803,
+            "IFN": 1.2,
+            "SMQ": 0.3036630036630037,
+            "scoh": 0.35000000000000003,
+            "scop": 0.04633699633699634,
+            "CMQ": 0.36473453286640095,
+            "ccoh": 0.36666666666666664,
+            "ccop": 0.0019321338002656686
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "4": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.common.CacheBean"
+            ],
+            "6": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "7": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "10": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "11": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "12": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "13": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "14": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.6692857142857143,
+            "CHD": 0.6404202967736803,
+            "IFN": 1.2,
+            "SMQ": 0.31515211640211643,
+            "scoh": 0.36444444444444446,
+            "scop": 0.04929232804232805,
+            "CMQ": 0.3562358276643991,
+            "ccoh": 0.3577777777777778,
+            "ccop": 0.001541950113378685
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "2": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "7": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "8": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "9": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "10": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "11": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.common.CacheBean"
+            ],
+            "12": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "13": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "14": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "15": [
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.6205627705627706,
+            "CHD": 0.6383330259270109,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.33226273148148155,
+            "scoh": 0.37812500000000004,
+            "scop": 0.04586226851851852,
+            "CMQ": 0.39041666666666675,
+            "ccoh": 0.3916666666666667,
+            "ccop": 0.00125
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "4": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController",
+                "com.bs.sys.common.CacheBean"
+            ],
+            "5": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "6": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "7": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "8": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "9": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "10": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "11": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "12": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "13": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "14": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "15": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "16": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.6205627705627706,
+            "CHD": 0.6383330259270109,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.32476000816993467,
+            "scoh": 0.36568627450980395,
+            "scop": 0.04092626633986928,
+            "CMQ": 0.42647779700115335,
+            "ccoh": 0.4274509803921568,
+            "ccop": 0.0009731833910034603
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.entity.Role",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "2": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "7": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "8": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "9": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController"
+            ],
+            "11": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "12": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "13": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "14": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "15": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "16": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "17": [
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.6205627705627706,
+            "CHD": 0.6383330259270109,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.3104257443718228,
+            "scoh": 0.3490740740740741,
+            "scop": 0.038648329702251266,
+            "CMQ": 0.4658550130291768,
+            "ccoh": 0.4666666666666667,
+            "ccop": 0.0008116536374898544
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "6": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "7": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "8": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "9": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController"
+            ],
+            "11": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "12": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "13": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "14": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "15": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "16": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "17": [
+                "com.bs.sys.entity.Role"
+            ],
+            "18": [
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.6205627705627706,
+            "CHD": 0.6383330259270109,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.2900219298245614,
+            "scoh": 0.3350877192982456,
+            "scop": 0.045065789473684205,
+            "CMQ": 0.4502274204028589,
+            "ccoh": 0.45087719298245604,
+            "ccop": 0.000649772579597141
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.entity.Role"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "7": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController"
+            ],
+            "11": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "12": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "13": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "14": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "15": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "16": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "17": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "18": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "19": [
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.6205627705627706,
+            "CHD": 0.6383330259270109,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.25264254385964907,
+            "scoh": 0.30166666666666664,
+            "scop": 0.049024122807017546,
+            "CMQ": 0.511140350877193,
+            "ccoh": 0.5116666666666667,
+            "ccop": 0.0005263157894736842
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.entity.Role"
+            ],
+            "2": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "6": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "7": [
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "8": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController"
+            ],
+            "9": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "10": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "11": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "13": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "14": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "15": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "16": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "17": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "18": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "19": [
+                "com.bs.sys.mapper.UserMapper",
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "20": [
+                "com.bs.sys.controller.LoginController"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.6205627705627706,
+            "CHD": 0.6383330259270109,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.229728835978836,
+            "scoh": 0.2753968253968254,
+            "scop": 0.04566798941798941,
+            "CMQ": 0.5900226757369614,
+            "ccoh": 0.5904761904761905,
+            "ccop": 0.0004535147392290249
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "2": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "7": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "8": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "9": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController"
+            ],
+            "10": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "11": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "12": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "14": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "15": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "16": [
+                "com.bs.sys.mapper.DeptMapper",
+                "com.bs.sys.service.IDeptService"
+            ],
+            "17": [
+                "com.bs.sys.entity.Role"
+            ],
+            "18": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "19": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "20": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "21": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.25226070226070224,
+            "scoh": 0.3007575757575757,
+            "scop": 0.0484968734968735,
+            "CMQ": 0.5555546185416316,
+            "ccoh": 0.5560606060606061,
+            "ccop": 0.0005059875189745319
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.common.ResultObj",
+                "com.bs.sys.controller.CacheController"
+            ],
+            "2": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "6": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "7": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "10": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "11": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "12": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "13": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "14": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "15": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "16": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "17": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "18": [
+                "com.bs.sys.entity.Role"
+            ],
+            "19": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "20": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "21": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "22": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.21714426877470358,
+            "scoh": 0.26811594202898553,
+            "scop": 0.050971673254281945,
+            "CMQ": 0.593781082868555,
+            "ccoh": 0.5942028985507247,
+            "ccop": 0.0004218156821696949
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "2": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "3": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "7": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "8": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "9": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "10": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "11": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "12": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "14": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "15": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "16": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "17": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "19": [
+                "com.bs.sys.entity.Role"
+            ],
+            "20": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "21": [
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.service.IUserService"
+            ],
+            "22": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "23": [
+                "com.bs.sys.controller.CacheController"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.1926454307568438,
+            "scoh": 0.24652777777777776,
+            "scop": 0.05388234702093398,
+            "CMQ": 0.6246324301617308,
+            "ccoh": 0.625,
+            "ccop": 0.0003675698382692712
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.common.DataGridView",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "2": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "7": [
+                "com.bs.sys.controller.LoginController",
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "11": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "13": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "14": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "15": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "16": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "17": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "18": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "19": [
+                "com.bs.sys.entity.Role"
+            ],
+            "20": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "21": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "22": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "23": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "24": [
+                "com.bs.sys.controller.CacheController"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.15124999999999997,
+            "scoh": 0.20666666666666664,
+            "scop": 0.05541666666666667,
+            "CMQ": 0.6863444444444445,
+            "ccoh": 0.6866666666666668,
+            "ccop": 0.0003222222222222222
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "3": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "7": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "10": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "11": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "12": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "13": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "14": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "15": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "16": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "17": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "18": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "19": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "20": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "21": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "22": [
+                "com.bs.sys.entity.Role"
+            ],
+            "23": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "24": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "25": [
+                "com.bs.sys.controller.LoginController"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.17829059829059826,
+            "scoh": 0.22564102564102562,
+            "scop": 0.04735042735042735,
+            "CMQ": 0.7074461538461538,
+            "ccoh": 0.7076923076923077,
+            "ccop": 0.00024615384615384614
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool",
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "4": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "7": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "8": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "9": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "10": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "11": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "12": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "14": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "15": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "16": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "17": [
+                "com.bs.sys.entity.Role"
+            ],
+            "18": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "19": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.service.IPermissionService",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "20": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "21": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "22": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "23": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "24": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "25": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "26": [
+                "com.bs.sys.service.IDeptService"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.1491096866096866,
+            "scoh": 0.22037037037037038,
+            "scop": 0.07126068376068377,
+            "CMQ": 0.7244478535076825,
+            "ccoh": 0.7246913580246913,
+            "ccop": 0.0002435045170087905
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "3": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.entity.Loginfo",
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "7": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "8": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "9": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "10": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "11": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "13": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "14": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "15": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "16": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "17": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "18": [
+                "com.bs.sys.entity.Role"
+            ],
+            "19": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "20": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "21": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "22": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "23": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "24": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "25": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "26": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "27": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.15657701352145792,
+            "scoh": 0.2095238095238095,
+            "scop": 0.05294679600235157,
+            "CMQ": 0.7521849892220263,
+            "ccoh": 0.7523809523809524,
+            "ccop": 0.0001959631589261219
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "2": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "3": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration",
+                "com.bs.sys.service.IUserService"
+            ],
+            "7": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "8": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "9": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "10": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "11": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "12": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "13": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "14": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "15": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "16": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "17": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.entity.Role"
+            ],
+            "19": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "20": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "21": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "22": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "23": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "24": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "25": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "26": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "27": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "28": [
+                "com.bs.sys.controller.LoginController"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 0.6335497835497836,
+            "CHD": 0.7171209047148897,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.1306102900930487,
+            "scoh": 0.18678160919540227,
+            "scop": 0.05617131910235358,
+            "CMQ": 0.7756618699798588,
+            "ccoh": 0.7758620689655172,
+            "ccop": 0.00020019898565847266
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "2": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "3": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "6": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "7": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "8": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "9": [
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.service.IUserService"
+            ],
+            "10": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "11": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "12": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "14": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "15": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "16": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "17": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.entity.Role"
+            ],
+            "19": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "20": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "21": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "22": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "23": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "24": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "25": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "26": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "27": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "28": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "29": [
+                "com.bs.sys.service.ILoginfoService"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.1412196679438059,
+            "scoh": 0.2,
+            "scop": 0.058780332056194116,
+            "CMQ": 0.7553705905667855,
+            "ccoh": 0.7555555555555554,
+            "ccop": 0.00018496498876998283
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "6": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "7": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "8": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "9": [
+                "com.bs.sys.entity.Dept",
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "10": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "11": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController",
+                "com.bs.sys.vo.UserVo"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "14": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "15": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "16": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "17": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "18": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "19": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "20": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "21": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "22": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "23": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "24": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "25": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "26": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "27": [
+                "com.bs.sys.entity.Role"
+            ],
+            "28": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "29": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "30": [
+                "com.bs.sys.service.INoticeService"
+            ]
+        }
+    },
+    "KMeans_31": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.10842293906810034,
+            "scoh": 0.1801075268817204,
+            "scop": 0.07168458781362007,
+            "CMQ": 0.8277951208232166,
+            "ccoh": 0.8279569892473119,
+            "ccop": 0.00016186842409527112
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "4": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "7": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "10": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "11": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "12": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "13": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "14": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "15": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "16": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "17": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "18": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.service.IRoleService",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "19": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "20": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "21": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "22": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "23": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "24": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "25": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "26": [
+                "com.bs.sys.entity.Role"
+            ],
+            "27": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "28": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "29": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "30": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "31": [
+                "com.bs.sys.vo.UserVo"
+            ]
+        }
+    },
+    "KMeans_32": {
+        "metrics": {
+            "CHM": 0.5621605667060213,
+            "CHD": 0.6730437697286639,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.10395665322580645,
+            "scoh": 0.1796875,
+            "scop": 0.07573084677419355,
+            "CMQ": 0.8175213536246966,
+            "ccoh": 0.8177083333333334,
+            "ccop": 0.00018697970863683664
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "3": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo",
+                "com.bs.sys.service.INoticeService"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "6": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "7": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "8": [
+                "com.bs.sys.controller.DeptController",
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "9": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "10": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "11": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "12": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "13": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "14": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "15": [
+                "com.bs.sys.entity.Role"
+            ],
+            "16": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "17": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "18": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "19": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "20": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "21": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "22": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "23": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "24": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "25": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "26": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "27": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "28": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "29": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "30": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "31": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "32": [
+                "com.bs.sys.service.IPermissionService"
+            ]
+        }
+    },
+    "KMeans_33": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.06889204545454543,
+            "scoh": 0.15656565656565655,
+            "scop": 0.08767361111111112,
+            "CMQ": 0.8584316173094582,
+            "ccoh": 0.8585858585858586,
+            "ccop": 0.0001542412764003673
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "4": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "6": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "7": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "8": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "9": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "10": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "11": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "12": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "13": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "14": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "15": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "16": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "17": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "19": [
+                "com.bs.sys.entity.Role"
+            ],
+            "20": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "21": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "22": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "23": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "24": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "25": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "26": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "27": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "28": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "29": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "30": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "31": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "32": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "33": [
+                "com.bs.sys.vo.DeptVo"
+            ]
+        }
+    },
+    "KMeans_34": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.06981580510992276,
+            "scoh": 0.1568627450980392,
+            "scop": 0.08704693998811645,
+            "CMQ": 0.8625862271662837,
+            "ccoh": 0.8627450980392156,
+            "ccop": 0.0001588708729318984
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "2": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "6": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "7": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "8": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "9": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "10": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "11": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "12": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "13": [
+                "com.bs.sys.controller.PermissionController",
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "14": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "15": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "16": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "17": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "18": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "19": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "20": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "21": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "22": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "23": [
+                "com.bs.sys.entity.Role"
+            ],
+            "24": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "25": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "26": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "27": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "28": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "29": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "30": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "31": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "32": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "33": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "34": [
+                "com.bs.sys.vo.UserVo"
+            ]
+        }
+    },
+    "KMeans_35": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.015406162464985981,
+            "scoh": 0.11904761904761903,
+            "scop": 0.10364145658263305,
+            "CMQ": 0.8950940376150459,
+            "ccoh": 0.8952380952380952,
+            "ccop": 0.0001440576230492197
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "2": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "7": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "10": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "11": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "12": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "13": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "14": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "15": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "16": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "17": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "18": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "19": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.common.ActiverUser",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "20": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "21": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "22": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "23": [
+                "com.bs.sys.entity.Role"
+            ],
+            "24": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "25": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "26": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "27": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "28": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "29": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "30": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "31": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "32": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "33": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "34": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "35": [
+                "com.bs.sys.controller.LoginfoController"
+            ]
+        }
+    },
+    "KMeans_36": {
+        "metrics": {
+            "CHM": 0.6335497835497836,
+            "CHD": 0.7171209047148897,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.0134920634920635,
+            "scoh": 0.12037037037037036,
+            "scop": 0.10687830687830686,
+            "CMQ": 0.8979994960947341,
+            "ccoh": 0.898148148148148,
+            "ccop": 0.00014865205341395816
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "2": [
+                "com.bs.sys.entity.Role"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "7": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "8": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "9": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "10": [
+                "com.bs.sys.cache.CacheAspect",
+                "com.bs.sys.cache.CachePool"
+            ],
+            "11": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "13": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "14": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "15": [
+                "com.bs.sys.controller.LoginfoController",
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "16": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "17": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "18": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "19": [
+                "com.bs.sys.controller.RoleController"
+            ],
+            "20": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "21": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "22": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "23": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "24": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "25": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "26": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "27": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "28": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "29": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "30": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "31": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "32": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "33": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "34": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "35": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "36": [
+                "com.bs.sys.vo.RoleVo"
+            ]
+        }
+    },
+    "KMeans_37": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": 0.015452952952952959,
+            "scoh": 0.11711711711711711,
+            "scop": 0.10166416416416416,
+            "CMQ": 0.9277949120291461,
+            "ccoh": 0.9279279279279278,
+            "ccop": 0.00013301589878166454
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "4": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "6": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.entity.Notice",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "7": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "10": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "11": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "13": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "14": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "15": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "16": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "17": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "18": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "19": [
+                "com.bs.sys.entity.Role"
+            ],
+            "20": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "21": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "22": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "23": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "24": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "25": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "26": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "27": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "28": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "29": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "30": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "31": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "32": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "33": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "34": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "35": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "36": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "37": [
+                "com.bs.sys.controller.LoginfoController"
+            ]
+        }
+    },
+    "KMeans_38": {
+        "metrics": {
+            "CHM": 0.584411787043366,
+            "CHD": 0.7087550526147018,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.021337126600284487,
+            "scoh": 0.11842105263157894,
+            "scop": 0.09708392603129445,
+            "CMQ": 0.9472490383623122,
+            "ccoh": 0.9473684210526315,
+            "ccop": 0.00011938269031927789
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "2": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "7": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "10": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "11": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "12": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "13": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "14": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "15": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "16": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "17": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "18": [
+                "com.bs.sys.entity.Role"
+            ],
+            "19": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "20": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "21": [
+                "com.bs.sys.controller.RoleController",
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "22": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "23": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "24": [
+                "com.bs.sys.entity.Notice"
+            ],
+            "25": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "26": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "27": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "28": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "29": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "30": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "31": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "32": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "33": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "34": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "35": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "36": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "37": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "38": [
+                "com.bs.sys.common.ActiverUser"
+            ]
+        }
+    },
+    "KMeans_39": {
+        "metrics": {
+            "CHM": 0.576948051948052,
+            "CHD": 0.6935278311218162,
+            "IFN": 1.0909090909090908,
+            "SMQ": -0.0021929824561403577,
+            "scoh": 0.10256410256410256,
+            "scop": 0.10475708502024292,
+            "CMQ": 0.9485977478732646,
+            "ccoh": 0.9487179487179487,
+            "ccop": 0.00012020084468411764
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "2": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "3": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "4": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "6": [
+                "com.bs.sys.entity.Notice"
+            ],
+            "7": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.realm.UserRealm",
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "10": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "11": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "12": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "13": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "14": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "15": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "16": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "17": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "18": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "19": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "20": [
+                "com.bs.sys.entity.Role"
+            ],
+            "21": [
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "22": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "23": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "24": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "25": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "26": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "27": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "28": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "29": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "30": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "31": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "32": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "33": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "34": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "35": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "36": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "37": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "38": [
+                "com.bs.sys.controller.RoleController"
+            ],
+            "39": [
+                "com.bs.sys.common.ActiverUser"
+            ]
+        }
+    },
+    "KMeans_40": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": -0.016025641025641038,
+            "scoh": 0.0875,
+            "scop": 0.10352564102564103,
+            "CMQ": 0.9748882314266929,
+            "ccoh": 0.975,
+            "ccop": 0.00011176857330703484
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "2": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "6": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "7": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo",
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "9": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "10": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "11": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "13": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "14": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "15": [
+                "com.bs.sys.entity.Role"
+            ],
+            "16": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "17": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.realm.UserRealm"
+            ],
+            "19": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "20": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "21": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "22": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "23": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "24": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "25": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "26": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "27": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "28": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "29": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "30": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "31": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "32": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "33": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "34": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "35": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "36": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "37": [
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "38": [
+                "com.bs.sys.entity.Notice"
+            ],
+            "39": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "40": [
+                "com.bs.sys.controller.RoleController"
+            ]
+        }
+    },
+    "KMeans_41": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": -0.03170731707317073,
+            "scoh": 0.07317073170731707,
+            "scop": 0.1048780487804878,
+            "CMQ": 0.9755071386079714,
+            "ccoh": 0.975609756097561,
+            "ccop": 0.00010261748958953005
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.realm.UserRealm"
+            ],
+            "2": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "3": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "4": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "6": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "7": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "8": [
+                "com.bs.sys.vo.UsersExcelVo"
+            ],
+            "9": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "10": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "11": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "12": [
+                "com.bs.sys.common.TreeNode",
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "13": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "14": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "15": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "16": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "17": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "18": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "19": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "20": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "21": [
+                "com.bs.sys.entity.Role"
+            ],
+            "22": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "23": [
+                "com.bs.sys.controller.RoleController"
+            ],
+            "24": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "25": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "26": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "27": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "28": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "29": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "30": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "31": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "32": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "33": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "34": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "35": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "36": [
+                "com.bs.sys.entity.Notice"
+            ],
+            "37": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "38": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "39": [
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "40": [
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "41": [
+                "com.bs.sys.common.UsersExcelParse"
+            ]
+        }
+    },
+    "KMeans_42": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": -0.042828106852497105,
+            "scoh": 0.05952380952380952,
+            "scop": 0.10235191637630663,
+            "CMQ": 0.9760960501591078,
+            "ccoh": 0.9761904761904762,
+            "ccop": 9.442603136832762e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "2": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "3": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "4": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "5": [
+                "com.bs.sys.common.TreeNode"
+            ],
+            "6": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "7": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "8": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "9": [
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "10": [
+                "com.bs.sys.mapper.RoleMapper",
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "11": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "12": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "13": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "14": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "15": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "16": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "17": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "18": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "19": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "20": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "21": [
+                "com.bs.sys.controller.RoleController"
+            ],
+            "22": [
+                "com.bs.sys.entity.Notice"
+            ],
+            "23": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "24": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "25": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "26": [
+                "com.bs.sys.entity.Role"
+            ],
+            "27": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "28": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "29": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "30": [
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "31": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "32": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "33": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "34": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "35": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "36": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "37": [
+                "com.bs.sys.realm.UserRealm"
+            ],
+            "38": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "39": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "40": [
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "41": [
+                "com.bs.sys.vo.UsersExcelVo"
+            ],
+            "42": [
+                "com.bs.sys.common.TreeNodeBuilder"
+            ]
+        }
+    },
+    "KMeans_43": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": -0.05218715393133998,
+            "scoh": 0.046511627906976744,
+            "scop": 0.09869878183831672,
+            "CMQ": 0.976649754908273,
+            "ccoh": 0.9767441860465116,
+            "ccop": 9.443113823860174e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "2": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController",
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "7": [
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "8": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "9": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "11": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "12": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "14": [
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "15": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "16": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "17": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "19": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "20": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "21": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "22": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "23": [
+                "com.bs.sys.entity.Role"
+            ],
+            "24": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "25": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "26": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "27": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "28": [
+                "com.bs.sys.realm.UserRealm"
+            ],
+            "29": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "30": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "31": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "32": [
+                "com.bs.sys.controller.RoleController"
+            ],
+            "33": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "34": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "35": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "36": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "37": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "38": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "39": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "40": [
+                "com.bs.sys.common.TreeNode"
+            ],
+            "41": [
+                "com.bs.sys.vo.UsersExcelVo"
+            ],
+            "42": [
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "43": [
+                "com.bs.sys.entity.Notice"
+            ]
+        }
+    },
+    "KMeans_44": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": -0.06871035940803383,
+            "scoh": 0.03409090909090909,
+            "scop": 0.10280126849894292,
+            "CMQ": 0.9771788637145833,
+            "ccoh": 0.9772727272727273,
+            "ccop": 9.386355814400459e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "2": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "7": [
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "8": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "9": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "11": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "12": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "14": [
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "15": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "16": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "17": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "19": [
+                "com.bs.sys.controller.MenuController",
+                "com.bs.sys.entity.Permission"
+            ],
+            "20": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "21": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "22": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "23": [
+                "com.bs.sys.entity.Role"
+            ],
+            "24": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "25": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "26": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "27": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "28": [
+                "com.bs.sys.realm.UserRealm"
+            ],
+            "29": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "30": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "31": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "32": [
+                "com.bs.sys.controller.RoleController"
+            ],
+            "33": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "34": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "35": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "36": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "37": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "38": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "39": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "40": [
+                "com.bs.sys.common.TreeNode"
+            ],
+            "41": [
+                "com.bs.sys.vo.UsersExcelVo"
+            ],
+            "42": [
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "43": [
+                "com.bs.sys.entity.Notice"
+            ],
+            "44": [
+                "com.bs.sys.vo.NoticeVo"
+            ]
+        }
+    },
+    "KMeans_45": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": -0.09015151515151515,
+            "scoh": 0.022222222222222223,
+            "scop": 0.11237373737373738,
+            "CMQ": 0.9999112335475971,
+            "ccoh": 1.0,
+            "ccop": 8.876645240281604e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "2": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "7": [
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "8": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "9": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "11": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "12": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "14": [
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "15": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "16": [
+                "com.bs.sys.entity.User",
+                "com.bs.sys.controller.UserController"
+            ],
+            "17": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "19": [
+                "com.bs.sys.controller.MenuController"
+            ],
+            "20": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "21": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "22": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "23": [
+                "com.bs.sys.entity.Role"
+            ],
+            "24": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "25": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "26": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "27": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "28": [
+                "com.bs.sys.realm.UserRealm"
+            ],
+            "29": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "30": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "31": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "32": [
+                "com.bs.sys.controller.RoleController"
+            ],
+            "33": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "34": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "35": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "36": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "37": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "38": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "39": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "40": [
+                "com.bs.sys.common.TreeNode"
+            ],
+            "41": [
+                "com.bs.sys.vo.UsersExcelVo"
+            ],
+            "42": [
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "43": [
+                "com.bs.sys.entity.Notice"
+            ],
+            "44": [
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "45": [
+                "com.bs.sys.entity.Permission"
+            ]
+        }
+    },
+    "KMeans_46": {
+        "metrics": {
+            "CHM": 0.6196428571428573,
+            "CHD": 0.6684719404330933,
+            "IFN": 1.0,
+            "SMQ": -0.1277777777777778,
+            "scoh": 0.010869565217391304,
+            "scop": 0.1386473429951691,
+            "CMQ": 0.9999141170155663,
+            "ccoh": 1.0,
+            "ccop": 8.588298443370907e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.bs.sys.common.TreeNodeBuilder"
+            ],
+            "2": [
+                "com.bs.sys.service.IUserService"
+            ],
+            "3": [
+                "com.bs.sys.mapper.PermissionMapper",
+                "com.bs.sys.service.impl.PermissionServiceImpl"
+            ],
+            "4": [
+                "com.bs.sys.controller.NoticeController"
+            ],
+            "5": [
+                "com.bs.sys.mapper.RoleMapper"
+            ],
+            "6": [
+                "com.bs.sys.controller.LoginfoController"
+            ],
+            "7": [
+                "com.bs.sys.common.UsersExcelParse"
+            ],
+            "8": [
+                "com.bs.sys.controller.PermissionController"
+            ],
+            "9": [
+                "com.bs.sys.cache.CachePool"
+            ],
+            "10": [
+                "com.bs.sys.common.ResultObj"
+            ],
+            "11": [
+                "com.bs.sys.entity.Dept"
+            ],
+            "12": [
+                "com.bs.sys.common.CacheBean"
+            ],
+            "13": [
+                "com.bs.sys.controller.LoginController"
+            ],
+            "14": [
+                "com.bs.sys.vo.RoleVo"
+            ],
+            "15": [
+                "com.bs.sys.vo.DeptVo"
+            ],
+            "16": [
+                "com.bs.sys.entity.User"
+            ],
+            "17": [
+                "com.bs.sys.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.bs.sys.config.ShiroAutoConfiguration"
+            ],
+            "19": [
+                "com.bs.sys.controller.MenuController"
+            ],
+            "20": [
+                "com.bs.sys.service.IDeptService"
+            ],
+            "21": [
+                "com.bs.sys.common.DataGridView"
+            ],
+            "22": [
+                "com.bs.sys.service.impl.DeptServiceImpl"
+            ],
+            "23": [
+                "com.bs.sys.entity.Role"
+            ],
+            "24": [
+                "com.bs.sys.entity.Loginfo"
+            ],
+            "25": [
+                "com.bs.sys.mapper.UserMapper"
+            ],
+            "26": [
+                "com.bs.sys.service.IPermissionService"
+            ],
+            "27": [
+                "com.bs.sys.controller.CacheController"
+            ],
+            "28": [
+                "com.bs.sys.realm.UserRealm"
+            ],
+            "29": [
+                "com.bs.sys.vo.UserVo"
+            ],
+            "30": [
+                "com.bs.sys.mapper.DeptMapper"
+            ],
+            "31": [
+                "com.bs.sys.service.ILoginfoService"
+            ],
+            "32": [
+                "com.bs.sys.controller.RoleController"
+            ],
+            "33": [
+                "com.bs.sys.vo.PermissionVo"
+            ],
+            "34": [
+                "com.bs.sys.vo.LoginfoVo"
+            ],
+            "35": [
+                "com.bs.sys.controller.DeptController"
+            ],
+            "36": [
+                "com.bs.sys.service.INoticeService"
+            ],
+            "37": [
+                "com.bs.sys.service.IRoleService"
+            ],
+            "38": [
+                "com.bs.sys.cache.CacheAspect"
+            ],
+            "39": [
+                "com.bs.sys.common.ActiverUser"
+            ],
+            "40": [
+                "com.bs.sys.common.TreeNode"
+            ],
+            "41": [
+                "com.bs.sys.vo.UsersExcelVo"
+            ],
+            "42": [
+                "com.bs.sys.service.impl.RoleServiceImpl"
+            ],
+            "43": [
+                "com.bs.sys.entity.Notice"
+            ],
+            "44": [
+                "com.bs.sys.vo.NoticeVo"
+            ],
+            "45": [
+                "com.bs.sys.entity.Permission"
+            ],
+            "46": [
+                "com.bs.sys.controller.UserController"
+            ]
+        }
+    }
+}

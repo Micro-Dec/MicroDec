@@ -1,0 +1,2525 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.9375,
+            "CHD": 0.9226190476190476,
+            "IFN": 1.25,
+            "SMQ": -0.07490675990675993,
+            "scoh": 0.23126207126207127,
+            "scop": 0.3061688311688312,
+            "CMQ": 0.5210123210123211,
+            "ccoh": 0.5410123210123211,
+            "ccop": 0.02
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.dao.ChatLogDao",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.model.LoginAndSession",
+                "com.tan.dao.ChatLogMapper",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1",
+                "com.tan.controller.ChatLogController2",
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "2": [
+                "com.tan.model.Users",
+                "com.tan.controller.UsersController",
+                "com.tan.dao.CopyOfUserMapper",
+                "com.tan.controller.UserController",
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo",
+                "com.tan.service.UserService",
+                "com.tan.dao.CopyOfUserDao",
+                "com.tan.dao.UserDao",
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "3": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "5": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.012454906204906246,
+            "scoh": 0.2574314574314574,
+            "scop": 0.26988636363636365,
+            "CMQ": 0.5552453102453103,
+            "ccoh": 0.5685786435786436,
+            "ccop": 0.013333333333333334
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.dao.ChatLogDao",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.model.LoginAndSession",
+                "com.tan.dao.ChatLogMapper",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1",
+                "com.tan.controller.ChatLogController2",
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "2": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper",
+                "com.tan.controller.UserController",
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.service.UserService",
+                "com.tan.dao.CopyOfUserDao",
+                "com.tan.dao.UserDao"
+            ],
+            "3": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo",
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "6": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.029322562358276627,
+            "scoh": 0.22426303854875282,
+            "scop": 0.1949404761904762,
+            "CMQ": 0.6214285714285713,
+            "ccoh": 0.6304988662131519,
+            "ccop": 0.009070294784580499
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo",
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "2": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "3": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.dao.ChatLogDao",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.model.LoginAndSession",
+                "com.tan.dao.ChatLogMapper",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1",
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper",
+                "com.tan.controller.UserController",
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.service.UserService",
+                "com.tan.dao.CopyOfUserDao",
+                "com.tan.dao.UserDao"
+            ],
+            "6": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "7": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.05220734126984122,
+            "scoh": 0.20039682539682538,
+            "scop": 0.14818948412698416,
+            "CMQ": 0.6711167800453514,
+            "ccoh": 0.6787698412698412,
+            "ccop": 0.007653061224489796
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper",
+                "com.tan.controller.UserController",
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.service.UserService",
+                "com.tan.dao.CopyOfUserDao",
+                "com.tan.dao.UserDao"
+            ],
+            "2": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "3": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.dao.ChatLogDao",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.model.LoginAndSession",
+                "com.tan.dao.ChatLogMapper",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo",
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogControllerOK"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.08950617283950621,
+            "scoh": 0.2246913580246914,
+            "scop": 0.13518518518518519,
+            "CMQ": 0.6398148148148147,
+            "ccoh": 0.6475308641975308,
+            "ccop": 0.00771604938271605
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo",
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "2": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.dao.ChatLogDao",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.model.LoginAndSession",
+                "com.tan.dao.ChatLogMapper",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1"
+            ],
+            "3": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper",
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "6": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "7": [
+                "com.tan.controller.UserController",
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.08530864197530863,
+            "scoh": 0.24,
+            "scop": 0.15469135802469136,
+            "CMQ": 0.6435802469135802,
+            "ccoh": 0.6499999999999999,
+            "ccop": 0.006419753086419753
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.UserController",
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "2": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.model.LoginAndSession"
+            ],
+            "3": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo",
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "6": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper",
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "9": [
+                "com.tan.model.ChatLog",
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1"
+            ],
+            "10": [
+                "com.tan.controller.ChatLogControllerOK"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.10531313131313134,
+            "scoh": 0.2095959595959596,
+            "scop": 0.10428282828282827,
+            "CMQ": 0.7753076216712581,
+            "ccoh": 0.7782828282828284,
+            "ccop": 0.0029752066115702478
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "2": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "3": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.dao.ChatLogDao",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.model.LoginAndSession",
+                "com.tan.dao.ChatLogMapper",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1"
+            ],
+            "4": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "5": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper",
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "6": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "9": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "10": [
+                "com.tan.controller.UserController"
+            ],
+            "11": [
+                "com.tan.dao.UserInfoMapper"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.1473484848484849,
+            "scoh": 0.2569444444444445,
+            "scop": 0.1095959595959596,
+            "CMQ": 0.6437786960514232,
+            "ccoh": 0.6472222222222221,
+            "ccop": 0.003443526170798898
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "2": [
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "3": [
+                "com.tan.model.ChatLog",
+                "com.tan.dao.ChatLogDao",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.dao.ChatLogMapper",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1"
+            ],
+            "4": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "7": [
+                "com.tan.controller.UserController",
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "10": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "11": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "12": [
+                "com.tan.dao.UserInfoMapper"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.10826923076923078,
+            "scoh": 0.2435897435897436,
+            "scop": 0.13532051282051283,
+            "CMQ": 0.7951347797501644,
+            "ccoh": 0.7974358974358975,
+            "ccop": 0.0023011176857330702
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "2": [
+                "com.tan.controller.UserController"
+            ],
+            "3": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "8": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper",
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "10": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "11": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "12": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1"
+            ],
+            "13": [
+                "com.tan.dao.UserInfoMapper"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.14294871794871794,
+            "scoh": 0.2642857142857143,
+            "scop": 0.12133699633699635,
+            "CMQ": 0.7669947268848367,
+            "ccoh": 0.769047619047619,
+            "ccop": 0.0020528921627822726
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.dao.UserInfoDao",
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "2": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "3": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "9": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "10": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1"
+            ],
+            "11": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "12": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "13": [
+                "com.tan.controller.UserController"
+            ],
+            "14": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.13349206349206355,
+            "scoh": 0.25777777777777783,
+            "scop": 0.12428571428571429,
+            "CMQ": 0.7825396825396826,
+            "ccoh": 0.7844444444444445,
+            "ccop": 0.0019047619047619048
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "2": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.controller.ChatLogController20160616ok",
+                "com.tan.controller.ChatLogController1"
+            ],
+            "3": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "4": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "7": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "9": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "10": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "11": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "12": [
+                "com.tan.controller.UserController"
+            ],
+            "13": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "14": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "15": [
+                "com.tan.dao.UserInfoDao"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.12226851851851851,
+            "scoh": 0.246875,
+            "scop": 0.1246064814814815,
+            "CMQ": 0.7962499999999999,
+            "ccoh": 0.7979166666666666,
+            "ccop": 0.0016666666666666668
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity",
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "2": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "3": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "4": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "5": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "6": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "7": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "8": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "9": [
+                "com.tan.controller.UserController"
+            ],
+            "10": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "11": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "12": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "13": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "14": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "15": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "16": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.controller.ChatLogController20160616ok"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.146609477124183,
+            "scoh": 0.26666666666666666,
+            "scop": 0.12005718954248365,
+            "CMQ": 0.8475057670126874,
+            "ccoh": 0.8490196078431372,
+            "ccop": 0.001513840830449827
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "2": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "3": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "4": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "7": [
+                "com.tan.controller.UserController"
+            ],
+            "8": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "10": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "11": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "12": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "13": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "14": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "15": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160614",
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "16": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "17": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.10637254901960783,
+            "scoh": 0.2611111111111111,
+            "scop": 0.1547385620915033,
+            "CMQ": 0.855997693194925,
+            "ccoh": 0.8574074074074074,
+            "ccop": 0.0014097142124823785
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "2": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "3": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "5": [
+                "com.tan.controller.UsersController",
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "6": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "9": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "10": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "11": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "12": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "13": [
+                "com.tan.controller.UserController"
+            ],
+            "14": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "15": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "16": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "17": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "18": [
+                "com.tan.controller.ChatLogController20160614"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.09173976608187134,
+            "scoh": 0.25,
+            "scop": 0.15826023391812866,
+            "CMQ": 0.858383776204644,
+            "ccoh": 0.8596491228070174,
+            "ccop": 0.0012653466023733798
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "2": [
+                "com.tan.controller.UsersController"
+            ],
+            "3": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "4": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "9": [
+                "com.tan.model.Users",
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "10": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "11": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "12": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "13": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "14": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "15": [
+                "com.tan.controller.UserController"
+            ],
+            "16": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "17": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "18": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "19": [
+                "com.tan.controller.ChatLogController1"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.07006578947368419,
+            "scoh": 0.2125,
+            "scop": 0.1424342105263158,
+            "CMQ": 0.9155863342566943,
+            "ccoh": 0.9166666666666666,
+            "ccop": 0.0010803324099722992
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "2": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "3": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "4": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "8": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "10": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "11": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "12": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "13": [
+                "com.tan.controller.UserController"
+            ],
+            "14": [
+                "com.tan.controller.UsersController"
+            ],
+            "15": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "16": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "17": [
+                "com.tan.model.Users"
+            ],
+            "18": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "19": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "20": [
+                "com.tan.controller.ChatLogController20160614"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.03859126984126984,
+            "scoh": 0.21031746031746032,
+            "scop": 0.17172619047619048,
+            "CMQ": 0.9037414965986394,
+            "ccoh": 0.9047619047619048,
+            "ccop": 0.001020408163265306
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "2": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "3": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "9": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "10": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "11": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "12": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "13": [
+                "com.tan.controller.UserController"
+            ],
+            "14": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "15": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "16": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "17": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "18": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "19": [
+                "com.tan.model.Users"
+            ],
+            "20": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "21": [
+                "com.tan.controller.UsersController"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": 0.0753968253968254,
+            "scoh": 0.21969696969696972,
+            "scop": 0.14430014430014432,
+            "CMQ": 0.968797436329904,
+            "ccoh": 0.9696969696969698,
+            "ccop": 0.0008995333670658346
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.model.UserInfo"
+            ],
+            "2": [
+                "com.tan.model.ChatLog",
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "3": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "4": [
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogController",
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "10": [
+                "com.tan.model.Users"
+            ],
+            "11": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "12": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "13": [
+                "com.tan.controller.UserController"
+            ],
+            "14": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "15": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "16": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip"
+            ],
+            "17": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "18": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn"
+            ],
+            "19": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "20": [
+                "com.tan.controller.UsersController"
+            ],
+            "21": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "22": [
+                "com.tan.controller.ChatLogController20160614"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.05212450592885376,
+            "scoh": 0.17391304347826086,
+            "scop": 0.22603754940711462,
+            "CMQ": 0.9194462237081242,
+            "ccoh": 0.9202898550724636,
+            "ccop": 0.0008436313643393898
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.model.ChatLog"
+            ],
+            "2": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn",
+                "com.tan.model.UserInfo"
+            ],
+            "3": [
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.model.Users"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "9": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "10": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "11": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "12": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "13": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "14": [
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "15": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "16": [
+                "com.tan.controller.UserController"
+            ],
+            "17": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "18": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "19": [
+                "com.tan.controller.UsersController"
+            ],
+            "20": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "22": [
+                "com.tan.controller.FriendShipController"
+            ],
+            "23": [
+                "com.tan.controller.ChatLogController"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.03336352657004832,
+            "scoh": 0.1875,
+            "scop": 0.22086352657004832,
+            "CMQ": 0.9575588111741231,
+            "ccoh": 0.9583333333333334,
+            "ccop": 0.00077452215921025
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "2": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "3": [
+                "com.tan.model.Users"
+            ],
+            "4": [
+                "com.tan.controller.FriendShipController",
+                "com.tan.model.FriendShip"
+            ],
+            "5": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "6": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "10": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "11": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "12": [
+                "com.tan.controller.ChatLogController20160615",
+                "com.tan.model.LoginAndSession"
+            ],
+            "13": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "14": [
+                "com.tan.controller.UserController"
+            ],
+            "15": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "16": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "17": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "18": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "19": [
+                "com.tan.controller.UsersController"
+            ],
+            "20": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "21": [
+                "com.tan.model.ChatLog"
+            ],
+            "22": [
+                "com.tan.model.UserInfo"
+            ],
+            "23": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "24": [
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.12527777777777782,
+            "scoh": 0.14,
+            "scop": 0.26527777777777783,
+            "CMQ": 0.9860333333333332,
+            "ccoh": 0.9866666666666666,
+            "ccop": 0.0006333333333333333
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.model.ChatLog"
+            ],
+            "2": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn"
+            ],
+            "3": [
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "4": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "5": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "6": [
+                "com.tan.model.Users"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "9": [
+                "com.tan.controller.UserController"
+            ],
+            "10": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "11": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "12": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "13": [
+                "com.tan.dao.UserMapper",
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "14": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "15": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "16": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "17": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "18": [
+                "com.tan.controller.UsersController"
+            ],
+            "19": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "20": [
+                "com.tan.model.UserInfo"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "22": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "23": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "24": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "25": [
+                "com.tan.controller.FriendShipController"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.13397435897435894,
+            "scoh": 0.11538461538461539,
+            "scop": 0.24935897435897433,
+            "CMQ": 0.9865925049309664,
+            "ccoh": 0.9871794871794871,
+            "ccop": 0.0005869822485207101
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.FriendShipController"
+            ],
+            "2": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "3": [
+                "com.tan.model.ChatLog"
+            ],
+            "4": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn"
+            ],
+            "7": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "10": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "11": [
+                "com.tan.dao.UserMapper"
+            ],
+            "12": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "13": [
+                "com.tan.controller.UserController"
+            ],
+            "14": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "15": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "16": [
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao",
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "17": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "18": [
+                "com.tan.controller.UsersController"
+            ],
+            "19": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "20": [
+                "com.tan.model.Users"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "22": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "23": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "24": [
+                "com.tan.model.UserInfo"
+            ],
+            "25": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "26": [
+                "com.tan.dao.CopyOfUserDao"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.1276115859449193,
+            "scoh": 0.1111111111111111,
+            "scop": 0.23872269705603041,
+            "CMQ": 0.9624516034772445,
+            "ccoh": 0.9629629629629629,
+            "ccop": 0.0005113594857184601
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "2": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "3": [
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao"
+            ],
+            "4": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "5": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "6": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn"
+            ],
+            "7": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "8": [
+                "com.tan.dao.UserMapper"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "10": [
+                "com.tan.service.UserService",
+                "com.tan.dao.UserDao"
+            ],
+            "11": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "12": [
+                "com.tan.controller.UserController"
+            ],
+            "13": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "14": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "15": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "16": [
+                "com.tan.model.ChatLog"
+            ],
+            "17": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "18": [
+                "com.tan.model.Users"
+            ],
+            "19": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "20": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "22": [
+                "com.tan.controller.UsersController"
+            ],
+            "23": [
+                "com.tan.model.UserInfo"
+            ],
+            "24": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "25": [
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "26": [
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "27": [
+                "com.tan.controller.FriendShipController"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.13833774250440917,
+            "scoh": 0.08928571428571429,
+            "scop": 0.22762345679012347,
+            "CMQ": 0.9638028050726464,
+            "ccoh": 0.9642857142857143,
+            "ccop": 0.0004829092130679432
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "2": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "3": [
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao"
+            ],
+            "4": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "5": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "6": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn"
+            ],
+            "7": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "8": [
+                "com.tan.dao.UserMapper"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "10": [
+                "com.tan.dao.UserDao"
+            ],
+            "11": [
+                "com.tan.dao.ChatLogDao",
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "12": [
+                "com.tan.controller.UserController"
+            ],
+            "13": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "14": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "15": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "16": [
+                "com.tan.model.ChatLog"
+            ],
+            "17": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "18": [
+                "com.tan.model.Users"
+            ],
+            "19": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "20": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "22": [
+                "com.tan.controller.UsersController"
+            ],
+            "23": [
+                "com.tan.model.UserInfo"
+            ],
+            "24": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "25": [
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "26": [
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "27": [
+                "com.tan.controller.FriendShipController"
+            ],
+            "28": [
+                "com.tan.service.UserService"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.16512725779967158,
+            "scoh": 0.06896551724137931,
+            "scop": 0.2340927750410509,
+            "CMQ": 0.9650804435924192,
+            "ccoh": 0.9655172413793104,
+            "ccop": 0.0004367977868912131
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "2": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "3": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "4": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "6": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn"
+            ],
+            "7": [
+                "com.tan.service.UserService"
+            ],
+            "8": [
+                "com.tan.model.ChatLog"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "10": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "11": [
+                "com.tan.model.Users"
+            ],
+            "12": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "13": [
+                "com.tan.dao.UserMapper"
+            ],
+            "14": [
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "15": [
+                "com.tan.controller.UserController"
+            ],
+            "16": [
+                "com.tan.controller.FriendShipController"
+            ],
+            "17": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "18": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "19": [
+                "com.tan.controller.UsersController"
+            ],
+            "20": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "22": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "23": [
+                "com.tan.model.UserInfo"
+            ],
+            "24": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "25": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "26": [
+                "com.tan.model.FriendShip",
+                "com.tan.dao.FriendShipDao"
+            ],
+            "27": [
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "28": [
+                "com.tan.dao.UserDao"
+            ],
+            "29": [
+                "com.tan.dao.ChatLogDao"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.18400383141762455,
+            "scoh": 0.05,
+            "scop": 0.23400383141762454,
+            "CMQ": 0.9995983617386709,
+            "ccoh": 1.0,
+            "ccop": 0.00040163826132910555
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.UserController"
+            ],
+            "2": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "3": [
+                "com.tan.model.FriendShip"
+            ],
+            "4": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "5": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper",
+                "com.tan.model.UserSignIn"
+            ],
+            "6": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "7": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "8": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "9": [
+                "com.tan.dao.UserMapper"
+            ],
+            "10": [
+                "com.tan.service.UserService"
+            ],
+            "11": [
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "12": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "13": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "14": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "15": [
+                "com.tan.model.Users"
+            ],
+            "16": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "17": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "18": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "19": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "20": [
+                "com.tan.controller.UsersController"
+            ],
+            "21": [
+                "com.tan.model.ChatLog"
+            ],
+            "22": [
+                "com.tan.model.UserInfo"
+            ],
+            "23": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "24": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "25": [
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "26": [
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "27": [
+                "com.tan.controller.FriendShipController"
+            ],
+            "28": [
+                "com.tan.dao.UserDao"
+            ],
+            "29": [
+                "com.tan.dao.ChatLogDao"
+            ],
+            "30": [
+                "com.tan.dao.FriendShipDao"
+            ]
+        }
+    },
+    "KMeans_31": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.1814516129032258,
+            "scoh": 0.04838709677419355,
+            "scop": 0.22983870967741934,
+            "CMQ": 0.9996346398427564,
+            "ccoh": 1.0,
+            "ccop": 0.00036536015724361197
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "2": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "3": [
+                "com.tan.model.FriendShip"
+            ],
+            "4": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "5": [
+                "com.tan.dao.ActivityDao",
+                "com.tan.dao.ActivityMapper"
+            ],
+            "6": [
+                "com.tan.model.UserSignIn"
+            ],
+            "7": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "8": [
+                "com.tan.dao.UserMapper"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "10": [
+                "com.tan.dao.UserDao"
+            ],
+            "11": [
+                "com.tan.dao.ChatLogDao"
+            ],
+            "12": [
+                "com.tan.controller.UserController"
+            ],
+            "13": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "14": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "15": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "16": [
+                "com.tan.model.ChatLog"
+            ],
+            "17": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "18": [
+                "com.tan.model.Users"
+            ],
+            "19": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "20": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "22": [
+                "com.tan.controller.UsersController"
+            ],
+            "23": [
+                "com.tan.model.UserInfo"
+            ],
+            "24": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "25": [
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "26": [
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "27": [
+                "com.tan.controller.FriendShipController"
+            ],
+            "28": [
+                "com.tan.service.UserService"
+            ],
+            "29": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper"
+            ],
+            "30": [
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "31": [
+                "com.tan.dao.FriendShipDao"
+            ]
+        }
+    },
+    "KMeans_32": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.19153225806451613,
+            "scoh": 0.03125,
+            "scop": 0.22278225806451613,
+            "CMQ": 0.9996748178980229,
+            "ccoh": 1.0,
+            "ccop": 0.0003251821019771072
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "2": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "3": [
+                "com.tan.model.FriendShip"
+            ],
+            "4": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "5": [
+                "com.tan.dao.ActivityDao"
+            ],
+            "6": [
+                "com.tan.model.UserSignIn"
+            ],
+            "7": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "8": [
+                "com.tan.dao.UserMapper"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "10": [
+                "com.tan.dao.UserDao"
+            ],
+            "11": [
+                "com.tan.dao.ChatLogDao"
+            ],
+            "12": [
+                "com.tan.controller.UserController"
+            ],
+            "13": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "14": [
+                "com.tan.controller.ActivityController",
+                "com.tan.model.Activity"
+            ],
+            "15": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "16": [
+                "com.tan.model.ChatLog"
+            ],
+            "17": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "18": [
+                "com.tan.model.Users"
+            ],
+            "19": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "20": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "22": [
+                "com.tan.controller.UsersController"
+            ],
+            "23": [
+                "com.tan.model.UserInfo"
+            ],
+            "24": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "25": [
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "26": [
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "27": [
+                "com.tan.controller.FriendShipController"
+            ],
+            "28": [
+                "com.tan.service.UserService"
+            ],
+            "29": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper"
+            ],
+            "30": [
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "31": [
+                "com.tan.dao.FriendShipDao"
+            ],
+            "32": [
+                "com.tan.dao.ActivityMapper"
+            ]
+        }
+    },
+    "KMeans_33": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.938095238095238,
+            "IFN": 1.0,
+            "SMQ": -0.2050189393939394,
+            "scoh": 0.015151515151515152,
+            "scop": 0.22017045454545456,
+            "CMQ": 0.9997094524793388,
+            "ccoh": 1.0,
+            "ccop": 0.00029054752066115703
+        },
+        "named_clusters": {
+            "1": [
+                "com.tan.controller.ChatLogController2"
+            ],
+            "2": [
+                "com.tan.dao.CopyOfUserMapper"
+            ],
+            "3": [
+                "com.tan.model.FriendShip"
+            ],
+            "4": [
+                "com.tan.controller.ChatLogController"
+            ],
+            "5": [
+                "com.tan.dao.ActivityDao"
+            ],
+            "6": [
+                "com.tan.model.UserSignIn"
+            ],
+            "7": [
+                "com.tan.dao.GetSqlSessionFactory"
+            ],
+            "8": [
+                "com.tan.dao.UserMapper"
+            ],
+            "9": [
+                "com.tan.controller.ChatLogControllerOK"
+            ],
+            "10": [
+                "com.tan.dao.UserDao"
+            ],
+            "11": [
+                "com.tan.dao.ChatLogDao"
+            ],
+            "12": [
+                "com.tan.controller.UserController"
+            ],
+            "13": [
+                "com.tan.dao.UserInfoMapper"
+            ],
+            "14": [
+                "com.tan.controller.ActivityController"
+            ],
+            "15": [
+                "com.tan.controller.ChatLogController1"
+            ],
+            "16": [
+                "com.tan.model.ChatLog"
+            ],
+            "17": [
+                "com.tan.dao.UserInfoDao"
+            ],
+            "18": [
+                "com.tan.model.Users"
+            ],
+            "19": [
+                "com.tan.model.LoginAndSession"
+            ],
+            "20": [
+                "com.tan.controller.ChatLogController20160616ok"
+            ],
+            "21": [
+                "com.tan.controller.ChatLogController20160614"
+            ],
+            "22": [
+                "com.tan.controller.UsersController"
+            ],
+            "23": [
+                "com.tan.model.UserInfo"
+            ],
+            "24": [
+                "com.tan.controller.ChatLogController20160615"
+            ],
+            "25": [
+                "com.tan.dao.FriendShipMapper"
+            ],
+            "26": [
+                "com.tan.dao.CopyOfUserDao"
+            ],
+            "27": [
+                "com.tan.controller.FriendShipController"
+            ],
+            "28": [
+                "com.tan.service.UserService"
+            ],
+            "29": [
+                "com.tan.dao.UserSignInDao",
+                "com.tan.dao.UserSignInMapper"
+            ],
+            "30": [
+                "com.tan.dao.ChatLogMapper"
+            ],
+            "31": [
+                "com.tan.dao.FriendShipDao"
+            ],
+            "32": [
+                "com.tan.dao.ActivityMapper"
+            ],
+            "33": [
+                "com.tan.model.Activity"
+            ]
+        }
+    }
+}

@@ -1,0 +1,3137 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.8690476190476191,
+            "CHD": 0.40740740740740744,
+            "IFN": 1.5,
+            "SMQ": 0.24783549783549783,
+            "scoh": 0.24783549783549783,
+            "scop": 0.0,
+            "CMQ": 0.7655411255411255,
+            "ccoh": 0.7655411255411255,
+            "ccop": 0.0
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.controller.web.admin.AdminController",
+                "com.riddlin.app.domain.account.AccountUtils",
+                "com.riddlin.app.controller.web.account.ProfileForm",
+                "com.riddlin.app.domain.system.CounterService",
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "2": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController",
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl",
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.8740740740740741,
+            "CHD": 0.41111111111111115,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.27976190476190477,
+            "scoh": 0.27976190476190477,
+            "scop": 0.0,
+            "CMQ": 0.7693650793650794,
+            "ccoh": 0.7738095238095238,
+            "ccop": 0.0044444444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "2": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.controller.web.admin.AdminController",
+                "com.riddlin.app.domain.account.AccountUtils",
+                "com.riddlin.app.controller.web.account.ProfileForm",
+                "com.riddlin.app.domain.system.CounterService",
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl",
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.8740740740740741,
+            "CHD": 0.41111111111111115,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.31340852130325814,
+            "scoh": 0.3140350877192982,
+            "scop": 0.0006265664160401002,
+            "CMQ": 0.8098460436806302,
+            "ccoh": 0.8121136173767753,
+            "ccop": 0.0022675736961451248
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "2": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.controller.web.admin.AdminController",
+                "com.riddlin.app.domain.account.AccountUtils",
+                "com.riddlin.app.controller.web.account.ProfileForm",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl",
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.8740740740740741,
+            "CHD": 0.41111111111111115,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.3116071428571429,
+            "scoh": 0.3190476190476191,
+            "scop": 0.007440476190476191,
+            "CMQ": 0.7807823129251701,
+            "ccoh": 0.7833333333333333,
+            "ccop": 0.002551020408163265
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.controller.web.admin.AdminController",
+                "com.riddlin.app.domain.account.AccountUtils",
+                "com.riddlin.app.controller.web.account.ProfileForm",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl",
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.8740740740740741,
+            "CHD": 0.41111111111111115,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.3555886243386243,
+            "scoh": 0.36137566137566135,
+            "scop": 0.005787037037037038,
+            "CMQ": 0.8021604938271605,
+            "ccoh": 0.8037037037037037,
+            "ccop": 0.0015432098765432098
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "6": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.controller.web.admin.AdminController",
+                "com.riddlin.app.domain.account.AccountUtils",
+                "com.riddlin.app.controller.web.account.ProfileForm",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.8699999999999999,
+            "CHD": 0.47000000000000003,
+            "IFN": 1.2,
+            "SMQ": 0.3321666666666666,
+            "scoh": 0.34388888888888886,
+            "scop": 0.01172222222222222,
+            "CMQ": 0.764074074074074,
+            "ccoh": 0.7655555555555555,
+            "ccop": 0.0014814814814814814
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "2": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "3": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "4": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "5": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "6": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "7": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.domain.account.AccountUtils",
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "9": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.controller.web.admin.AdminController",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "10": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.9199999999999999,
+            "CHD": 0.47000000000000003,
+            "IFN": 1.2,
+            "SMQ": 0.30080808080808075,
+            "scoh": 0.3217171717171717,
+            "scop": 0.02090909090909091,
+            "CMQ": 0.7828466483011937,
+            "ccoh": 0.7838383838383838,
+            "ccop": 0.0009917355371900827
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "2": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "3": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "4": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "10": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.domain.account.AccountUtils",
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "11": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.8699999999999999,
+            "CHD": 0.47000000000000003,
+            "IFN": 1.2,
+            "SMQ": 0.3192550505050505,
+            "scoh": 0.3423611111111111,
+            "scop": 0.023106060606060606,
+            "CMQ": 0.7953818487909398,
+            "ccoh": 0.7967592592592593,
+            "ccop": 0.0013774104683195593
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "2": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.controller.web.admin.AdminController",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "5": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "10": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "11": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "12": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.9199999999999999,
+            "CHD": 0.47000000000000003,
+            "IFN": 1.2,
+            "SMQ": 0.29558404558404566,
+            "scoh": 0.3237179487179488,
+            "scop": 0.028133903133903137,
+            "CMQ": 0.8088428665351742,
+            "ccoh": 0.8098290598290598,
+            "ccop": 0.0009861932938856016
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "10": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "13": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.9733333333333334,
+            "CHD": 0.5466666666666666,
+            "IFN": 1.2,
+            "SMQ": 0.29319291819291826,
+            "scoh": 0.3162698412698413,
+            "scop": 0.023076923076923078,
+            "CMQ": 0.8167357672852178,
+            "ccoh": 0.8174603174603174,
+            "ccop": 0.0007245501750996257
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.controller.web.AutoConnectionSignUp",
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "13": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.9727272727272727,
+            "CHD": 0.6090909090909091,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.28962585034013605,
+            "scoh": 0.326984126984127,
+            "scop": 0.037358276643990926,
+            "CMQ": 0.8550113378684808,
+            "ccoh": 0.8555555555555556,
+            "ccop": 0.0005442176870748299
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.controller.web.task.TaskController",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "12": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.controller.web.AbstractPageController",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "15": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.9199999999999999,
+            "CHD": 0.47000000000000003,
+            "IFN": 1.2,
+            "SMQ": 0.2330419146825397,
+            "scoh": 0.2697172619047619,
+            "scop": 0.036675347222222224,
+            "CMQ": 0.7977380952380952,
+            "ccoh": 0.7983630952380952,
+            "ccop": 0.000625
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl",
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "11": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "12": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.9727272727272727,
+            "CHD": 0.6090909090909091,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.2509628851540616,
+            "scoh": 0.2934173669467787,
+            "scop": 0.042454481792717096,
+            "CMQ": 0.8230428200692042,
+            "ccoh": 0.8235294117647058,
+            "ccop": 0.00048659169550173013
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "12": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "14": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4333333333333334,
+            "IFN": 1.2,
+            "SMQ": 0.2374727668845316,
+            "scoh": 0.28174603174603174,
+            "scop": 0.04427326486150016,
+            "CMQ": 0.8143021914648212,
+            "ccoh": 0.8148148148148148,
+            "ccop": 0.0005126233499935922
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "14": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "16": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "17": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "18": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository",
+                "com.riddlin.app.domain.system.CounterService"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.6060606060606061,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.23551935394040657,
+            "scoh": 0.2756892230576441,
+            "scop": 0.040169869117237536,
+            "CMQ": 0.8240484251564584,
+            "ccoh": 0.8245614035087719,
+            "ccop": 0.0005129783523135324
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService",
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "5": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "6": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "10": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "11": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "13": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "16": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "17": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "18": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "19": [
+                "com.riddlin.app.domain.system.CounterService"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.914814814814815,
+            "CHD": 0.3851851851851852,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.20940058479532161,
+            "scoh": 0.2533333333333333,
+            "scop": 0.04393274853801169,
+            "CMQ": 0.8594736842105264,
+            "ccoh": 0.8600000000000001,
+            "ccop": 0.0005263157894736842
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "10": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "13": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "14": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom",
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController",
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "16": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "18": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "20": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": 0.20310846560846563,
+            "scoh": 0.2492063492063492,
+            "scop": 0.046097883597883596,
+            "CMQ": 0.8344671201814059,
+            "ccoh": 0.834920634920635,
+            "ccop": 0.0004535147392290249
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "2": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "3": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "4": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "5": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "8": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "11": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "14": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "16": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "17": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "18": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "19": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "20": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "21": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": 0.1428932178932179,
+            "scoh": 0.23863636363636365,
+            "scop": 0.09574314574314574,
+            "CMQ": 0.843527107812822,
+            "ccoh": 0.8439393939393939,
+            "ccop": 0.00041228612657184083
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.AccountService",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "14": [
+                "com.riddlin.app.domain.task.Task",
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "17": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "18": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "20": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "21": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "22": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": 0.1398550724637681,
+            "scoh": 0.20652173913043478,
+            "scop": 0.06666666666666667,
+            "CMQ": 0.8894488795846418,
+            "ccoh": 0.8898550724637682,
+            "ccop": 0.00040619287912637287
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "11": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "14": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.controller.web.account.MyAccountController",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "19": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "20": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "21": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "22": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "23": [
+                "com.riddlin.app.domain.system.CounterService"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.9545454545454546,
+            "CHD": 0.5151515151515151,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.08220108695652172,
+            "scoh": 0.20138888888888887,
+            "scop": 0.11918780193236715,
+            "CMQ": 0.8954526360008402,
+            "ccoh": 0.8958333333333334,
+            "ccop": 0.00038069733249317366
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "10": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "11": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "14": [
+                "com.riddlin.app.config.MainAppConfig",
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "16": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "17": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "18": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "19": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "20": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "21": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "22": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "23": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "24": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": 0.06201388888888891,
+            "scoh": 0.17333333333333337,
+            "scop": 0.11131944444444446,
+            "CMQ": 0.9396333333333333,
+            "ccoh": 0.94,
+            "ccop": 0.00036666666666666667
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "9": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "11": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "14": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "16": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "18": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "19": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "20": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "21": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "22": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "23": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "25": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": 0.038525641025641044,
+            "scoh": 0.14743589743589744,
+            "scop": 0.1089102564102564,
+            "CMQ": 0.9804094674556213,
+            "ccoh": 0.9807692307692307,
+            "ccop": 0.0003597633136094675
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "2": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "6": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository",
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "7": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "9": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "10": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "11": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "12": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "14": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "15": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "17": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "18": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "19": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "20": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "21": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "22": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "23": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "24": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "25": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "26": [
+                "com.riddlin.app.domain.account.AccountService"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.9696969696969698,
+            "CHD": 0.6060606060606061,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.03685897435897437,
+            "scoh": 0.1419753086419753,
+            "scop": 0.10511633428300093,
+            "CMQ": 0.9811649256093701,
+            "ccoh": 0.9814814814814815,
+            "ccop": 0.00031655587211142766
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "9": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "10": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "14": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "15": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "16": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "17": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "19": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "20": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "21": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "22": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "23": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "25": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "26": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "27": [
+                "com.riddlin.app.domain.account.AccountService"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.9545454545454546,
+            "CHD": 0.5151515151515151,
+            "IFN": 1.0909090909090908,
+            "SMQ": 0.04618606701940037,
+            "scoh": 0.16071428571428573,
+            "scop": 0.11452821869488536,
+            "CMQ": 0.9877802973041068,
+            "ccoh": 0.988095238095238,
+            "ccop": 0.0003149407911312673
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "2": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "5": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "6": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "7": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "9": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "10": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "11": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "15": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "16": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "20": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "21": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "22": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "23": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "25": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "26": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "27": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "28": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": 0.034277504105090326,
+            "scoh": 0.13793103448275862,
+            "scop": 0.1036535303776683,
+            "CMQ": 0.953731789981153,
+            "ccoh": 0.9540229885057472,
+            "ccop": 0.00029119852459414205
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "2": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "9": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "11": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "13": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "14": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "17": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "18": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "19": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "20": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "21": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "22": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "23": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "24": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "25": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "26": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "27": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "29": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository",
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 0.8888888888888888,
+            "CHD": 0.4074074074074074,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.013218390804597704,
+            "scoh": 0.11666666666666667,
+            "scop": 0.10344827586206896,
+            "CMQ": 0.988629937904611,
+            "ccoh": 0.9888888888888889,
+            "ccop": 0.00025895098427797594
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "2": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "3": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "7": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "8": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "9": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "10": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "11": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository"
+            ],
+            "12": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "13": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "15": [
+                "com.riddlin.app.domain.account.UserSocialConnection",
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "18": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "20": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "21": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "22": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "23": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "24": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "25": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "26": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "27": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "29": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "30": [
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ]
+        }
+    },
+    "KMeans_31": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": -0.028136200716845874,
+            "scoh": 0.0967741935483871,
+            "scop": 0.12491039426523297,
+            "CMQ": 0.9889975719736386,
+            "ccoh": 0.989247311827957,
+            "ccop": 0.0002497398543184183
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "4": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "6": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.UserSocialConnection"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl",
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "13": [
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "19": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "20": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "21": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "22": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "23": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "24": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "25": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "26": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "27": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "29": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "30": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "31": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository"
+            ]
+        }
+    },
+    "KMeans_32": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": -0.042002688172043,
+            "scoh": 0.078125,
+            "scop": 0.120127688172043,
+            "CMQ": 0.989331317204301,
+            "ccoh": 0.9895833333333333,
+            "ccop": 0.00025201612903225806
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAccount",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository"
+            ],
+            "9": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "13": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "14": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "16": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "17": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "18": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "19": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "20": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "21": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "22": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "23": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "25": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "26": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "27": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.UserSocialConnection"
+            ],
+            "29": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "30": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "31": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "32": [
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ]
+        }
+    },
+    "KMeans_33": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": -0.06912878787878789,
+            "scoh": 0.07575757575757576,
+            "scop": 0.14488636363636365,
+            "CMQ": 0.9997560835629018,
+            "ccoh": 1.0,
+            "ccop": 0.00024391643709825527
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskRepository",
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "16": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserSocialConnection"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.UserAccount"
+            ],
+            "20": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "21": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "22": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "23": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "25": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "26": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "27": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository"
+            ],
+            "29": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "30": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "31": [
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "32": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl"
+            ],
+            "33": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ]
+        }
+    },
+    "KMeans_34": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": -0.08021390374331551,
+            "scoh": 0.058823529411764705,
+            "scop": 0.13903743315508021,
+            "CMQ": 0.9997585162731435,
+            "ccoh": 1.0,
+            "ccop": 0.00024148372685648558
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.AccountServiceImpl",
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "16": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserSocialConnection"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.UserAccount"
+            ],
+            "20": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "21": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "22": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "23": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "25": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "26": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "27": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository"
+            ],
+            "29": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "30": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "31": [
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "32": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl"
+            ],
+            "33": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "34": [
+                "com.riddlin.app.domain.task.TaskRepository"
+            ]
+        }
+    },
+    "KMeans_35": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": -0.10042016806722688,
+            "scoh": 0.04285714285714286,
+            "scop": 0.14327731092436974,
+            "CMQ": 0.9997570793023092,
+            "ccoh": 1.0,
+            "ccop": 0.00024292069769084107
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.RememberMeToken",
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "16": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserSocialConnection"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.UserAccount"
+            ],
+            "20": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "21": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "22": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "23": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "25": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "26": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "27": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository"
+            ],
+            "29": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "30": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "31": [
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "32": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl"
+            ],
+            "33": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "34": [
+                "com.riddlin.app.domain.task.TaskRepository"
+            ],
+            "35": [
+                "com.riddlin.app.domain.account.AccountServiceImpl"
+            ]
+        }
+    },
+    "KMeans_36": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": -0.11468253968253968,
+            "scoh": 0.027777777777777776,
+            "scop": 0.14246031746031745,
+            "CMQ": 0.9997782816830436,
+            "ccoh": 1.0,
+            "ccop": 0.0002217183169564122
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem",
+                "com.riddlin.app.controller.web.PageWrapper"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "16": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserSocialConnection"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.UserAccount"
+            ],
+            "20": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "21": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "22": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "23": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "25": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "26": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "27": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository"
+            ],
+            "29": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "30": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "31": [
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "32": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl"
+            ],
+            "33": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "34": [
+                "com.riddlin.app.domain.task.TaskRepository"
+            ],
+            "35": [
+                "com.riddlin.app.domain.account.AccountServiceImpl"
+            ],
+            "36": [
+                "com.riddlin.app.domain.account.RememberMeToken"
+            ]
+        }
+    },
+    "KMeans_37": {
+        "metrics": {
+            "CHM": 1.0,
+            "CHD": 0.638888888888889,
+            "IFN": 1.0,
+            "SMQ": -0.12162162162162163,
+            "scoh": 0.013513513513513514,
+            "scop": 0.13513513513513514,
+            "CMQ": 0.999799348898448,
+            "ccoh": 1.0,
+            "ccop": 0.00020065110155200247
+        },
+        "named_clusters": {
+            "1": [
+                "com.riddlin.app.domain.account.MongoPersistentTokenRepositoryImpl"
+            ],
+            "2": [
+                "com.riddlin.app.domain.account.UserAdminService"
+            ],
+            "3": [
+                "com.riddlin.app.domain.BaseEntity"
+            ],
+            "4": [
+                "com.riddlin.app.domain.system.CounterServiceImpl",
+                "com.riddlin.app.domain.system.Counter"
+            ],
+            "5": [
+                "com.riddlin.app.domain.task.Task"
+            ],
+            "6": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomRepository"
+            ],
+            "7": [
+                "com.riddlin.app.controller.web.PageWrapper.PageItem"
+            ],
+            "8": [
+                "com.riddlin.app.domain.account.MongoUsersConnectionRepositoryImpl"
+            ],
+            "9": [
+                "com.riddlin.app.domain.task.TaskServiceImpl"
+            ],
+            "10": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiom"
+            ],
+            "11": [
+                "com.riddlin.app.controller.web.admin.AdminController"
+            ],
+            "12": [
+                "com.riddlin.app.controller.web.account.ProfileForm"
+            ],
+            "13": [
+                "com.riddlin.app.domain.account.UserAccountRepository"
+            ],
+            "14": [
+                "com.riddlin.app.controller.web.AutoConnectionSignUp"
+            ],
+            "15": [
+                "com.riddlin.app.controller.web.AbstractPageController"
+            ],
+            "16": [
+                "com.riddlin.app.domain.task.TaskService"
+            ],
+            "17": [
+                "com.riddlin.app.domain.account.UserSocialConnection"
+            ],
+            "18": [
+                "com.riddlin.app.controller.web.task.TaskController"
+            ],
+            "19": [
+                "com.riddlin.app.domain.account.UserAccount"
+            ],
+            "20": [
+                "com.riddlin.app.domain.system.CounterService"
+            ],
+            "21": [
+                "com.riddlin.app.controller.web.riddle.AmericanIdiomController"
+            ],
+            "22": [
+                "com.riddlin.app.config.MainAppConfig"
+            ],
+            "23": [
+                "com.riddlin.app.domain.account.AccountUtils"
+            ],
+            "24": [
+                "com.riddlin.app.domain.account.AccountService"
+            ],
+            "25": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomService"
+            ],
+            "26": [
+                "com.riddlin.app.controller.rest.riddle.AmericanIdiomRestController"
+            ],
+            "27": [
+                "com.riddlin.app.domain.account.RememberMeTokenRepository"
+            ],
+            "28": [
+                "com.riddlin.app.domain.account.UserSocialConnectionRepository"
+            ],
+            "29": [
+                "com.riddlin.app.controller.web.account.MyAccountController"
+            ],
+            "30": [
+                "com.riddlin.app.domain.account.MongoConnectionRepositoryImpl"
+            ],
+            "31": [
+                "com.riddlin.app.config.SocialAndSecurityConfig"
+            ],
+            "32": [
+                "com.riddlin.app.domain.riddle.americanIdiom.AmericanIdiomServiceImpl"
+            ],
+            "33": [
+                "com.riddlin.app.domain.account.UserAdminServiceImpl"
+            ],
+            "34": [
+                "com.riddlin.app.domain.task.TaskRepository"
+            ],
+            "35": [
+                "com.riddlin.app.domain.account.AccountServiceImpl"
+            ],
+            "36": [
+                "com.riddlin.app.domain.account.RememberMeToken"
+            ],
+            "37": [
+                "com.riddlin.app.controller.web.PageWrapper"
+            ]
+        }
+    }
+}

@@ -1,0 +1,2382 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.723666371942234,
+            "CHD": 0.5020943615771203,
+            "IFN": 3.6666666666666665,
+            "SMQ": 0.1294642857142857,
+            "scoh": 0.20035714285714284,
+            "scop": 0.07089285714285713,
+            "CMQ": 0.7911904761904762,
+            "ccoh": 0.8511904761904763,
+            "ccop": 0.06
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl",
+                "hei2017.dao.StoryDAO",
+                "hei2017.controller.ApiController"
+            ],
+            "2": [
+                "hei2017.service.MainService"
+            ],
+            "3": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "4": [
+                "hei2017.controller.ApiDebugController",
+                "hei2017.controller.ApiUserController",
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.SprintService",
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl",
+                "hei2017.service.ProjectService",
+                "hei2017.controller.ProjectController",
+                "hei2017.dao.ProjectDAO",
+                "hei2017.controller.HomeController",
+                "hei2017.controller.ErrorController"
+            ],
+            "5": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.7526484480431849,
+            "CHD": 0.5990942334144089,
+            "IFN": 2.75,
+            "SMQ": 0.1535336356764928,
+            "scoh": 0.22923280423280423,
+            "scop": 0.07569916855631141,
+            "CMQ": 0.830952380952381,
+            "ccoh": 0.8753968253968254,
+            "ccop": 0.04444444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "2": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "3": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl",
+                "hei2017.dao.StoryDAO",
+                "hei2017.controller.ApiController"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "6": [
+                "hei2017.controller.ApiDebugController",
+                "hei2017.controller.ApiUserController",
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController",
+                "hei2017.service.ProjectService",
+                "hei2017.controller.ProjectController",
+                "hei2017.controller.HomeController",
+                "hei2017.controller.ErrorController"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.7526484480431849,
+            "CHD": 0.5990942334144089,
+            "IFN": 2.75,
+            "SMQ": 0.189997480473671,
+            "scoh": 0.2679138321995465,
+            "scop": 0.07791635172587554,
+            "CMQ": 0.8489795918367347,
+            "ccoh": 0.8829931972789116,
+            "ccop": 0.034013605442176874
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "2": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "3": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl",
+                "hei2017.dao.StoryDAO",
+                "hei2017.controller.ApiController"
+            ],
+            "4": [
+                "hei2017.controller.ApiDebugController",
+                "hei2017.controller.ApiUserController",
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController",
+                "hei2017.service.ProjectService",
+                "hei2017.controller.ProjectController",
+                "hei2017.controller.HomeController",
+                "hei2017.controller.ErrorController"
+            ],
+            "5": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "6": [
+                "hei2017.service.MainService"
+            ],
+            "7": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.8428932178932179,
+            "CHD": 0.7634150461531415,
+            "IFN": 1.8333333333333333,
+            "SMQ": 0.08020833333333333,
+            "scoh": 0.16235119047619048,
+            "scop": 0.08214285714285716,
+            "CMQ": 0.871811224489796,
+            "ccoh": 0.8973214285714286,
+            "ccop": 0.025510204081632654
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.controller.ApiUserController",
+                "hei2017.service.SprintService",
+                "hei2017.entity.Sprint",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.controller.ProjectController",
+                "hei2017.controller.HomeController",
+                "hei2017.controller.ErrorController"
+            ],
+            "2": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "3": [
+                "hei2017.service.MainService"
+            ],
+            "4": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "5": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl",
+                "hei2017.dao.StoryDAO"
+            ],
+            "6": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.dao.SprintDAO",
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.service.Impl.SprintServiceImpl",
+                "hei2017.service.ProjectService",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "7": [
+                "hei2017.controller.ApiController"
+            ],
+            "8": [
+                "hei2017.controller.ApiDebugController"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.805263157894737,
+            "CHD": 0.5287257284625706,
+            "IFN": 2.2,
+            "SMQ": 0.12063786008230451,
+            "scoh": 0.21975308641975308,
+            "scop": 0.09911522633744857,
+            "CMQ": 0.9146604938271604,
+            "ccoh": 0.9339506172839506,
+            "ccop": 0.019290123456790122
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "2": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.SprintService",
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl",
+                "hei2017.service.ProjectService",
+                "hei2017.controller.HomeController"
+            ],
+            "3": [
+                "hei2017.service.MainService"
+            ],
+            "4": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "5": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "6": [
+                "hei2017.controller.ProjectController",
+                "hei2017.controller.ErrorController"
+            ],
+            "7": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "8": [
+                "hei2017.controller.ApiUserController",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl",
+                "hei2017.controller.ApiController"
+            ],
+            "9": [
+                "hei2017.controller.ApiDebugController"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.8696803196803197,
+            "CHD": 0.7433286730905779,
+            "IFN": 1.5714285714285714,
+            "SMQ": 0.11222222222222221,
+            "scoh": 0.19999999999999998,
+            "scop": 0.08777777777777777,
+            "CMQ": 0.9270370370370371,
+            "ccoh": 0.9433333333333334,
+            "ccop": 0.016296296296296295
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController",
+                "hei2017.service.ProjectService",
+                "hei2017.controller.ProjectController",
+                "hei2017.controller.HomeController",
+                "hei2017.controller.ErrorController"
+            ],
+            "2": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl",
+                "hei2017.dao.StoryDAO"
+            ],
+            "6": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "7": [
+                "hei2017.controller.ApiController"
+            ],
+            "8": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "9": [
+                "hei2017.controller.ApiUserController",
+                "hei2017.controller.ApiProjectController"
+            ],
+            "10": [
+                "hei2017.controller.ApiDebugController"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.8891125541125541,
+            "CHD": 0.6726391465677181,
+            "IFN": 1.5714285714285714,
+            "SMQ": 0.12847763347763347,
+            "scoh": 0.19437229437229436,
+            "scop": 0.0658946608946609,
+            "CMQ": 0.9497992916174736,
+            "ccoh": 0.9610389610389611,
+            "ccop": 0.011239669421487603
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "2": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl",
+                "hei2017.dao.StoryDAO"
+            ],
+            "4": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "5": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "6": [
+                "hei2017.service.MainService"
+            ],
+            "7": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "8": [
+                "hei2017.controller.ApiUserController",
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.ProjectService",
+                "hei2017.controller.HomeController"
+            ],
+            "9": [
+                "hei2017.controller.ErrorController"
+            ],
+            "10": [
+                "hei2017.controller.ApiController"
+            ],
+            "11": [
+                "hei2017.controller.ProjectController"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.8834519647019647,
+            "CHD": 0.713278889320556,
+            "IFN": 1.375,
+            "SMQ": 0.09401936026936028,
+            "scoh": 0.21666666666666667,
+            "scop": 0.1226473063973064,
+            "CMQ": 0.9598025711662075,
+            "ccoh": 0.9694444444444444,
+            "ccop": 0.009641873278236915
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "2": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "3": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "6": [
+                "hei2017.controller.ErrorController"
+            ],
+            "7": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "8": [
+                "hei2017.controller.ApiController"
+            ],
+            "9": [
+                "hei2017.controller.ApiUserController",
+                "hei2017.controller.ApiProjectController",
+                "hei2017.controller.SprintController",
+                "hei2017.service.ProjectService",
+                "hei2017.service.StoryService"
+            ],
+            "10": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "11": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "12": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.ProjectController",
+                "hei2017.controller.HomeController"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.8875583566760037,
+            "CHD": 0.7303893569212196,
+            "IFN": 1.375,
+            "SMQ": 0.11792200854700854,
+            "scoh": 0.22435897435897434,
+            "scop": 0.1064369658119658,
+            "CMQ": 0.9659763313609468,
+            "ccoh": 0.9743589743589745,
+            "ccop": 0.008382642998027613
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "2": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.controller.ApiUserController",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "5": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "6": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "7": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "8": [
+                "hei2017.controller.ErrorController"
+            ],
+            "9": [
+                "hei2017.service.MainService"
+            ],
+            "10": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.ProjectController",
+                "hei2017.controller.HomeController"
+            ],
+            "11": [
+                "hei2017.service.TaskService"
+            ],
+            "12": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.ProjectService"
+            ],
+            "13": [
+                "hei2017.controller.ApiController"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.9081601731601732,
+            "CHD": 0.7998400673400673,
+            "IFN": 1.1,
+            "SMQ": 0.11339438339438337,
+            "scoh": 0.21785714285714283,
+            "scop": 0.10446275946275946,
+            "CMQ": 0.9637000362275088,
+            "ccoh": 0.9714285714285714,
+            "ccop": 0.007728535201062674
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "2": [
+                "hei2017.service.TaskService",
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.service.MainService"
+            ],
+            "4": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "5": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "6": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "7": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.ProjectService"
+            ],
+            "8": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "9": [
+                "hei2017.controller.ApiController"
+            ],
+            "10": [
+                "hei2017.controller.ErrorController"
+            ],
+            "11": [
+                "hei2017.controller.ProjectController"
+            ],
+            "12": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "13": [
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "14": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.HomeController"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.9056168831168829,
+            "CHD": 0.7873813532146865,
+            "IFN": 1.1,
+            "SMQ": 0.12042328042328039,
+            "scoh": 0.2288888888888889,
+            "scop": 0.1084656084656085,
+            "CMQ": 0.973106575963719,
+            "ccoh": 0.9800000000000001,
+            "ccop": 0.006893424036281179
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl",
+                "hei2017.dao.StoryDAO"
+            ],
+            "2": [
+                "hei2017.entity.Task",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.HomeController"
+            ],
+            "4": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl"
+            ],
+            "5": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "6": [
+                "hei2017.service.MainService"
+            ],
+            "7": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "8": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "9": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.controller.SprintController",
+                "hei2017.service.ProjectService"
+            ],
+            "10": [
+                "hei2017.controller.ErrorController"
+            ],
+            "11": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "12": [
+                "hei2017.controller.ApiController"
+            ],
+            "13": [
+                "hei2017.controller.ProjectController"
+            ],
+            "14": [
+                "hei2017.service.TaskService",
+                "hei2017.controller.ApiTaskController"
+            ],
+            "15": [
+                "hei2017.service.UserService",
+                "hei2017.dao.UserDAO"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": 0.0806712962962963,
+            "scoh": 0.19791666666666666,
+            "scop": 0.11724537037037036,
+            "CMQ": 0.9729861111111112,
+            "ccoh": 0.9791666666666667,
+            "ccop": 0.0061805555555555555
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "2": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.service.MainService"
+            ],
+            "4": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "5": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl",
+                "hei2017.dao.ProjectDAO"
+            ],
+            "6": [
+                "hei2017.controller.SprintController"
+            ],
+            "7": [
+                "hei2017.controller.ErrorController"
+            ],
+            "8": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "9": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "10": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "11": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.HomeController"
+            ],
+            "12": [
+                "hei2017.controller.ApiController"
+            ],
+            "13": [
+                "hei2017.service.TaskService"
+            ],
+            "14": [
+                "hei2017.controller.ProjectController"
+            ],
+            "15": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.ProjectService"
+            ],
+            "16": [
+                "hei2017.controller.ApiUserController"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.8927368927368927,
+            "CHD": 0.764864250975362,
+            "IFN": 1.2222222222222223,
+            "SMQ": -0.016595179738562088,
+            "scoh": 0.15196078431372548,
+            "scop": 0.16855596405228757,
+            "CMQ": 0.9750937139561707,
+            "ccoh": 0.9803921568627452,
+            "ccop": 0.005298442906574394
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "2": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.controller.HomeController"
+            ],
+            "3": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "5": [
+                "hei2017.service.MainService"
+            ],
+            "6": [
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "7": [
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService",
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "8": [
+                "hei2017.dao.SprintDAO",
+                "hei2017.entity.Project"
+            ],
+            "9": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "10": [
+                "hei2017.controller.ApiController"
+            ],
+            "11": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "12": [
+                "hei2017.controller.ProjectController"
+            ],
+            "13": [
+                "hei2017.controller.ErrorController"
+            ],
+            "14": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.ProjectService"
+            ],
+            "15": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "16": [
+                "hei2017.service.TaskService"
+            ],
+            "17": [
+                "hei2017.dao.ProjectDAO"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.9157359307359307,
+            "CHD": 0.8123813532146865,
+            "IFN": 1.1,
+            "SMQ": 0.04956427015250542,
+            "scoh": 0.2222222222222222,
+            "scop": 0.1726579520697168,
+            "CMQ": 0.9767397154940407,
+            "ccoh": 0.9814814814814814,
+            "ccop": 0.0047417659874407275
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "2": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "3": [
+                "hei2017.service.MainService"
+            ],
+            "4": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.HomeController"
+            ],
+            "5": [
+                "hei2017.service.TaskService",
+                "hei2017.controller.ApiTaskController"
+            ],
+            "6": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "7": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "8": [
+                "hei2017.controller.ApiController"
+            ],
+            "9": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController"
+            ],
+            "10": [
+                "hei2017.controller.ApiStoryController",
+                "hei2017.service.StoryService"
+            ],
+            "11": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "12": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.ProjectService"
+            ],
+            "13": [
+                "hei2017.controller.ErrorController"
+            ],
+            "14": [
+                "hei2017.entity.Task",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "15": [
+                "hei2017.controller.ProjectController"
+            ],
+            "16": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "17": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "18": [
+                "hei2017.controller.ApiUserController"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.03447855750487333,
+            "scoh": 0.15789473684210525,
+            "scop": 0.19237329434697858,
+            "CMQ": 0.9784549092028317,
+            "ccoh": 0.9824561403508772,
+            "ccop": 0.0040012311480455524
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.ProjectService"
+            ],
+            "2": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "6": [
+                "hei2017.service.StoryService"
+            ],
+            "7": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "8": [
+                "hei2017.controller.ApiController"
+            ],
+            "9": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "10": [
+                "hei2017.controller.HomeController"
+            ],
+            "11": [
+                "hei2017.controller.ErrorController"
+            ],
+            "12": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "13": [
+                "hei2017.service.TaskService"
+            ],
+            "14": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController"
+            ],
+            "15": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "16": [
+                "hei2017.controller.ProjectController"
+            ],
+            "17": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "18": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "19": [
+                "hei2017.dao.ProjectDAO"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.9081601731601732,
+            "CHD": 0.7998400673400673,
+            "IFN": 1.1,
+            "SMQ": 0.00219298245614033,
+            "scoh": 0.2125,
+            "scop": 0.21030701754385966,
+            "CMQ": 0.8861772853185595,
+            "ccoh": 0.89,
+            "ccop": 0.003822714681440443
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "2": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "3": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController"
+            ],
+            "6": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "7": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.dao.StoryDAO"
+            ],
+            "8": [
+                "hei2017.controller.ProjectController"
+            ],
+            "9": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "10": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.ProjectService"
+            ],
+            "11": [
+                "hei2017.entity.Story",
+                "hei2017.controller.ApiStoryController"
+            ],
+            "12": [
+                "hei2017.service.TaskService"
+            ],
+            "13": [
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "14": [
+                "hei2017.controller.ErrorController"
+            ],
+            "15": [
+                "hei2017.controller.ApiController"
+            ],
+            "16": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.HomeController"
+            ],
+            "17": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "18": [
+                "hei2017.service.StoryService"
+            ],
+            "19": [
+                "hei2017.service.UserService"
+            ],
+            "20": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.02433862433862441,
+            "scoh": 0.18253968253968253,
+            "scop": 0.20687830687830694,
+            "CMQ": 0.9490702947845805,
+            "ccoh": 0.9523809523809523,
+            "ccop": 0.003310657596371882
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.controller.ApiController"
+            ],
+            "2": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "3": [
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.service.UserService",
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "6": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "7": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "8": [
+                "hei2017.controller.ApiProjectController",
+                "hei2017.service.ProjectService"
+            ],
+            "9": [
+                "hei2017.controller.ErrorController"
+            ],
+            "10": [
+                "hei2017.controller.ProjectController"
+            ],
+            "11": [
+                "hei2017.service.StoryService"
+            ],
+            "12": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController"
+            ],
+            "13": [
+                "hei2017.controller.HomeController"
+            ],
+            "14": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "15": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "16": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "17": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "18": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "19": [
+                "hei2017.service.TaskService"
+            ],
+            "20": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController"
+            ],
+            "21": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.9157359307359307,
+            "CHD": 0.8123813532146865,
+            "IFN": 1.1,
+            "SMQ": -0.12752525252525254,
+            "scoh": 0.1212121212121212,
+            "scop": 0.24873737373737373,
+            "CMQ": 0.98920091452559,
+            "ccoh": 0.9924242424242425,
+            "ccop": 0.003223327898652574
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "2": [
+                "hei2017.controller.ApiTaskController"
+            ],
+            "3": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController",
+                "hei2017.controller.HomeController"
+            ],
+            "4": [
+                "hei2017.service.StoryService"
+            ],
+            "5": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "6": [
+                "hei2017.service.MainService"
+            ],
+            "7": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "8": [
+                "hei2017.controller.ApiController"
+            ],
+            "9": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "10": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.controller.ApiSprintController",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "11": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "12": [
+                "hei2017.controller.ErrorController"
+            ],
+            "13": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "14": [
+                "hei2017.controller.ProjectController"
+            ],
+            "15": [
+                "hei2017.service.ProjectService"
+            ],
+            "16": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "17": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "18": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "19": [
+                "hei2017.service.TaskService"
+            ],
+            "20": [
+                "hei2017.service.UserService"
+            ],
+            "21": [
+                "hei2017.entity.Task",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "22": [
+                "hei2017.dao.ProjectDAO"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.09019543258673694,
+            "scoh": 0.12318840579710146,
+            "scop": 0.2133838383838384,
+            "CMQ": 0.9826951418290135,
+            "ccoh": 0.9855072463768115,
+            "ccop": 0.002812104547797966
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "2": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "3": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story",
+                "hei2017.dao.StoryDAO"
+            ],
+            "6": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "7": [
+                "hei2017.controller.ApiController"
+            ],
+            "8": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController"
+            ],
+            "9": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "10": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "11": [
+                "hei2017.service.TaskService"
+            ],
+            "12": [
+                "hei2017.entity.Sprint",
+                "hei2017.dao.SprintDAO",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "13": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "14": [
+                "hei2017.controller.ErrorController"
+            ],
+            "15": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "16": [
+                "hei2017.controller.ProjectController"
+            ],
+            "17": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "18": [
+                "hei2017.service.StoryService"
+            ],
+            "19": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "20": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "21": [
+                "hei2017.service.ProjectService"
+            ],
+            "22": [
+                "hei2017.controller.HomeController"
+            ],
+            "23": [
+                "hei2017.service.UserService",
+                "hei2017.dao.UserDAO"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.10809178743961355,
+            "scoh": 0.11805555555555554,
+            "scop": 0.2261473429951691,
+            "CMQ": 0.9904300567107752,
+            "ccoh": 0.9930555555555557,
+            "ccop": 0.002625498844780508
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "2": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController"
+            ],
+            "3": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.service.StoryService"
+            ],
+            "6": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "7": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story"
+            ],
+            "8": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "9": [
+                "hei2017.controller.ApiController"
+            ],
+            "10": [
+                "hei2017.controller.ErrorController"
+            ],
+            "11": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "12": [
+                "hei2017.controller.ProjectController"
+            ],
+            "13": [
+                "hei2017.controller.HomeController"
+            ],
+            "14": [
+                "hei2017.service.TaskService"
+            ],
+            "15": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "16": [
+                "hei2017.service.ProjectService"
+            ],
+            "17": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "18": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "19": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "20": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "21": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "22": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "23": [
+                "hei2017.service.UserService"
+            ],
+            "24": [
+                "hei2017.dao.StoryDAO"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.11685185185185187,
+            "scoh": 0.12,
+            "scop": 0.23685185185185187,
+            "CMQ": 0.9975555555555555,
+            "ccoh": 1.0,
+            "ccop": 0.0024444444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "2": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController"
+            ],
+            "3": [
+                "hei2017.entity.Task",
+                "hei2017.dao.TaskDAO",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story"
+            ],
+            "6": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "7": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "8": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "9": [
+                "hei2017.service.TaskService"
+            ],
+            "10": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "11": [
+                "hei2017.controller.ApiController"
+            ],
+            "12": [
+                "hei2017.controller.ProjectController"
+            ],
+            "13": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "14": [
+                "hei2017.controller.ErrorController"
+            ],
+            "15": [
+                "hei2017.service.UserService"
+            ],
+            "16": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "17": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "18": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "19": [
+                "hei2017.service.ProjectService"
+            ],
+            "20": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "21": [
+                "hei2017.controller.ApiTaskController"
+            ],
+            "22": [
+                "hei2017.controller.HomeController"
+            ],
+            "23": [
+                "hei2017.dao.StoryDAO"
+            ],
+            "24": [
+                "hei2017.service.StoryService"
+            ],
+            "25": [
+                "hei2017.controller.ApiStoryController"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.11333333333333336,
+            "scoh": 0.10897435897435896,
+            "scop": 0.22230769230769232,
+            "CMQ": 0.9849735700197239,
+            "ccoh": 0.9871794871794871,
+            "ccop": 0.0022059171597633136
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "2": [
+                "hei2017.entity.Task",
+                "hei2017.controller.ApiTaskController",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.dao.UserDAO"
+            ],
+            "6": [
+                "hei2017.service.ProjectService"
+            ],
+            "7": [
+                "hei2017.service.SprintService",
+                "hei2017.controller.SprintController"
+            ],
+            "8": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "9": [
+                "hei2017.controller.ApiController"
+            ],
+            "10": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "11": [
+                "hei2017.controller.ErrorController"
+            ],
+            "12": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "13": [
+                "hei2017.controller.ProjectController"
+            ],
+            "14": [
+                "hei2017.service.TaskService"
+            ],
+            "15": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "16": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "17": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "18": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "19": [
+                "hei2017.service.UserService"
+            ],
+            "20": [
+                "hei2017.service.StoryService"
+            ],
+            "21": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl"
+            ],
+            "22": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "23": [
+                "hei2017.dao.StoryDAO"
+            ],
+            "24": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "25": [
+                "hei2017.controller.HomeController"
+            ],
+            "26": [
+                "hei2017.controller.ApiStoryController"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.15313390313390313,
+            "scoh": 0.09259259259259259,
+            "scop": 0.24572649572649571,
+            "CMQ": 0.9978571602503227,
+            "ccoh": 1.0,
+            "ccop": 0.0021428397496773563
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl",
+                "hei2017.dao.UserDAO"
+            ],
+            "2": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "3": [
+                "hei2017.service.MainService"
+            ],
+            "4": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "5": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "6": [
+                "hei2017.controller.ProjectController"
+            ],
+            "7": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "8": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "9": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "10": [
+                "hei2017.controller.ApiController"
+            ],
+            "11": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story"
+            ],
+            "12": [
+                "hei2017.controller.ApiTaskController"
+            ],
+            "13": [
+                "hei2017.controller.ErrorController"
+            ],
+            "14": [
+                "hei2017.controller.SprintController"
+            ],
+            "15": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "16": [
+                "hei2017.controller.HomeController"
+            ],
+            "17": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "18": [
+                "hei2017.service.ProjectService"
+            ],
+            "19": [
+                "hei2017.service.UserService"
+            ],
+            "20": [
+                "hei2017.service.TaskService"
+            ],
+            "21": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "22": [
+                "hei2017.service.StoryService"
+            ],
+            "23": [
+                "hei2017.entity.Task",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "24": [
+                "hei2017.dao.StoryDAO"
+            ],
+            "25": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "26": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "27": [
+                "hei2017.service.SprintService"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.15013227513227512,
+            "scoh": 0.08928571428571429,
+            "scop": 0.23941798941798942,
+            "CMQ": 0.9980613644634808,
+            "ccoh": 1.0,
+            "ccop": 0.0019386355365191344
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story"
+            ],
+            "2": [
+                "hei2017.service.ProjectService"
+            ],
+            "3": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.entity.Task",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "6": [
+                "hei2017.controller.SprintController"
+            ],
+            "7": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "8": [
+                "hei2017.controller.ApiController"
+            ],
+            "9": [
+                "hei2017.controller.ProjectController"
+            ],
+            "10": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "11": [
+                "hei2017.entity.Project",
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "12": [
+                "hei2017.service.TaskService"
+            ],
+            "13": [
+                "hei2017.controller.ErrorController"
+            ],
+            "14": [
+                "hei2017.service.UserService"
+            ],
+            "15": [
+                "hei2017.controller.HomeController"
+            ],
+            "16": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "17": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "18": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "19": [
+                "hei2017.controller.ApiTaskController"
+            ],
+            "20": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "21": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "22": [
+                "hei2017.service.StoryService"
+            ],
+            "23": [
+                "hei2017.dao.StoryDAO"
+            ],
+            "24": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "25": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "26": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "27": [
+                "hei2017.service.SprintService"
+            ],
+            "28": [
+                "hei2017.dao.UserDAO"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.17610837438423646,
+            "scoh": 0.06896551724137931,
+            "scop": 0.24507389162561577,
+            "CMQ": 0.9982649421242933,
+            "ccoh": 1.0,
+            "ccop": 0.001735057875706763
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.UserService"
+            ],
+            "2": [
+                "hei2017.service.StoryService"
+            ],
+            "3": [
+                "hei2017.controller.ApiTaskController"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "6": [
+                "hei2017.controller.SprintController"
+            ],
+            "7": [
+                "hei2017.service.Impl.StoryServiceImpl",
+                "hei2017.entity.Story"
+            ],
+            "8": [
+                "hei2017.entity.Project"
+            ],
+            "9": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "10": [
+                "hei2017.service.SprintService"
+            ],
+            "11": [
+                "hei2017.controller.ApiController"
+            ],
+            "12": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl"
+            ],
+            "13": [
+                "hei2017.controller.ErrorController"
+            ],
+            "14": [
+                "hei2017.entity.Task",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "15": [
+                "hei2017.controller.ProjectController"
+            ],
+            "16": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "17": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "18": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "19": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "20": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "21": [
+                "hei2017.service.ProjectService"
+            ],
+            "22": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "23": [
+                "hei2017.service.TaskService"
+            ],
+            "24": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "25": [
+                "hei2017.controller.HomeController"
+            ],
+            "26": [
+                "hei2017.dao.StoryDAO"
+            ],
+            "27": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "28": [
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "29": [
+                "hei2017.dao.UserDAO"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.2264367816091954,
+            "scoh": 0.05,
+            "scop": 0.2764367816091954,
+            "CMQ": 0.9984357246664024,
+            "ccoh": 1.0,
+            "ccop": 0.001564275333597569
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "2": [
+                "hei2017.entity.Task",
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "3": [
+                "hei2017.entity.Story"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.dao.UserDAO"
+            ],
+            "6": [
+                "hei2017.service.ProjectService"
+            ],
+            "7": [
+                "hei2017.service.SprintService"
+            ],
+            "8": [
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "9": [
+                "hei2017.controller.ApiController"
+            ],
+            "10": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "11": [
+                "hei2017.controller.ErrorController"
+            ],
+            "12": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "13": [
+                "hei2017.controller.ProjectController"
+            ],
+            "14": [
+                "hei2017.service.TaskService"
+            ],
+            "15": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "16": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "17": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "18": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "19": [
+                "hei2017.service.UserService"
+            ],
+            "20": [
+                "hei2017.service.StoryService"
+            ],
+            "21": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl"
+            ],
+            "22": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "23": [
+                "hei2017.dao.StoryDAO"
+            ],
+            "24": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "25": [
+                "hei2017.controller.HomeController"
+            ],
+            "26": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "27": [
+                "hei2017.controller.SprintController"
+            ],
+            "28": [
+                "hei2017.entity.Project"
+            ],
+            "29": [
+                "hei2017.service.Impl.StoryServiceImpl"
+            ],
+            "30": [
+                "hei2017.controller.ApiTaskController"
+            ]
+        }
+    },
+    "KMeans_31": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.25860215053763436,
+            "scoh": 0.03225806451612903,
+            "scop": 0.2908602150537634,
+            "CMQ": 0.9985986819285466,
+            "ccoh": 1.0,
+            "ccop": 0.0014013180714533473
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.entity.Sprint",
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "2": [
+                "hei2017.entity.Task"
+            ],
+            "3": [
+                "hei2017.entity.Story"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.dao.UserDAO"
+            ],
+            "6": [
+                "hei2017.service.ProjectService"
+            ],
+            "7": [
+                "hei2017.service.SprintService"
+            ],
+            "8": [
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "9": [
+                "hei2017.controller.ApiController"
+            ],
+            "10": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "11": [
+                "hei2017.controller.ErrorController"
+            ],
+            "12": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "13": [
+                "hei2017.controller.ProjectController"
+            ],
+            "14": [
+                "hei2017.service.TaskService"
+            ],
+            "15": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "16": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "17": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "18": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "19": [
+                "hei2017.service.UserService"
+            ],
+            "20": [
+                "hei2017.service.StoryService"
+            ],
+            "21": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl"
+            ],
+            "22": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "23": [
+                "hei2017.dao.StoryDAO"
+            ],
+            "24": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "25": [
+                "hei2017.controller.HomeController"
+            ],
+            "26": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "27": [
+                "hei2017.controller.SprintController"
+            ],
+            "28": [
+                "hei2017.entity.Project"
+            ],
+            "29": [
+                "hei2017.service.Impl.StoryServiceImpl"
+            ],
+            "30": [
+                "hei2017.controller.ApiTaskController"
+            ],
+            "31": [
+                "hei2017.service.Impl.TaskServiceImpl"
+            ]
+        }
+    },
+    "KMeans_32": {
+        "metrics": {
+            "CHM": 0.9233963006690279,
+            "CHD": 0.8294375938315333,
+            "IFN": 1.0,
+            "SMQ": -0.28931451612903225,
+            "scoh": 0.015625,
+            "scop": 0.30493951612903225,
+            "CMQ": 0.9987317898022893,
+            "ccoh": 1.0,
+            "ccop": 0.0012682101977107179
+        },
+        "named_clusters": {
+            "1": [
+                "hei2017.service.Impl.SprintServiceImpl"
+            ],
+            "2": [
+                "hei2017.entity.Task"
+            ],
+            "3": [
+                "hei2017.entity.Story"
+            ],
+            "4": [
+                "hei2017.service.MainService"
+            ],
+            "5": [
+                "hei2017.dao.UserDAO"
+            ],
+            "6": [
+                "hei2017.service.ProjectService"
+            ],
+            "7": [
+                "hei2017.service.SprintService"
+            ],
+            "8": [
+                "hei2017.service.Impl.ProjectServiceImpl"
+            ],
+            "9": [
+                "hei2017.controller.ApiController"
+            ],
+            "10": [
+                "hei2017.controller.ApiDebugController"
+            ],
+            "11": [
+                "hei2017.controller.ErrorController"
+            ],
+            "12": [
+                "hei2017.dao.SprintDAO"
+            ],
+            "13": [
+                "hei2017.controller.ProjectController"
+            ],
+            "14": [
+                "hei2017.service.TaskService"
+            ],
+            "15": [
+                "hei2017.controller.ApiUserController"
+            ],
+            "16": [
+                "hei2017.dao.ProjectDAO"
+            ],
+            "17": [
+                "hei2017.controller.ApiProjectController"
+            ],
+            "18": [
+                "hei2017.service.Impl.MainServiceImpl"
+            ],
+            "19": [
+                "hei2017.service.UserService"
+            ],
+            "20": [
+                "hei2017.service.StoryService"
+            ],
+            "21": [
+                "hei2017.entity.User",
+                "hei2017.service.Impl.UserServiceImpl"
+            ],
+            "22": [
+                "hei2017.controller.ApiSprintController"
+            ],
+            "23": [
+                "hei2017.dao.StoryDAO"
+            ],
+            "24": [
+                "hei2017.dao.TaskDAO"
+            ],
+            "25": [
+                "hei2017.controller.HomeController"
+            ],
+            "26": [
+                "hei2017.controller.ApiStoryController"
+            ],
+            "27": [
+                "hei2017.controller.SprintController"
+            ],
+            "28": [
+                "hei2017.entity.Project"
+            ],
+            "29": [
+                "hei2017.service.Impl.StoryServiceImpl"
+            ],
+            "30": [
+                "hei2017.controller.ApiTaskController"
+            ],
+            "31": [
+                "hei2017.service.Impl.TaskServiceImpl"
+            ],
+            "32": [
+                "hei2017.entity.Sprint"
+            ]
+        }
+    }
+}

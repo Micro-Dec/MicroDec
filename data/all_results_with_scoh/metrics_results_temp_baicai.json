@@ -1,0 +1,1727 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.9107142857142857,
+            "CHD": 0.37962962962962965,
+            "IFN": 1.25,
+            "SMQ": 0.2696078431372549,
+            "scoh": 0.2696078431372549,
+            "scop": 0.0,
+            "CMQ": 0.4784313725490196,
+            "ccoh": 0.4784313725490196,
+            "ccop": 0.0
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt",
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.core.database.BaseDAO",
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User",
+                "com.baicai.dao.user.UserDAO",
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.project.Project",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.domain.system.ErrorMsg",
+                "com.baicai.controller.index.IndexController",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "3": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenu",
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.9107142857142857,
+            "CHD": 0.37962962962962965,
+            "IFN": 1.25,
+            "SMQ": 0.30486111111111114,
+            "scoh": 0.3111111111111111,
+            "scop": 0.00625,
+            "CMQ": 0.40138888888888885,
+            "ccoh": 0.40138888888888885,
+            "ccop": 0.0
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.core.database.BaseDAO",
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User",
+                "com.baicai.dao.user.UserDAO",
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.project.Project",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.domain.system.ErrorMsg",
+                "com.baicai.controller.index.IndexController",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "3": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenu",
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.9444444444444444,
+            "CHD": 0.4444444444444444,
+            "IFN": 1.1111111111111112,
+            "SMQ": 0.29801587301587307,
+            "scoh": 0.31349206349206354,
+            "scop": 0.015476190476190477,
+            "CMQ": 0.380952380952381,
+            "ccoh": 0.380952380952381,
+            "ccop": 0.0
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.BaseDAO",
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.project.Project",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.domain.system.ErrorMsg",
+                "com.baicai.controller.index.IndexController",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "3": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenu",
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "7": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User",
+                "com.baicai.dao.user.UserDAO"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.9444444444444444,
+            "CHD": 0.4444444444444444,
+            "IFN": 1.1111111111111112,
+            "SMQ": 0.3228032879818594,
+            "scoh": 0.3443452380952381,
+            "scop": 0.02154195011337869,
+            "CMQ": 0.35238095238095235,
+            "ccoh": 0.35238095238095235,
+            "ccop": 0.0
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.BaseDAO",
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenu",
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "7": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.project.Project",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.domain.system.ErrorMsg",
+                "com.baicai.controller.index.IndexController"
+            ],
+            "8": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User",
+                "com.baicai.dao.user.UserDAO"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.9444444444444444,
+            "CHD": 0.4444444444444444,
+            "IFN": 1.1111111111111112,
+            "SMQ": 0.28518518518518515,
+            "scoh": 0.31296296296296294,
+            "scop": 0.027777777777777776,
+            "CMQ": 0.437037037037037,
+            "ccoh": 0.437037037037037,
+            "ccop": 0.0
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.BaseDAO",
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "5": [
+                "com.baicai.domain.system.menu.SysMenu",
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "6": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "7": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User",
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "8": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.project.Project",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.controller.index.IndexController"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.9444444444444444,
+            "CHD": 0.4444444444444444,
+            "IFN": 1.1111111111111112,
+            "SMQ": 0.19092592592592586,
+            "scoh": 0.2816666666666666,
+            "scop": 0.09074074074074076,
+            "CMQ": 0.49333333333333335,
+            "ccoh": 0.49333333333333335,
+            "ccop": 0.0
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "2": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.project.Project",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.controller.index.IndexController"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenu",
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User",
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "7": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "8": [
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.core.database.BaseDAO"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.9444444444444444,
+            "CHD": 0.4444444444444444,
+            "IFN": 1.1111111111111112,
+            "SMQ": 0.19128787878787876,
+            "scoh": 0.30757575757575756,
+            "scop": 0.1162878787878788,
+            "CMQ": 0.4451239669421488,
+            "ccoh": 0.4454545454545455,
+            "ccop": 0.0003305785123966942
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.project.Project",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.controller.index.IndexController"
+            ],
+            "2": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "3": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenu",
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "8": [
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ],
+            "11": [
+                "com.baicai.core.database.BaseDAO"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.9444444444444444,
+            "CHD": 0.4444444444444444,
+            "IFN": 1.1111111111111112,
+            "SMQ": 0.2000210437710438,
+            "scoh": 0.3125,
+            "scop": 0.11247895622895622,
+            "CMQ": 0.4303259871441689,
+            "ccoh": 0.4305555555555555,
+            "ccop": 0.0002295684113865932
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenu",
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "7": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "8": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "9": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "10": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "11": [
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.controller.index.IndexController"
+            ],
+            "12": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.9444444444444444,
+            "CHD": 0.4444444444444444,
+            "IFN": 1.1111111111111112,
+            "SMQ": 0.20272435897435903,
+            "scoh": 0.31410256410256415,
+            "scop": 0.11137820512820513,
+            "CMQ": 0.4996712689020381,
+            "ccoh": 0.5,
+            "ccop": 0.00032873109796186715
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ],
+            "2": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "3": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "4": [
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "5": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "8": [
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory",
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "11": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "12": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.controller.index.IndexController"
+            ],
+            "13": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.9444444444444444,
+            "CHD": 0.4444444444444444,
+            "IFN": 1.1111111111111112,
+            "SMQ": 0.18238705738705738,
+            "scoh": 0.2916666666666667,
+            "scop": 0.10927960927960931,
+            "CMQ": 0.5473775308940143,
+            "ccoh": 0.5476190476190476,
+            "ccop": 0.00024151672503320857
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "7": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "8": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "9": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "10": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "11": [
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.system.Pagination",
+                "com.baicai.controller.index.IndexController"
+            ],
+            "12": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "13": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ],
+            "14": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": 0.19523809523809524,
+            "scoh": 0.29444444444444445,
+            "scop": 0.09920634920634921,
+            "CMQ": 0.555283446712018,
+            "ccoh": 0.5555555555555555,
+            "ccop": 0.00027210884353741496
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "5": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "6": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "7": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "8": [
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.system.Pagination"
+            ],
+            "9": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "10": [
+                "com.baicai.service.user.UserService",
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "11": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "12": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "13": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "14": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "15": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": 0.14409722222222224,
+            "scoh": 0.2760416666666667,
+            "scop": 0.13194444444444445,
+            "CMQ": 0.6247222222222222,
+            "ccoh": 0.625,
+            "ccop": 0.0002777777777777778
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "2": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.service.user.UserService"
+            ],
+            "8": [
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.system.Pagination"
+            ],
+            "9": [
+                "com.baicai.core.database.SqlBound",
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "10": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "11": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "12": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "13": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ],
+            "14": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "15": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "16": [
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": 0.08639705882352941,
+            "scoh": 0.2303921568627451,
+            "scop": 0.1439950980392157,
+            "CMQ": 0.7056660899653979,
+            "ccoh": 0.7058823529411765,
+            "ccop": 0.00021626297577854672
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.service.user.UserService"
+            ],
+            "2": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "3": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean",
+                "com.baicai.util.help.GenModel"
+            ],
+            "4": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "7": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "8": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.system.Pagination"
+            ],
+            "11": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "12": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "13": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ],
+            "14": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "15": [
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "16": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "17": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": 0.09204793028322439,
+            "scoh": 0.2222222222222222,
+            "scop": 0.13017429193899782,
+            "CMQ": 0.740569866290743,
+            "ccoh": 0.7407407407407408,
+            "ccop": 0.00017087444999786406
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.controller.index.InvestController",
+                "com.baicai.domain.system.Pagination"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.service.user.UserService"
+            ],
+            "7": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "8": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "11": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "12": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "13": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "14": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "15": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ],
+            "16": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "17": [
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "18": [
+                "com.baicai.util.help.GenModel"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": 0.059941520467836254,
+            "scoh": 0.18421052631578946,
+            "scop": 0.12426900584795321,
+            "CMQ": 0.8068807496323656,
+            "ccoh": 0.8070175438596492,
+            "ccop": 0.00013679422728360863
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "2": [
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "7": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "8": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "9": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "10": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "11": [
+                "com.baicai.service.user.UserService"
+            ],
+            "12": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "13": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "14": [
+                "com.baicai.service.project.ProjectService",
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "15": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ],
+            "16": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "17": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "18": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "19": [
+                "com.baicai.core.database.SqlBound"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": 0.04166666666666663,
+            "scoh": 0.175,
+            "scop": 0.13333333333333336,
+            "CMQ": 0.7998060941828256,
+            "ccoh": 0.8,
+            "ccop": 0.00019390581717451522
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "6": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "7": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "8": [
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "9": [
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "10": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "11": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "12": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "13": [
+                "com.baicai.controller.user.UserController",
+                "com.baicai.domain.user.User"
+            ],
+            "14": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "15": [
+                "com.baicai.service.project.ProjectService"
+            ],
+            "16": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "17": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "18": [
+                "com.baicai.service.user.UserService"
+            ],
+            "19": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "20": [
+                "com.baicai.core.database.SqlBound"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": -0.023015873015873045,
+            "scoh": 0.14285714285714285,
+            "scop": 0.1658730158730159,
+            "CMQ": 0.8569614512471655,
+            "ccoh": 0.8571428571428571,
+            "ccop": 0.00018140589569160998
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.service.system.MenuService",
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "8": [
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "11": [
+                "com.baicai.controller.user.UserController"
+            ],
+            "12": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "13": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "14": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "15": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "16": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "17": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "18": [
+                "com.baicai.domain.user.User"
+            ],
+            "19": [
+                "com.baicai.service.project.ProjectService"
+            ],
+            "20": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "21": [
+                "com.baicai.service.user.UserService"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": -0.06962481962481963,
+            "scoh": 0.11363636363636363,
+            "scop": 0.18326118326118326,
+            "CMQ": 0.8634677011300388,
+            "ccoh": 0.8636363636363636,
+            "ccop": 0.00016866250632484398
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.dao.user.UserHistoryDAO",
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "8": [
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "11": [
+                "com.baicai.controller.user.UserController"
+            ],
+            "12": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "13": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "14": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "15": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "16": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "17": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "18": [
+                "com.baicai.domain.user.User"
+            ],
+            "19": [
+                "com.baicai.service.project.ProjectService"
+            ],
+            "20": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "21": [
+                "com.baicai.service.user.UserService"
+            ],
+            "22": [
+                "com.baicai.service.system.MenuService"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": -0.0912384716732543,
+            "scoh": 0.08695652173913043,
+            "scop": 0.17819499341238473,
+            "CMQ": 0.8694246121639144,
+            "ccoh": 0.8695652173913043,
+            "ccop": 0.0001406052273898983
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean",
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.dao.user.UserHistoryDAO"
+            ],
+            "8": [
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "11": [
+                "com.baicai.controller.user.UserController"
+            ],
+            "12": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "13": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "14": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "15": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "16": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "17": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "18": [
+                "com.baicai.domain.user.User"
+            ],
+            "19": [
+                "com.baicai.service.project.ProjectService"
+            ],
+            "20": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "21": [
+                "com.baicai.service.user.UserService"
+            ],
+            "22": [
+                "com.baicai.service.system.MenuService"
+            ],
+            "23": [
+                "com.baicai.domain.user.UserHistory"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": -0.08061594202898552,
+            "scoh": 0.08333333333333333,
+            "scop": 0.16394927536231885,
+            "CMQ": 0.8748687250577609,
+            "ccoh": 0.875,
+            "ccop": 0.00013127494223902543
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.controller.user.UserController"
+            ],
+            "2": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "3": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean"
+            ],
+            "4": [
+                "com.baicai.dao.project.ProjectDAO",
+                "com.baicai.domain.project.Project"
+            ],
+            "5": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "8": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "9": [
+                "com.baicai.service.user.UserService"
+            ],
+            "10": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "11": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "12": [
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "13": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "14": [
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "15": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "16": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "17": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "18": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "19": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "20": [
+                "com.baicai.domain.user.User"
+            ],
+            "21": [
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "22": [
+                "com.baicai.service.project.ProjectService"
+            ],
+            "23": [
+                "com.baicai.service.system.MenuService"
+            ],
+            "24": [
+                "com.baicai.dao.user.UserHistoryDAO"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": -0.095,
+            "scoh": 0.06,
+            "scop": 0.155,
+            "CMQ": 0.9198666666666667,
+            "ccoh": 0.92,
+            "ccop": 0.00013333333333333334
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder",
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.dao.user.UserHistoryDAO"
+            ],
+            "8": [
+                "com.baicai.dao.project.ProjectDAO"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "11": [
+                "com.baicai.controller.user.UserController"
+            ],
+            "12": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "13": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "14": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "15": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "16": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "17": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "18": [
+                "com.baicai.domain.user.User"
+            ],
+            "19": [
+                "com.baicai.service.project.ProjectService"
+            ],
+            "20": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "21": [
+                "com.baicai.service.user.UserService"
+            ],
+            "22": [
+                "com.baicai.service.system.MenuService"
+            ],
+            "23": [
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "24": [
+                "com.baicai.domain.project.Project"
+            ],
+            "25": [
+                "com.baicai.util.help.ColumnBean"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": -0.10461538461538461,
+            "scoh": 0.038461538461538464,
+            "scop": 0.14307692307692307,
+            "CMQ": 0.9614248520710059,
+            "ccoh": 0.9615384615384616,
+            "ccop": 0.0001136094674556213
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.Generator",
+                "com.baicai.util.help.TableBean"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.dao.user.UserHistoryDAO"
+            ],
+            "8": [
+                "com.baicai.dao.project.ProjectDAO"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "11": [
+                "com.baicai.controller.user.UserController"
+            ],
+            "12": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "13": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "14": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "15": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "16": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "17": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "18": [
+                "com.baicai.domain.user.User"
+            ],
+            "19": [
+                "com.baicai.service.project.ProjectService"
+            ],
+            "20": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "21": [
+                "com.baicai.service.user.UserService"
+            ],
+            "22": [
+                "com.baicai.service.system.MenuService"
+            ],
+            "23": [
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "24": [
+                "com.baicai.domain.project.Project"
+            ],
+            "25": [
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "26": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.95,
+            "CHD": 0.4,
+            "IFN": 1.0,
+            "SMQ": -0.12108262108262108,
+            "scoh": 0.018518518518518517,
+            "scop": 0.1396011396011396,
+            "CMQ": 0.9628412107044585,
+            "ccoh": 0.9629629629629629,
+            "ccop": 0.00012175225850439525
+        },
+        "named_clusters": {
+            "1": [
+                "com.baicai.core.database.DaoUtil"
+            ],
+            "2": [
+                "com.baicai.util.help.TableBean"
+            ],
+            "3": [
+                "com.baicai.corewith.util.IDFactory"
+            ],
+            "4": [
+                "com.baicai.domain.system.menu.SysMenuTreeDomain"
+            ],
+            "5": [
+                "com.baicai.core.BaseTool",
+                "com.baicai.corewith.util.XorEncrypt"
+            ],
+            "6": [
+                "com.baicai.corewith.util.IdcardValidator"
+            ],
+            "7": [
+                "com.baicai.dao.user.UserHistoryDAO"
+            ],
+            "8": [
+                "com.baicai.dao.project.ProjectDAO"
+            ],
+            "9": [
+                "com.baicai.domain.system.ErrorMsg"
+            ],
+            "10": [
+                "com.baicai.core.database.BaseDAO"
+            ],
+            "11": [
+                "com.baicai.controller.user.UserController"
+            ],
+            "12": [
+                "com.baicai.controller.index.InvestController"
+            ],
+            "13": [
+                "com.baicai.domain.system.menu.SysMenu"
+            ],
+            "14": [
+                "com.baicai.controller.index.IndexController"
+            ],
+            "15": [
+                "com.baicai.dao.user.UserDAO"
+            ],
+            "16": [
+                "com.baicai.domain.system.Pagination"
+            ],
+            "17": [
+                "com.baicai.core.database.SqlBound"
+            ],
+            "18": [
+                "com.baicai.domain.user.User"
+            ],
+            "19": [
+                "com.baicai.service.project.ProjectService"
+            ],
+            "20": [
+                "com.baicai.util.help.GenModel"
+            ],
+            "21": [
+                "com.baicai.service.user.UserService"
+            ],
+            "22": [
+                "com.baicai.service.system.MenuService"
+            ],
+            "23": [
+                "com.baicai.domain.user.UserHistory"
+            ],
+            "24": [
+                "com.baicai.domain.project.Project"
+            ],
+            "25": [
+                "com.baicai.util.help.ColumnBean"
+            ],
+            "26": [
+                "com.baicai.corewith.util.IDFactory.IDFactoryHolder"
+            ],
+            "27": [
+                "com.baicai.util.help.Generator"
+            ]
+        }
+    }
+}

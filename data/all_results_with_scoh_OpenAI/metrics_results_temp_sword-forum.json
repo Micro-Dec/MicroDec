@@ -1,0 +1,4748 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.8174603174603176,
+            "CHD": 0.7215419501133787,
+            "IFN": 2.3333333333333335,
+            "SMQ": 0.18715085638998685,
+            "scoh": 0.23619235836627142,
+            "scop": 0.04904150197628458,
+            "CMQ": 0.09989459815546771,
+            "ccoh": 0.09989459815546771,
+            "ccop": 0.0
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "2": [
+                "com.sword.websocket.WebSocketConfig",
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.websocket.SystemWebSocketHandler",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "3": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.control.ManageController",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.model.VO.CommentVoS",
+                "com.sword.util.MailUtil",
+                "com.sword.mapper.UserMapper",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.model.Logtable",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper",
+                "com.sword.util.IpUtil",
+                "com.sword.model.Friend"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.721969696969697,
+            "CHD": 0.5884199134199134,
+            "IFN": 1.75,
+            "SMQ": 0.17492424242424243,
+            "scoh": 0.23895202020202022,
+            "scop": 0.06402777777777778,
+            "CMQ": 0.09262626262626263,
+            "ccoh": 0.10151515151515152,
+            "ccop": 0.008888888888888889
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.util.MailUtil",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.model.Logtable",
+                "com.sword.mapper.AddfriendMapper",
+                "com.sword.util.IpUtil",
+                "com.sword.model.Friend"
+            ],
+            "2": [
+                "com.sword.websocket.WebSocketConfig",
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "3": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "4": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.control.ManageController",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.model.VO.CommentVoS",
+                "com.sword.mapper.UserMapper",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "5": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "6": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.6288888888888888,
+            "CHD": 0.6133333333333334,
+            "IFN": 1.4,
+            "SMQ": 0.18731221655328795,
+            "scoh": 0.27840136054421766,
+            "scop": 0.0910891439909297,
+            "CMQ": 0.12142857142857143,
+            "ccoh": 0.13503401360544218,
+            "ccop": 0.013605442176870748
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "3": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.util.MailUtil",
+                "com.sword.mapper.UserMapper",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.model.Logtable",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper",
+                "com.sword.util.IpUtil",
+                "com.sword.model.Friend"
+            ],
+            "6": [
+                "com.sword.websocket.WebSocketConfig",
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "7": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.18606832155939304,
+            "scoh": 0.30575015262515265,
+            "scop": 0.11968183106575961,
+            "CMQ": 0.10812946973661261,
+            "ccoh": 0.11450702075702077,
+            "ccop": 0.006377551020408163
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.websocket.WebSocketConfig",
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "2": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.mapper.UserMapper",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "3": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "4": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "5": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "6": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "7": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.util.MailUtil",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.model.Logtable",
+                "com.sword.mapper.AddfriendMapper",
+                "com.sword.util.IpUtil",
+                "com.sword.model.Friend"
+            ],
+            "8": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.17540358946608947,
+            "scoh": 0.2993746993746994,
+            "scop": 0.12397110990860992,
+            "CMQ": 0.11518157768157766,
+            "ccoh": 0.12212602212602211,
+            "ccop": 0.006944444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.model.Logtable",
+                "com.sword.util.IpUtil",
+                "com.sword.model.Friend"
+            ],
+            "2": [
+                "com.sword.websocket.WebSocketConfig",
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "3": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.mapper.UserMapper",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "6": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "7": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "8": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "9": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.1467314814814815,
+            "scoh": 0.29011904761904767,
+            "scop": 0.14338756613756617,
+            "CMQ": 0.10198412698412698,
+            "ccoh": 0.10642857142857143,
+            "ccop": 0.0044444444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "2": [
+                "com.sword.websocket.WebSocketConfig",
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "3": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "4": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.mapper.UserMapper"
+            ],
+            "5": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "6": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "7": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "8": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.model.User",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "9": [
+                "com.sword.control.UserController",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable",
+                "com.sword.util.IpUtil",
+                "com.sword.model.Friend"
+            ],
+            "10": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.1778986291486292,
+            "scoh": 0.27990620490620494,
+            "scop": 0.10200757575757576,
+            "CMQ": 0.1914272596090778,
+            "ccoh": 0.19473304473304476,
+            "ccop": 0.003305785123966942
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "2": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.mapper.UserMapper",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "3": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "4": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "8": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.model.Logtable",
+                "com.sword.util.IpUtil",
+                "com.sword.model.Friend"
+            ],
+            "9": [
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "10": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "11": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.16682750120250123,
+            "scoh": 0.2908730158730159,
+            "scop": 0.12404551467051467,
+            "CMQ": 0.2544503476321658,
+            "ccoh": 0.2567460317460317,
+            "ccop": 0.002295684113865932
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.websocket.WebSocketConfig",
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "2": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.model.Logtable",
+                "com.sword.model.Friend"
+            ],
+            "3": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "6": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "7": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "8": [
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "9": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "10": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "11": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.util.IpUtil"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.1678982668566002,
+            "scoh": 0.2643162393162393,
+            "scop": 0.09641797245963914,
+            "CMQ": 0.3184418145956608,
+            "ccoh": 0.3200854700854701,
+            "ccop": 0.0016436554898093358
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "2": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.websocket.WebSocketHandshakeInterceptor",
+                "com.sword.model.Logtable",
+                "com.sword.model.Friend"
+            ],
+            "3": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "4": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.mapper.UserMapper",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "6": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "8": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "9": [
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "10": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "11": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "12": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "13": [
+                "com.sword.util.IpUtil"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.12122710622710622,
+            "scoh": 0.2619047619047619,
+            "scop": 0.1406776556776557,
+            "CMQ": 0.303795837861772,
+            "ccoh": 0.30476190476190484,
+            "ccop": 0.0009660669001328343
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "2": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "3": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "4": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "5": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "6": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "7": [
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.util.toVoUtil",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "8": [
+                "com.sword.model.Comment"
+            ],
+            "9": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.mapper.UserMapper"
+            ],
+            "10": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable",
+                "com.sword.util.IpUtil",
+                "com.sword.model.Friend"
+            ],
+            "11": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "12": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "13": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "14": [
+                "com.sword.websocket.WebSocketConfig"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.13370039682539683,
+            "scoh": 0.2219047619047619,
+            "scop": 0.08820436507936508,
+            "CMQ": 0.41258503401360547,
+            "ccoh": 0.4134920634920635,
+            "ccop": 0.0009070294784580498
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "2": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.UserMapper",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "3": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "4": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "5": [
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "6": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "7": [
+                "com.sword.control.ConcernController",
+                "com.sword.util.toVoUtil",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "8": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable",
+                "com.sword.model.Friend"
+            ],
+            "9": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "10": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "11": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "12": [
+                "com.sword.util.IpUtil"
+            ],
+            "13": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "14": [
+                "com.sword.control.ManageController",
+                "com.sword.model.Manage"
+            ],
+            "15": [
+                "com.sword.crawler.nchu.QQCY"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.1945590277777778,
+            "scoh": 0.28958333333333336,
+            "scop": 0.09502430555555555,
+            "CMQ": 0.38472222222222224,
+            "ccoh": 0.3854166666666667,
+            "ccop": 0.0006944444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController"
+            ],
+            "2": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "3": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "4": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "6": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable",
+                "com.sword.model.Friend"
+            ],
+            "7": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "8": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "9": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "10": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.mapper.UserMapper",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "11": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "12": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "13": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "14": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "15": [
+                "com.sword.control.ManageController",
+                "com.sword.model.Manage"
+            ],
+            "16": [
+                "com.sword.util.IpUtil"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.17275910364145655,
+            "scoh": 0.2714285714285714,
+            "scop": 0.09866946778711486,
+            "CMQ": 0.4061820316361839,
+            "ccoh": 0.40672268907563025,
+            "ccop": 0.0005406574394463668
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper",
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "3": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "4": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "6": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "8": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "9": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "10": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "11": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "12": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "13": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.UserMapper",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "14": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "15": [
+                "com.sword.util.IpUtil"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "17": [
+                "com.sword.model.Friend"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.14336873638344233,
+            "scoh": 0.25833333333333336,
+            "scop": 0.11496459694989104,
+            "CMQ": 0.44586911017130165,
+            "ccoh": 0.4462962962962963,
+            "ccop": 0.0004271861249946602
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "2": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "3": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "4": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "6": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "8": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "9": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "10": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.crawler.nchu.QQCY",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "11": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "12": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "13": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "16": [
+                "com.sword.model.Friend"
+            ],
+            "17": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController"
+            ],
+            "18": [
+                "com.sword.mapper.FriendMapper"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.13795890188434054,
+            "scoh": 0.2666666666666667,
+            "scop": 0.12870776478232618,
+            "CMQ": 0.40478437809924417,
+            "ccoh": 0.4052631578947368,
+            "ccop": 0.0004787797954926302
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "2": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "3": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "4": [
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "5": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "6": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "7": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "8": [
+                "com.sword.model.Friend"
+            ],
+            "9": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.mapper.UserMapper"
+            ],
+            "10": [
+                "com.sword.control.ManageController",
+                "com.sword.model.VO.ManTopic",
+                "com.sword.model.Manage"
+            ],
+            "11": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "12": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "13": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "14": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "15": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "16": [
+                "com.sword.util.IpUtil"
+            ],
+            "17": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "18": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "19": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.638888888888889,
+            "CHD": 0.5499999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.11588450292397656,
+            "scoh": 0.23583333333333328,
+            "scop": 0.11994883040935672,
+            "CMQ": 0.4879178208679593,
+            "ccoh": 0.4883333333333333,
+            "ccop": 0.0004155124653739612
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "2": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "3": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "4": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "5": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "6": [
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "7": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm",
+                "com.sword.mapper.UserMapper"
+            ],
+            "8": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "9": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "10": [
+                "com.sword.util.MailUtil"
+            ],
+            "11": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "12": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "14": [
+                "com.sword.model.Friend"
+            ],
+            "15": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "16": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "17": [
+                "com.sword.util.IpUtil"
+            ],
+            "18": [
+                "com.sword.control.ManageController",
+                "com.sword.model.Manage"
+            ],
+            "19": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "20": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.model.Logtable"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.13116071428571427,
+            "scoh": 0.2650793650793651,
+            "scop": 0.1339186507936508,
+            "CMQ": 0.4615646258503401,
+            "ccoh": 0.4619047619047619,
+            "ccop": 0.0003401360544217687
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController",
+                "com.sword.model.Manage"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.control.MessageControl",
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.13975468975468966,
+            "scoh": 0.28333333333333327,
+            "scop": 0.1435786435786436,
+            "CMQ": 0.4330709694346058,
+            "ccoh": 0.43333333333333335,
+            "ccop": 0.0002623638987275351
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.mapper.SectionMapper",
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController",
+                "com.sword.model.Manage"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.131219806763285,
+            "scoh": 0.2746376811594203,
+            "scop": 0.14341787439613526,
+            "CMQ": 0.45049029563550963,
+            "ccoh": 0.45072463768115945,
+            "ccop": 0.00023434204564983047
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController",
+                "com.sword.model.Manage"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.model.Concern",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.15248590982286636,
+            "scoh": 0.29097222222222224,
+            "scop": 0.13848631239935588,
+            "CMQ": 0.466482881747532,
+            "ccoh": 0.4666666666666666,
+            "ccop": 0.0001837849191346356
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController",
+                "com.sword.model.Manage"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.10234259259259268,
+            "scoh": 0.25933333333333336,
+            "scop": 0.15699074074074068,
+            "CMQ": 0.5278555555555556,
+            "ccoh": 0.528,
+            "ccop": 0.00014444444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.09556623931623934,
+            "scoh": 0.24999999999999997,
+            "scop": 0.15443376068376063,
+            "CMQ": 0.5447297830374753,
+            "ccoh": 0.5448717948717948,
+            "ccop": 0.00014201183431952663
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController",
+                "com.sword.mapper.TopicMapper"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.09038659385881609,
+            "scoh": 0.24691358024691357,
+            "scop": 0.15652698638809748,
+            "CMQ": 0.5616066428032239,
+            "ccoh": 0.5617283950617283,
+            "ccop": 0.00012175225850439525
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.mapper.LogtableMapper",
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.06497097295708407,
+            "scoh": 0.2202380952380952,
+            "scop": 0.15526712228101114,
+            "CMQ": 0.6129902578315276,
+            "ccoh": 0.613095238095238,
+            "ccop": 0.00010498026371042244
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.06060139573070608,
+            "scoh": 0.21551724137931033,
+            "scop": 0.15491584564860425,
+            "CMQ": 0.6263397154343306,
+            "ccoh": 0.6264367816091954,
+            "ccop": 9.706617486471403e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User",
+                "com.sword.model.Logtable"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController",
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.027298850574712624,
+            "scoh": 0.19722222222222222,
+            "scop": 0.1699233716475096,
+            "CMQ": 0.605465715418153,
+            "ccoh": 0.6055555555555555,
+            "ccop": 8.984013740256309e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.MailUtil",
+                "com.sword.model.Logtable"
+            ],
+            "2": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "8": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController"
+            ],
+            "9": [
+                "com.sword.model.Manage"
+            ],
+            "10": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "11": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "12": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "13": [
+                "com.sword.model.Friend"
+            ],
+            "14": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "15": [
+                "com.sword.util.IpUtil"
+            ],
+            "16": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "17": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "18": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "19": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "20": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "21": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "22": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "23": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "24": [
+                "com.sword.model.Concern"
+            ],
+            "25": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "26": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "27": [
+                "com.sword.control.ManageController"
+            ],
+            "28": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "29": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "30": [
+                "com.sword.control.TopicController"
+            ]
+        }
+    },
+    "KMeans_31": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.06827956989247314,
+            "scoh": 0.22580645161290322,
+            "scop": 0.15752688172043008,
+            "CMQ": 0.6558446063128687,
+            "ccoh": 0.6559139784946237,
+            "ccop": 6.937218175511619e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper"
+            ],
+            "2": [
+                "com.sword.util.MailUtil"
+            ],
+            "3": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "4": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "6": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "7": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "8": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController"
+            ],
+            "9": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "10": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "11": [
+                "com.sword.control.MessageControl",
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "12": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "13": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "14": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "15": [
+                "com.sword.control.ManageController"
+            ],
+            "16": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "17": [
+                "com.sword.model.Friend"
+            ],
+            "18": [
+                "com.sword.util.IpUtil"
+            ],
+            "19": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "20": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "21": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "22": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "23": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "24": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "25": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "26": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.Sixin",
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "28": [
+                "com.sword.control.TopicController"
+            ],
+            "29": [
+                "com.sword.model.Manage"
+            ],
+            "30": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ]
+        }
+    },
+    "KMeans_32": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": 0.003990255376344093,
+            "scoh": 0.18489583333333331,
+            "scop": 0.18090557795698922,
+            "CMQ": 0.6926392321366631,
+            "ccoh": 0.6927083333333333,
+            "ccop": 6.910119667013527e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.control.CommentController",
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ]
+        }
+    },
+    "KMeans_33": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.05417455808080812,
+            "scoh": 0.16414141414141412,
+            "scop": 0.21831597222222224,
+            "CMQ": 0.7322550792011019,
+            "ccoh": 0.7323232323232323,
+            "ccop": 6.815312213039486e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.TopicCatalogVo",
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ]
+        }
+    },
+    "KMeans_34": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.07690879382055854,
+            "scoh": 0.1446078431372549,
+            "scop": 0.22151663695781343,
+            "CMQ": 0.7401325300821997,
+            "ccoh": 0.7401960784313725,
+            "ccop": 6.354834917275937e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ],
+            "34": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ]
+        }
+    },
+    "KMeans_35": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.08855042016806722,
+            "scoh": 0.1261904761904762,
+            "scop": 0.2147408963585434,
+            "CMQ": 0.7475597297742625,
+            "ccoh": 0.7476190476190475,
+            "ccop": 5.931784478497281e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper",
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ],
+            "34": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "35": [
+                "com.sword.model.Concern"
+            ]
+        }
+    },
+    "KMeans_36": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.06679894179894177,
+            "scoh": 0.1388888888888889,
+            "scop": 0.20568783068783067,
+            "CMQ": 0.7777273872511968,
+            "ccoh": 0.7777777777777778,
+            "ccop": 5.039052658100277e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "2": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "3": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "4": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.model.Comment"
+            ],
+            "6": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "7": [
+                "com.sword.model.Manage"
+            ],
+            "8": [
+                "com.sword.control.ConcernController",
+                "com.sword.model.Concern"
+            ],
+            "9": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "10": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "11": [
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper"
+            ],
+            "12": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "13": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "14": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "15": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "16": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "17": [
+                "com.sword.model.Friend"
+            ],
+            "18": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "19": [
+                "com.sword.util.IpUtil"
+            ],
+            "20": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "24": [
+                "com.sword.control.ManageController"
+            ],
+            "25": [
+                "com.sword.control.TopicController"
+            ],
+            "26": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "29": [
+                "com.sword.control.CommentController"
+            ],
+            "30": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "31": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "32": [
+                "com.sword.util.MailUtil"
+            ],
+            "33": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "34": [
+                "com.sword.model.Logtable"
+            ],
+            "35": [
+                "com.sword.util.toVoUtil"
+            ],
+            "36": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.Sixin"
+            ]
+        }
+    },
+    "KMeans_37": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.0782032032032032,
+            "scoh": 0.12162162162162163,
+            "scop": 0.19982482482482483,
+            "CMQ": 0.7837364391418445,
+            "ccoh": 0.7837837837837838,
+            "ccop": 4.734464193923653e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "2": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.model.Topic",
+                "com.sword.control.ShowController"
+            ],
+            "5": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "6": [
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper"
+            ],
+            "7": [
+                "com.sword.control.MessageControl"
+            ],
+            "8": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "9": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "10": [
+                "com.sword.control.ConcernController"
+            ],
+            "11": [
+                "com.sword.model.Friend"
+            ],
+            "12": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "13": [
+                "com.sword.util.IpUtil"
+            ],
+            "14": [
+                "com.sword.model.Manage"
+            ],
+            "15": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "16": [
+                "com.sword.model.Comment"
+            ],
+            "17": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "18": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "19": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "20": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "21": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "22": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "23": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "24": [
+                "com.sword.control.ManageController"
+            ],
+            "25": [
+                "com.sword.control.TopicController"
+            ],
+            "26": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "27": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "28": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "29": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.util.MailUtil"
+            ],
+            "32": [
+                "com.sword.util.toVoUtil"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ],
+            "34": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.Sixin"
+            ],
+            "35": [
+                "com.sword.model.Concern"
+            ],
+            "36": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "37": [
+                "com.sword.model.Logtable"
+            ]
+        }
+    },
+    "KMeans_38": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.10621147463252731,
+            "scoh": 0.10526315789473684,
+            "scop": 0.21147463252726414,
+            "CMQ": 0.8157490049756277,
+            "ccoh": 0.8157894736842105,
+            "ccop": 4.0468708582806064e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "2": [
+                "com.sword.control.ManageController"
+            ],
+            "3": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "4": [
+                "com.sword.control.MessageControl"
+            ],
+            "5": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.Sixin"
+            ],
+            "6": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "7": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "8": [
+                "com.sword.control.CommentController"
+            ],
+            "9": [
+                "com.sword.model.Topic"
+            ],
+            "10": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "11": [
+                "com.sword.util.IpUtil"
+            ],
+            "12": [
+                "com.sword.model.Friend"
+            ],
+            "13": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "14": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "15": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "16": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "17": [
+                "com.sword.model.VO.AddFriendVo",
+                "com.sword.model.Addfriend"
+            ],
+            "18": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "19": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "20": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "21": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "22": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "23": [
+                "com.sword.model.Concern"
+            ],
+            "24": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "25": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "26": [
+                "com.sword.model.Logtable"
+            ],
+            "27": [
+                "com.sword.model.Manage"
+            ],
+            "28": [
+                "com.sword.util.MailUtil"
+            ],
+            "29": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "30": [
+                "com.sword.control.TopicController"
+            ],
+            "31": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "32": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "33": [
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper"
+            ],
+            "34": [
+                "com.sword.util.toVoUtil"
+            ],
+            "35": [
+                "com.sword.model.Comment"
+            ],
+            "36": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "37": [
+                "com.sword.control.ConcernController"
+            ],
+            "38": [
+                "com.sword.control.ShowController"
+            ]
+        }
+    },
+    "KMeans_39": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.11527215474583895,
+            "scoh": 0.08974358974358974,
+            "scop": 0.2050157444894287,
+            "CMQ": 0.8461101367557792,
+            "ccoh": 0.8461538461538461,
+            "ccop": 4.370939806695187e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "2": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "3": [
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper"
+            ],
+            "4": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "6": [
+                "com.sword.model.Comment"
+            ],
+            "7": [
+                "com.sword.model.VO.ConVo",
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "8": [
+                "com.sword.model.Topic"
+            ],
+            "9": [
+                "com.sword.model.Addfriend"
+            ],
+            "10": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "11": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "12": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "13": [
+                "com.sword.model.Friend"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "16": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "17": [
+                "com.sword.control.ManageController"
+            ],
+            "18": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "19": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "20": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "21": [
+                "com.sword.model.Concern"
+            ],
+            "22": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "23": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "24": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.util.toVoUtil"
+            ],
+            "27": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "28": [
+                "com.sword.model.Logtable"
+            ],
+            "29": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "30": [
+                "com.sword.control.TopicController"
+            ],
+            "31": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "32": [
+                "com.sword.util.MailUtil"
+            ],
+            "33": [
+                "com.sword.control.MessageControl"
+            ],
+            "34": [
+                "com.sword.control.CommentController"
+            ],
+            "35": [
+                "com.sword.control.ConcernController"
+            ],
+            "36": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "37": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.Sixin"
+            ],
+            "38": [
+                "com.sword.model.VO.AddFriendVo"
+            ],
+            "39": [
+                "com.sword.control.ShowController"
+            ]
+        }
+    },
+    "KMeans_40": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.1252136752136752,
+            "scoh": 0.075,
+            "scop": 0.2002136752136752,
+            "CMQ": 0.8749605522682445,
+            "ccoh": 0.875,
+            "ccop": 3.944773175542407e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.IpUtil"
+            ],
+            "2": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "3": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "4": [
+                "com.sword.model.Section",
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "5": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "6": [
+                "com.sword.control.CommentController"
+            ],
+            "7": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "8": [
+                "com.sword.model.Concern"
+            ],
+            "9": [
+                "com.sword.control.ManageController"
+            ],
+            "10": [
+                "com.sword.model.VO.AddFriendVo"
+            ],
+            "11": [
+                "com.sword.control.ShowController"
+            ],
+            "12": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "13": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.Sixin"
+            ],
+            "14": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "15": [
+                "com.sword.model.Friend"
+            ],
+            "16": [
+                "com.sword.model.VO.ConVo"
+            ],
+            "17": [
+                "com.sword.model.Topic"
+            ],
+            "18": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "19": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "20": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "21": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "22": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "23": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "24": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "25": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "26": [
+                "com.sword.model.Manage"
+            ],
+            "27": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "28": [
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.TopicController"
+            ],
+            "34": [
+                "com.sword.control.MessageControl"
+            ],
+            "35": [
+                "com.sword.util.toVoUtil"
+            ],
+            "36": [
+                "com.sword.model.Comment"
+            ],
+            "37": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "38": [
+                "com.sword.control.ConcernController"
+            ],
+            "39": [
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "40": [
+                "com.sword.model.Addfriend"
+            ]
+        }
+    },
+    "KMeans_41": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.12439024390243904,
+            "scoh": 0.07317073170731707,
+            "scop": 0.1975609756097561,
+            "CMQ": 0.8780130874479477,
+            "ccoh": 0.8780487804878049,
+            "ccop": 3.569303985722784e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.model.VO.GroupByIdVo",
+                "com.sword.mapper.SixinMapper"
+            ],
+            "2": [
+                "com.sword.model.Logtable"
+            ],
+            "3": [
+                "com.sword.model.Section"
+            ],
+            "4": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "5": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "6": [
+                "com.sword.control.MessageControl"
+            ],
+            "7": [
+                "com.sword.control.CommentController"
+            ],
+            "8": [
+                "com.sword.model.Manage"
+            ],
+            "9": [
+                "com.sword.control.ConcernController"
+            ],
+            "10": [
+                "com.sword.model.Topic"
+            ],
+            "11": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "12": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "13": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "14": [
+                "com.sword.model.Friend"
+            ],
+            "15": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "16": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "17": [
+                "com.sword.util.IpUtil"
+            ],
+            "18": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "19": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "20": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "21": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "22": [
+                "com.sword.model.Addfriend"
+            ],
+            "23": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "24": [
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "26": [
+                "com.sword.control.ManageController"
+            ],
+            "27": [
+                "com.sword.util.toVoUtil"
+            ],
+            "28": [
+                "com.sword.util.MailUtil"
+            ],
+            "29": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "30": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "31": [
+                "com.sword.control.TopicController"
+            ],
+            "32": [
+                "com.sword.model.Comment"
+            ],
+            "33": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "34": [
+                "com.sword.model.Concern"
+            ],
+            "35": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "36": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.Sixin"
+            ],
+            "37": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "38": [
+                "com.sword.control.ShowController"
+            ],
+            "39": [
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "40": [
+                "com.sword.model.VO.AddFriendVo"
+            ],
+            "41": [
+                "com.sword.model.VO.ConVo"
+            ]
+        }
+    },
+    "KMeans_42": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.13066202090592333,
+            "scoh": 0.05952380952380952,
+            "scop": 0.19018583042973286,
+            "CMQ": 0.8809186573697494,
+            "ccoh": 0.8809523809523809,
+            "ccop": 3.372358263154558e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler",
+                "com.sword.model.Sixin"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ],
+            "34": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "35": [
+                "com.sword.model.Concern"
+            ],
+            "36": [
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "37": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "38": [
+                "com.sword.model.VO.AddFriendVo"
+            ],
+            "39": [
+                "com.sword.model.Topic"
+            ],
+            "40": [
+                "com.sword.model.VO.GroupByIdVo"
+            ],
+            "41": [
+                "com.sword.mapper.SixinMapper"
+            ],
+            "42": [
+                "com.sword.model.VO.ConVo"
+            ]
+        }
+    },
+    "KMeans_43": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.14424141749723146,
+            "scoh": 0.046511627906976744,
+            "scop": 0.1907530454042082,
+            "CMQ": 0.9069424055903234,
+            "ccoh": 0.9069767441860465,
+            "ccop": 3.43385957231279e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController",
+                "com.sword.model.User"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ],
+            "34": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "35": [
+                "com.sword.model.Concern"
+            ],
+            "36": [
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "37": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "38": [
+                "com.sword.model.VO.AddFriendVo"
+            ],
+            "39": [
+                "com.sword.model.Topic"
+            ],
+            "40": [
+                "com.sword.model.VO.GroupByIdVo"
+            ],
+            "41": [
+                "com.sword.mapper.SixinMapper"
+            ],
+            "42": [
+                "com.sword.model.VO.ConVo"
+            ],
+            "43": [
+                "com.sword.model.Sixin"
+            ]
+        }
+    },
+    "KMeans_44": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.20322410147991543,
+            "scoh": 0.03409090909090909,
+            "scop": 0.23731501057082452,
+            "CMQ": 0.9317857765421559,
+            "ccoh": 0.9318181818181818,
+            "ccop": 3.240527602590634e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ],
+            "34": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "35": [
+                "com.sword.model.Concern"
+            ],
+            "36": [
+                "com.sword.control.SectionController",
+                "com.sword.model.VO.SectionVo"
+            ],
+            "37": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "38": [
+                "com.sword.model.VO.AddFriendVo"
+            ],
+            "39": [
+                "com.sword.model.Topic"
+            ],
+            "40": [
+                "com.sword.model.VO.GroupByIdVo"
+            ],
+            "41": [
+                "com.sword.mapper.SixinMapper"
+            ],
+            "42": [
+                "com.sword.model.VO.ConVo"
+            ],
+            "43": [
+                "com.sword.model.Sixin"
+            ],
+            "44": [
+                "com.sword.model.User"
+            ]
+        }
+    },
+    "KMeans_45": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.20707070707070707,
+            "scoh": 0.022222222222222223,
+            "scop": 0.2292929292929293,
+            "CMQ": 0.955525966738088,
+            "ccoh": 0.9555555555555556,
+            "ccop": 2.958881746760535e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVo",
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ],
+            "34": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "35": [
+                "com.sword.model.Concern"
+            ],
+            "36": [
+                "com.sword.model.VO.SectionVo"
+            ],
+            "37": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "38": [
+                "com.sword.model.VO.AddFriendVo"
+            ],
+            "39": [
+                "com.sword.model.Topic"
+            ],
+            "40": [
+                "com.sword.model.VO.GroupByIdVo"
+            ],
+            "41": [
+                "com.sword.mapper.SixinMapper"
+            ],
+            "42": [
+                "com.sword.model.VO.ConVo"
+            ],
+            "43": [
+                "com.sword.model.Sixin"
+            ],
+            "44": [
+                "com.sword.model.User"
+            ],
+            "45": [
+                "com.sword.control.SectionController"
+            ]
+        }
+    },
+    "KMeans_46": {
+        "metrics": {
+            "CHM": 0.6904761904761905,
+            "CHD": 0.47619047619047616,
+            "IFN": 1.0,
+            "SMQ": -0.21618357487922707,
+            "scoh": 0.010869565217391304,
+            "scop": 0.22705314009661837,
+            "CMQ": 0.9782337977549068,
+            "ccoh": 0.9782608695652174,
+            "ccop": 2.7071810310625686e-05
+        },
+        "named_clusters": {
+            "1": [
+                "com.sword.util.toVoUtil"
+            ],
+            "2": [
+                "com.sword.mapper.FriendMapper"
+            ],
+            "3": [
+                "com.sword.model.Section"
+            ],
+            "4": [
+                "com.sword.model.VO.ChartVo",
+                "com.sword.mapper.ManageMapper"
+            ],
+            "5": [
+                "com.sword.control.UserController"
+            ],
+            "6": [
+                "com.sword.model.VO.CommentVoS"
+            ],
+            "7": [
+                "com.sword.websocket.SixinHandler"
+            ],
+            "8": [
+                "com.sword.control.ManageController"
+            ],
+            "9": [
+                "com.sword.control.ShowController"
+            ],
+            "10": [
+                "com.sword.model.Addfriend"
+            ],
+            "11": [
+                "com.sword.mapper.UserMapper"
+            ],
+            "12": [
+                "com.sword.model.Comment"
+            ],
+            "13": [
+                "com.sword.control.ConcernController"
+            ],
+            "14": [
+                "com.sword.util.IpUtil"
+            ],
+            "15": [
+                "com.sword.mapper.CommentMapper"
+            ],
+            "16": [
+                "com.sword.websocket.WebSocketConfig"
+            ],
+            "17": [
+                "com.sword.websocket.WebSocketHandshakeInterceptor"
+            ],
+            "18": [
+                "com.sword.model.Friend"
+            ],
+            "19": [
+                "com.sword.control.TopicController"
+            ],
+            "20": [
+                "com.sword.crawler.nchu.QQCY"
+            ],
+            "21": [
+                "com.sword.model.VO.ManTopic"
+            ],
+            "22": [
+                "com.sword.control.MessageControl"
+            ],
+            "23": [
+                "com.sword.mapper.SectionMapper"
+            ],
+            "24": [
+                "com.sword.mapper.ConcernMapper"
+            ],
+            "25": [
+                "com.sword.model.Manage"
+            ],
+            "26": [
+                "com.sword.websocket.SystemWebSocketHandler"
+            ],
+            "27": [
+                "com.sword.mapper.TopicMapper"
+            ],
+            "28": [
+                "com.sword.mapper.LogtableMapper"
+            ],
+            "29": [
+                "com.sword.util.MailUtil"
+            ],
+            "30": [
+                "com.sword.mapper.AddfriendMapper"
+            ],
+            "31": [
+                "com.sword.model.Logtable"
+            ],
+            "32": [
+                "com.sword.mapper.CateLogMapper"
+            ],
+            "33": [
+                "com.sword.control.CommentController"
+            ],
+            "34": [
+                "com.sword.model.VO.TopicCatalogVo"
+            ],
+            "35": [
+                "com.sword.model.Concern"
+            ],
+            "36": [
+                "com.sword.model.VO.SectionVo"
+            ],
+            "37": [
+                "com.sword.model.VO.UnreadComm"
+            ],
+            "38": [
+                "com.sword.model.VO.AddFriendVo"
+            ],
+            "39": [
+                "com.sword.model.Topic"
+            ],
+            "40": [
+                "com.sword.model.VO.GroupByIdVo"
+            ],
+            "41": [
+                "com.sword.mapper.SixinMapper"
+            ],
+            "42": [
+                "com.sword.model.VO.ConVo"
+            ],
+            "43": [
+                "com.sword.model.Sixin"
+            ],
+            "44": [
+                "com.sword.model.User"
+            ],
+            "45": [
+                "com.sword.control.SectionController"
+            ],
+            "46": [
+                "com.sword.model.VO.CommentVo"
+            ]
+        }
+    }
+}

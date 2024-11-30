@@ -1,0 +1,1850 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.6335978835978836,
+            "CHD": 0.6243386243386243,
+            "IFN": 2.3333333333333335,
+            "SMQ": 0.2355113636363636,
+            "scoh": 0.2636363636363636,
+            "scop": 0.028125,
+            "CMQ": 0.6930303030303031,
+            "ccoh": 0.7030303030303031,
+            "ccop": 0.01
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService",
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "2": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService",
+                "com.vino.scaffold.shiro.controller.HomeController",
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.service.RoleService",
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.common.tag.SidebarRankTag",
+                "com.vino.scaffold.shiro.repository.RoleRepository",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.5157738095238096,
+            "CHD": 0.5803571428571428,
+            "IFN": 1.75,
+            "SMQ": 0.24559483726150394,
+            "scoh": 0.28324915824915825,
+            "scop": 0.03765432098765432,
+            "CMQ": 0.6764814814814815,
+            "ccoh": 0.6898148148148148,
+            "ccop": 0.013333333333333334
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService",
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "2": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService",
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.service.RoleService",
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.common.tag.SidebarRankTag",
+                "com.vino.scaffold.shiro.repository.RoleRepository",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.5529761904761905,
+            "CHD": 0.6071428571428572,
+            "IFN": 1.75,
+            "SMQ": 0.23901486520534138,
+            "scoh": 0.28888888888888886,
+            "scop": 0.0498740236835475,
+            "CMQ": 0.5953514739229023,
+            "ccoh": 0.6089569160997731,
+            "ccop": 0.013605442176870748
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.service.RoleService",
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.common.tag.SidebarRankTag",
+                "com.vino.scaffold.shiro.repository.RoleRepository",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "2": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService",
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "5": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController",
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService",
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "6": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.6423809523809525,
+            "CHD": 0.6857142857142857,
+            "IFN": 1.4,
+            "SMQ": 0.24944196428571427,
+            "scoh": 0.3325892857142857,
+            "scop": 0.08314732142857142,
+            "CMQ": 0.5051020408163266,
+            "ccoh": 0.5178571428571429,
+            "ccop": 0.012755102040816327
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController",
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService",
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.service.RoleService",
+                "com.vino.scaffold.common.tag.SidebarRankTag",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService",
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.6972222222222223,
+            "CHD": 0.7333333333333334,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.2072200176366843,
+            "scoh": 0.34285714285714286,
+            "scop": 0.13563712522045857,
+            "CMQ": 0.4558641975308641,
+            "ccoh": 0.46666666666666656,
+            "ccop": 0.010802469135802469
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "2": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.service.RoleService",
+                "com.vino.scaffold.common.tag.SidebarRankTag",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService",
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService",
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.6133333333333333,
+            "CHD": 0.6133333333333333,
+            "IFN": 1.4,
+            "SMQ": 0.23645502645502647,
+            "scoh": 0.33285714285714285,
+            "scop": 0.09640211640211639,
+            "CMQ": 0.4225749559082892,
+            "ccoh": 0.43047619047619046,
+            "ccop": 0.007901234567901235
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleService",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController",
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService",
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.6424603174603175,
+            "CHD": 0.7142857142857143,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.22183982683982684,
+            "scoh": 0.31341991341991343,
+            "scop": 0.09158008658008658,
+            "CMQ": 0.5535615899252263,
+            "ccoh": 0.5601731601731602,
+            "ccop": 0.006611570247933884
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleService",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": 0.23351010101010097,
+            "scoh": 0.3361111111111111,
+            "scop": 0.10260101010101011,
+            "CMQ": 0.5081496786042241,
+            "ccoh": 0.513888888888889,
+            "ccop": 0.00573921028466483
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleService",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": 0.2299679487179487,
+            "scoh": 0.35256410256410253,
+            "scop": 0.12259615384615383,
+            "CMQ": 0.5087113740959894,
+            "ccoh": 0.5128205128205128,
+            "ccop": 0.004109138724523341
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "2": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "5": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": 0.20909645909645913,
+            "scoh": 0.32738095238095244,
+            "scop": 0.11828449328449331,
+            "CMQ": 0.5920983778126634,
+            "ccoh": 0.5952380952380951,
+            "ccop": 0.003139717425431711
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "2": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "5": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController",
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.6972222222222223,
+            "CHD": 0.7333333333333334,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.1704365079365079,
+            "scoh": 0.31666666666666665,
+            "scop": 0.14623015873015874,
+            "CMQ": 0.5746031746031747,
+            "ccoh": 0.5777777777777778,
+            "ccop": 0.0031746031746031746
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "2": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "5": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "6": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.6499999999999999,
+            "CHD": 0.6777777777777777,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.1579861111111111,
+            "scoh": 0.3020833333333333,
+            "scop": 0.1440972222222222,
+            "CMQ": 0.601736111111111,
+            "ccoh": 0.6041666666666666,
+            "ccop": 0.0024305555555555556
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "5": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "6": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.controller.RegisterController",
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": 0.1600796568627451,
+            "scoh": 0.28921568627450983,
+            "scop": 0.12913602941176472,
+            "CMQ": 0.7039359861591696,
+            "ccoh": 0.7058823529411765,
+            "ccop": 0.0019463667820069205
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl",
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": 0.14923747276688457,
+            "scoh": 0.2777777777777778,
+            "scop": 0.12854030501089322,
+            "CMQ": 0.7206843521722415,
+            "ccoh": 0.7222222222222222,
+            "ccop": 0.0015378700499807767
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.UserExcelService",
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": 0.09868421052631579,
+            "scoh": 0.23684210526315788,
+            "scop": 0.1381578947368421,
+            "CMQ": 0.7882425361649739,
+            "ccoh": 0.7894736842105263,
+            "ccop": 0.0012311480455524776
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "2": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl",
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": 0.04473684210526316,
+            "scoh": 0.2,
+            "scop": 0.15526315789473685,
+            "CMQ": 0.8490027700831024,
+            "ccoh": 0.85,
+            "ccop": 0.000997229916897507
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl",
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": -0.00515873015873014,
+            "scoh": 0.16666666666666666,
+            "scop": 0.1718253968253968,
+            "CMQ": 0.903922902494331,
+            "ccoh": 0.9047619047619048,
+            "ccop": 0.0008390022675736962
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "2": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.repository.UserRepository",
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "3": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "21": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": -0.023809523809523808,
+            "scoh": 0.1590909090909091,
+            "scop": 0.1829004329004329,
+            "CMQ": 0.9083412979516875,
+            "ccoh": 0.9090909090909091,
+            "ccop": 0.0007496111392215288
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "5": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.realm.UserRealm",
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "21": [
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "22": [
+                "com.vino.scaffold.shiro.repository.UserRepository"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": -0.07312252964426877,
+            "scoh": 0.13043478260869565,
+            "scop": 0.20355731225296442,
+            "CMQ": 0.9123716977300067,
+            "ccoh": 0.9130434782608695,
+            "ccop": 0.0006717805308628474
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User",
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.realm.UserRealm"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "21": [
+                "com.vino.scaffold.shiro.repository.UserRepository"
+            ],
+            "22": [
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "23": [
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": -0.18206521739130432,
+            "scoh": 0.10416666666666667,
+            "scop": 0.286231884057971,
+            "CMQ": 0.95771634110481,
+            "ccoh": 0.9583333333333334,
+            "ccop": 0.0006169922285234195
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.controller.ResourceController",
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.realm.UserRealm"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "21": [
+                "com.vino.scaffold.shiro.repository.UserRepository"
+            ],
+            "22": [
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "23": [
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "24": [
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": -0.20708333333333334,
+            "scoh": 0.08,
+            "scop": 0.28708333333333336,
+            "CMQ": 0.9593555555555555,
+            "ccoh": 0.96,
+            "ccop": 0.0006444444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.realm.UserRealm"
+            ],
+            "13": [
+                "com.vino.scaffold.shiro.entity.Resource",
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "21": [
+                "com.vino.scaffold.shiro.repository.UserRepository"
+            ],
+            "22": [
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "23": [
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "24": [
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "25": [
+                "com.vino.scaffold.shiro.controller.ResourceController"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": -0.23807692307692307,
+            "scoh": 0.057692307692307696,
+            "scop": 0.2957692307692308,
+            "CMQ": 0.9609704142011835,
+            "ccoh": 0.9615384615384616,
+            "ccop": 0.0005680473372781065
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.entity.Role",
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.realm.UserRealm"
+            ],
+            "13": [
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "21": [
+                "com.vino.scaffold.shiro.repository.UserRepository"
+            ],
+            "22": [
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "23": [
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "24": [
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "25": [
+                "com.vino.scaffold.shiro.controller.ResourceController"
+            ],
+            "26": [
+                "com.vino.scaffold.shiro.entity.Resource"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": -0.26424501424501423,
+            "scoh": 0.037037037037037035,
+            "scop": 0.30128205128205127,
+            "CMQ": 0.9994724068798143,
+            "ccoh": 1.0,
+            "ccop": 0.0005275931201857128
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree",
+                "com.vino.scaffold.utils.TreeUtils"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.entity.Role"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.realm.UserRealm"
+            ],
+            "13": [
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "21": [
+                "com.vino.scaffold.shiro.repository.UserRepository"
+            ],
+            "22": [
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "23": [
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "24": [
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "25": [
+                "com.vino.scaffold.shiro.controller.ResourceController"
+            ],
+            "26": [
+                "com.vino.scaffold.shiro.entity.Resource"
+            ],
+            "27": [
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.7166666666666667,
+            "CHD": 0.7714285714285715,
+            "IFN": 1.0,
+            "SMQ": -0.28769841269841273,
+            "scoh": 0.017857142857142856,
+            "scop": 0.3055555555555556,
+            "CMQ": 0.9995240894711794,
+            "ccoh": 1.0,
+            "ccop": 0.0004759105288205817
+        },
+        "named_clusters": {
+            "1": [
+                "com.vino.scaffold.shiro.service.ResourceServiceImpl"
+            ],
+            "2": [
+                "com.vino.scaffold.entity.base.BaseEntity"
+            ],
+            "3": [
+                "com.vino.scaffold.service.base.AbstractBaseServiceImpl",
+                "com.vino.scaffold.repository.base.BaseRepository"
+            ],
+            "4": [
+                "com.vino.scaffold.shiro.filter.MyFormAuthenticationFilter"
+            ],
+            "5": [
+                "com.vino.scaffold.utils.Tree"
+            ],
+            "6": [
+                "com.vino.scaffold.shiro.service.RoleService"
+            ],
+            "7": [
+                "com.vino.scaffold.shiro.entity.User"
+            ],
+            "8": [
+                "com.vino.scaffold.shiro.service.ResourceService"
+            ],
+            "9": [
+                "com.vino.scaffold.shiro.service.RoleServiceImpl"
+            ],
+            "10": [
+                "com.vino.scaffold.shiro.entity.Role"
+            ],
+            "11": [
+                "com.vino.scaffold.shiro.controller.RegisterController"
+            ],
+            "12": [
+                "com.vino.scaffold.shiro.realm.UserRealm"
+            ],
+            "13": [
+                "com.vino.scaffold.common.tag.SidebarRankTag"
+            ],
+            "14": [
+                "com.vino.scaffold.shiro.service.PasswordHelper"
+            ],
+            "15": [
+                "com.vino.scaffold.shiro.controller.HomeController"
+            ],
+            "16": [
+                "com.vino.scaffold.shiro.filter.MonitorAccessControlFilter"
+            ],
+            "17": [
+                "com.vino.scaffold.shiro.repository.UserRepositoryImpl"
+            ],
+            "18": [
+                "com.vino.scaffold.shiro.repository.RoleRepository"
+            ],
+            "19": [
+                "com.vino.scaffold.shiro.service.UserExcelService"
+            ],
+            "20": [
+                "com.vino.scaffold.shiro.controller.UserController"
+            ],
+            "21": [
+                "com.vino.scaffold.shiro.repository.UserRepository"
+            ],
+            "22": [
+                "com.vino.scaffold.shiro.service.UserService"
+            ],
+            "23": [
+                "com.vino.scaffold.shiro.repository.ResourceRepository"
+            ],
+            "24": [
+                "com.vino.scaffold.shiro.service.UserServiceImpl"
+            ],
+            "25": [
+                "com.vino.scaffold.shiro.controller.ResourceController"
+            ],
+            "26": [
+                "com.vino.scaffold.shiro.entity.Resource"
+            ],
+            "27": [
+                "com.vino.scaffold.shiro.controller.RoleController"
+            ],
+            "28": [
+                "com.vino.scaffold.utils.TreeUtils"
+            ]
+        }
+    }
+}

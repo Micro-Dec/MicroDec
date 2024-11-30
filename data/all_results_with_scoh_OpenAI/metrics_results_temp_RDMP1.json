@@ -1,0 +1,1608 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.13270562770562772,
+            "scoh": 0.23497835497835498,
+            "scop": 0.10227272727272727,
+            "CMQ": 0.45441558441558444,
+            "ccoh": 0.46441558441558445,
+            "ccop": 0.01
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService",
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao",
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.KMean",
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint",
+                "ustc.sse.datamining.algo.kmeans.Lib",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point",
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "3": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao",
+                "ustc.sse.controller.LoginController",
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.18472222222222223,
+            "scoh": 0.2888888888888889,
+            "scop": 0.10416666666666667,
+            "CMQ": 0.37801587301587297,
+            "ccoh": 0.38690476190476186,
+            "ccop": 0.008888888888888889
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.Lib",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point",
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "2": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao",
+                "ustc.sse.controller.LoginController",
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "3": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "4": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService",
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao",
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.datamining.algo.kmeans.KMean",
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.18681972789115645,
+            "scoh": 0.2552721088435374,
+            "scop": 0.06845238095238096,
+            "CMQ": 0.4773242630385488,
+            "ccoh": 0.4795918367346939,
+            "ccop": 0.0022675736961451248
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService",
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao",
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "2": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "3": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.KMean",
+                "ustc.sse.datamining.algo.kmeans.Lib",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "4": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao",
+                "ustc.sse.controller.LoginController",
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.2295918367346939,
+            "scoh": 0.30059523809523814,
+            "scop": 0.07100340136054421,
+            "CMQ": 0.51828231292517,
+            "ccoh": 0.5208333333333333,
+            "ccop": 0.002551020408163265
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao",
+                "ustc.sse.controller.LoginController",
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.KMean",
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "3": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService",
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.Lib",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.27705026455026455,
+            "scoh": 0.3322751322751323,
+            "scop": 0.055224867724867725,
+            "CMQ": 0.5696428571428571,
+            "ccoh": 0.5719576719576719,
+            "ccop": 0.0023148148148148147
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.datamining.algo.kmeans.KMean",
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "2": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.controller.LoginController",
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "3": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "4": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService",
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "5": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.Lib",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "9": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.22285714285714286,
+            "scoh": 0.29904761904761906,
+            "scop": 0.0761904761904762,
+            "CMQ": 0.6132804232804232,
+            "ccoh": 0.6147619047619047,
+            "ccop": 0.0014814814814814814
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "2": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "3": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService",
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.controller.LoginController",
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.Lib",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "8": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.22467532467532464,
+            "scoh": 0.287012987012987,
+            "scop": 0.062337662337662345,
+            "CMQ": 0.6629515938606848,
+            "ccoh": 0.6649350649350649,
+            "ccop": 0.0019834710743801653
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.controller.LoginController",
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.Lib",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "3": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "9": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "10": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.1784090909090909,
+            "scoh": 0.31666666666666665,
+            "scop": 0.13825757575757575,
+            "CMQ": 0.6039485766758493,
+            "ccoh": 0.6055555555555555,
+            "ccop": 0.0016069788797061526
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "2": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.controller.LoginController",
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "3": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "8": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "9": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "10": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "12": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.18429487179487183,
+            "scoh": 0.3012820512820513,
+            "scop": 0.11698717948717949,
+            "CMQ": 0.6393819855358316,
+            "ccoh": 0.641025641025641,
+            "ccop": 0.0016436554898093358
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.controller.LoginController"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "3": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell",
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "12": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.1784188034188034,
+            "scoh": 0.27976190476190477,
+            "scop": 0.10134310134310136,
+            "CMQ": 0.6654590830415006,
+            "ccoh": 0.6666666666666666,
+            "ccop": 0.0012075836251660428
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel",
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "2": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.controller.LoginController"
+            ],
+            "3": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "9": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "10": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "12": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "13": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "14": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.0674603174603175,
+            "scoh": 0.2611111111111111,
+            "scop": 0.19365079365079363,
+            "CMQ": 0.6879818594104309,
+            "ccoh": 0.6888888888888889,
+            "ccop": 0.0009070294784580498
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "2": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "3": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task",
+                "ustc.sse.service.TaskService"
+            ],
+            "7": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.controller.LoginController"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "12": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "15": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.8333333333333334,
+            "CHD": 0.567857142857143,
+            "IFN": 1.25,
+            "SMQ": 0.06493055555555555,
+            "scoh": 0.24479166666666669,
+            "scop": 0.17986111111111114,
+            "CMQ": 0.7282638888888888,
+            "ccoh": 0.7291666666666666,
+            "ccop": 0.0009027777777777778
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.TaskService"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "3": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService",
+                "ustc.sse.controller.LoginController"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "7": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "9": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "10": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "11": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task"
+            ],
+            "12": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "13": [
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "15": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "16": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": 0.0655637254901961,
+            "scoh": 0.23529411764705882,
+            "scop": 0.16973039215686272,
+            "CMQ": 0.7441789215686274,
+            "ccoh": 0.7450980392156863,
+            "ccop": 0.0009191176470588235
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.TaskService"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "3": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "4": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "5": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "8": [
+                "ustc.sse.model.User",
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "12": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "13": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "15": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "16": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task"
+            ],
+            "17": [
+                "ustc.sse.controller.LoginController"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": 0.038671023965141604,
+            "scoh": 0.2222222222222222,
+            "scop": 0.1835511982570806,
+            "CMQ": 0.7213251313597334,
+            "ccoh": 0.7222222222222222,
+            "ccop": 0.0008970908624887865
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Center",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "2": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "3": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "7": [
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "12": [
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "15": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "16": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "17": [
+                "ustc.sse.service.TaskService"
+            ],
+            "18": [
+                "ustc.sse.model.User"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": -0.09941520467836257,
+            "scoh": 0.21052631578947367,
+            "scop": 0.30994152046783624,
+            "CMQ": 0.736123935569919,
+            "ccoh": 0.7368421052631579,
+            "ccop": 0.0007181696932389453
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "2": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task"
+            ],
+            "3": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "6": [
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "9": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "10": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.Line",
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "12": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "15": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "16": [
+                "ustc.sse.service.TaskService"
+            ],
+            "17": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "18": [
+                "ustc.sse.model.User"
+            ],
+            "19": [
+                "ustc.sse.datamining.algo.kmeans.Center"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": -0.1394736842105263,
+            "scoh": 0.175,
+            "scop": 0.3144736842105263,
+            "CMQ": 0.7994182825484765,
+            "ccoh": 0.8,
+            "ccop": 0.0005817174515235457
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Center"
+            ],
+            "3": [
+                "ustc.sse.controller.UserController",
+                "ustc.sse.service.UserService"
+            ],
+            "4": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task"
+            ],
+            "5": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "9": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "10": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "11": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "12": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "13": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "15": [
+                "ustc.sse.model.User"
+            ],
+            "16": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "17": [
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "18": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "19": [
+                "ustc.sse.datamining.algo.kmeans.Line"
+            ],
+            "20": [
+                "ustc.sse.service.TaskService"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": -0.16785714285714287,
+            "scoh": 0.14285714285714285,
+            "scop": 0.3107142857142857,
+            "CMQ": 0.8565759637188208,
+            "ccoh": 0.8571428571428571,
+            "ccop": 0.0005668934240362812
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.controller.UserController"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Center"
+            ],
+            "3": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "8": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "9": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "10": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "11": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "12": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "15": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "16": [
+                "ustc.sse.service.TaskService"
+            ],
+            "17": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "18": [
+                "ustc.sse.datamining.algo.kmeans.Node",
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "19": [
+                "ustc.sse.model.User"
+            ],
+            "20": [
+                "ustc.sse.datamining.algo.kmeans.Line"
+            ],
+            "21": [
+                "ustc.sse.service.UserService"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": -0.3203463203463203,
+            "scoh": 0.11363636363636363,
+            "scop": 0.43398268398268397,
+            "CMQ": 0.9086224021288956,
+            "ccoh": 0.9090909090909091,
+            "ccop": 0.00046850696201345554
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.UserService"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Node"
+            ],
+            "3": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean",
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "8": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "12": [
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "15": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "16": [
+                "ustc.sse.model.User"
+            ],
+            "17": [
+                "ustc.sse.service.TaskService"
+            ],
+            "18": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "19": [
+                "ustc.sse.datamining.algo.kmeans.Center"
+            ],
+            "20": [
+                "ustc.sse.datamining.algo.kmeans.Line"
+            ],
+            "21": [
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "22": [
+                "ustc.sse.controller.UserController"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": -0.3122529644268775,
+            "scoh": 0.08695652173913043,
+            "scop": 0.39920948616600793,
+            "CMQ": 0.9561311690543518,
+            "ccoh": 0.9565217391304348,
+            "ccop": 0.0003905700760830508
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.UserService"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Node"
+            ],
+            "3": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean"
+            ],
+            "8": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.controller.TaskController",
+                "ustc.sse.model.Task"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "12": [
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "15": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "16": [
+                "ustc.sse.model.User"
+            ],
+            "17": [
+                "ustc.sse.service.TaskService"
+            ],
+            "18": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "19": [
+                "ustc.sse.datamining.algo.kmeans.Center"
+            ],
+            "20": [
+                "ustc.sse.datamining.algo.kmeans.Line"
+            ],
+            "21": [
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "22": [
+                "ustc.sse.controller.UserController"
+            ],
+            "23": [
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": -0.32971014492753625,
+            "scoh": 0.0625,
+            "scop": 0.39221014492753625,
+            "CMQ": 0.9579657634950641,
+            "ccoh": 0.9583333333333334,
+            "ccop": 0.0003675698382692712
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.UserService"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Node"
+            ],
+            "3": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.service.impl.TaskServiceImpl",
+                "ustc.sse.dao.TaskDao"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean"
+            ],
+            "8": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.controller.TaskController"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "12": [
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "15": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "16": [
+                "ustc.sse.model.User"
+            ],
+            "17": [
+                "ustc.sse.service.TaskService"
+            ],
+            "18": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "19": [
+                "ustc.sse.datamining.algo.kmeans.Center"
+            ],
+            "20": [
+                "ustc.sse.datamining.algo.kmeans.Line"
+            ],
+            "21": [
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "22": [
+                "ustc.sse.controller.UserController"
+            ],
+            "23": [
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "24": [
+                "ustc.sse.model.Task"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": -0.32083333333333336,
+            "scoh": 0.04,
+            "scop": 0.36083333333333334,
+            "CMQ": 0.9596111111111111,
+            "ccoh": 0.96,
+            "ccop": 0.0003888888888888889
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.UserService"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Node"
+            ],
+            "3": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.dao.TaskDao"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean"
+            ],
+            "8": [
+                "ustc.sse.service.impl.UserServiceImpl",
+                "ustc.sse.dao.UserDao"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.controller.TaskController"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "12": [
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "15": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "16": [
+                "ustc.sse.model.User"
+            ],
+            "17": [
+                "ustc.sse.service.TaskService"
+            ],
+            "18": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "19": [
+                "ustc.sse.datamining.algo.kmeans.Center"
+            ],
+            "20": [
+                "ustc.sse.datamining.algo.kmeans.Line"
+            ],
+            "21": [
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "22": [
+                "ustc.sse.controller.UserController"
+            ],
+            "23": [
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "24": [
+                "ustc.sse.model.Task"
+            ],
+            "25": [
+                "ustc.sse.service.impl.TaskServiceImpl"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.6542857142857144,
+            "IFN": 1.0,
+            "SMQ": -0.3138461538461539,
+            "scoh": 0.019230769230769232,
+            "scop": 0.3330769230769231,
+            "CMQ": 0.9611313609467456,
+            "ccoh": 0.9615384615384616,
+            "ccop": 0.0004071005917159764
+        },
+        "named_clusters": {
+            "1": [
+                "ustc.sse.service.UserService"
+            ],
+            "2": [
+                "ustc.sse.datamining.algo.kmeans.Node"
+            ],
+            "3": [
+                "ustc.sse.dao.impl.TaskDaoImpl"
+            ],
+            "4": [
+                "ustc.sse.controller.DataMiningController",
+                "ustc.sse.model.Classifer"
+            ],
+            "5": [
+                "ustc.sse.dao.TaskDao"
+            ],
+            "6": [
+                "ustc.sse.rjava.RJavaInterface"
+            ],
+            "7": [
+                "ustc.sse.datamining.algo.kmeans.gui.GuiKmean"
+            ],
+            "8": [
+                "ustc.sse.service.impl.UserServiceImpl"
+            ],
+            "9": [
+                "ustc.sse.datamining.algo.kmeans.gui.ColorList"
+            ],
+            "10": [
+                "ustc.sse.controller.TaskController"
+            ],
+            "11": [
+                "ustc.sse.datamining.algo.kmeans.KMean"
+            ],
+            "12": [
+                "ustc.sse.datamining.algo.kmeans.Point"
+            ],
+            "13": [
+                "ustc.sse.dao.impl.UserDaoImpl"
+            ],
+            "14": [
+                "ustc.sse.datamining.algo.kmeans.gui.MeanPanel"
+            ],
+            "15": [
+                "ustc.sse.datamining.algo.kmeans.Lib.Cell"
+            ],
+            "16": [
+                "ustc.sse.model.User"
+            ],
+            "17": [
+                "ustc.sse.service.TaskService"
+            ],
+            "18": [
+                "ustc.sse.controller.LoginController"
+            ],
+            "19": [
+                "ustc.sse.datamining.algo.kmeans.Center"
+            ],
+            "20": [
+                "ustc.sse.datamining.algo.kmeans.Line"
+            ],
+            "21": [
+                "ustc.sse.datamining.algo.kmeans.Lib"
+            ],
+            "22": [
+                "ustc.sse.controller.UserController"
+            ],
+            "23": [
+                "ustc.sse.datamining.algo.kmeans.re_paint"
+            ],
+            "24": [
+                "ustc.sse.model.Task"
+            ],
+            "25": [
+                "ustc.sse.service.impl.TaskServiceImpl"
+            ],
+            "26": [
+                "ustc.sse.dao.UserDao"
+            ]
+        }
+    }
+}

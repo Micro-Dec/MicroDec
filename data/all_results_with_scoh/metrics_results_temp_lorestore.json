@@ -1,0 +1,2854 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.4111111111111111,
+            "CHD": 0.17777777777777778,
+            "IFN": 4.0,
+            "SMQ": 0.24777255639097745,
+            "scoh": 0.2766416040100251,
+            "scop": 0.02886904761904762,
+            "CMQ": 0.002255639097744365,
+            "ccoh": 0.06225563909774436,
+            "ccop": 0.06
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.4111111111111111,
+            "CHD": 0.17777777777777778,
+            "IFN": 4.0,
+            "SMQ": 0.221005291005291,
+            "scoh": 0.26666666666666666,
+            "scop": 0.04566137566137566,
+            "CMQ": 0.12015873015873016,
+            "ccoh": 0.14682539682539683,
+            "ccop": 0.02666666666666667
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.4111111111111111,
+            "CHD": 0.17777777777777778,
+            "IFN": 4.0,
+            "SMQ": 0.2736678004535148,
+            "scoh": 0.31190476190476196,
+            "scop": 0.038236961451247165,
+            "CMQ": 0.10770975056689343,
+            "ccoh": 0.12585034013605442,
+            "ccop": 0.018140589569160998
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.7152777777777778,
+            "CHD": 0.5694444444444444,
+            "IFN": 2.0,
+            "SMQ": 0.2765634662956092,
+            "scoh": 0.31471861471861473,
+            "scop": 0.03815514842300556,
+            "CMQ": 0.14465831787260358,
+            "ccoh": 0.1574134199134199,
+            "ccop": 0.012755102040816327
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback",
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.7152777777777778,
+            "CHD": 0.5694444444444444,
+            "IFN": 2.0,
+            "SMQ": 0.3226746632996633,
+            "scoh": 0.3630832130832131,
+            "scop": 0.04040854978354978,
+            "CMQ": 0.13220699054032384,
+            "ccoh": 0.1399230399230399,
+            "ccop": 0.00771604938271605
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback",
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.7152777777777778,
+            "CHD": 0.5694444444444444,
+            "IFN": 2.0,
+            "SMQ": 0.3067989417989418,
+            "scoh": 0.35035714285714287,
+            "scop": 0.04355820105820106,
+            "CMQ": 0.1202116402116402,
+            "ccoh": 0.1276190476190476,
+            "ccop": 0.007407407407407407
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback",
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.7152777777777778,
+            "CHD": 0.5694444444444444,
+            "IFN": 2.0,
+            "SMQ": 0.3239780457637601,
+            "scoh": 0.39372294372294375,
+            "scop": 0.06974489795918368,
+            "CMQ": 0.20046438410074774,
+            "ccoh": 0.20476190476190476,
+            "ccop": 0.004297520661157025
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.7152777777777778,
+            "CHD": 0.5694444444444444,
+            "IFN": 2.0,
+            "SMQ": 0.28193542568542573,
+            "scoh": 0.3547619047619048,
+            "scop": 0.07282647907647907,
+            "CMQ": 0.27195329922602646,
+            "ccoh": 0.27539682539682536,
+            "ccop": 0.003443526170798898
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.7152777777777778,
+            "CHD": 0.5694444444444444,
+            "IFN": 2.0,
+            "SMQ": 0.2331471306471307,
+            "scoh": 0.30183150183150187,
+            "scop": 0.06868437118437118,
+            "CMQ": 0.32899877899877894,
+            "ccoh": 0.33113553113553107,
+            "ccop": 0.0021367521367521365
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.3666666666666667,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.25494505494505504,
+            "scoh": 0.3202380952380953,
+            "scop": 0.06529304029304028,
+            "CMQ": 0.3649760495914342,
+            "ccoh": 0.36666666666666664,
+            "ccop": 0.00169061707523246
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.3666666666666667,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.2592724867724868,
+            "scoh": 0.33000000000000007,
+            "scop": 0.07072751322751322,
+            "CMQ": 0.39392290249433104,
+            "ccoh": 0.39555555555555555,
+            "ccop": 0.0016326530612244899
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse",
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.6,
+            "CHD": 0.3666666666666667,
+            "IFN": 1.3333333333333333,
+            "SMQ": 0.25256481481481485,
+            "scoh": 0.3197916666666667,
+            "scop": 0.06722685185185183,
+            "CMQ": 0.4882638888888889,
+            "ccoh": 0.4895833333333333,
+            "ccop": 0.0013194444444444445
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.2642973856209151,
+            "scoh": 0.33529411764705885,
+            "scop": 0.07099673202614377,
+            "CMQ": 0.47522707612456744,
+            "ccoh": 0.4764705882352941,
+            "ccop": 0.0012435121107266436
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.25343137254901965,
+            "scoh": 0.32592592592592595,
+            "scop": 0.07249455337690631,
+            "CMQ": 0.5415673458926054,
+            "ccoh": 0.5425925925925925,
+            "ccop": 0.0010252466999871844
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider",
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.22597465886939566,
+            "scoh": 0.30877192982456136,
+            "scop": 0.0827972709551657,
+            "CMQ": 0.5306897848910777,
+            "ccoh": 0.5315789473684212,
+            "ccop": 0.0008891624773434561
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.19315789473684214,
+            "scoh": 0.26833333333333337,
+            "scop": 0.07517543859649121,
+            "CMQ": 0.6043074792243767,
+            "ccoh": 0.605,
+            "ccop": 0.0006925207756232687
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler",
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.1694444444444444,
+            "scoh": 0.2579365079365079,
+            "scop": 0.0884920634920635,
+            "CMQ": 0.6183446712018141,
+            "ccoh": 0.6190476190476191,
+            "ccop": 0.0007029478458049886
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView",
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.15223665223665223,
+            "scoh": 0.2287878787878788,
+            "scop": 0.07655122655122655,
+            "CMQ": 0.670649912857705,
+            "ccoh": 0.6712121212121211,
+            "ccop": 0.0005622083544161465
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory",
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.10531949934123849,
+            "scoh": 0.1920289855072464,
+            "scop": 0.0867094861660079,
+            "CMQ": 0.6806282449863822,
+            "ccoh": 0.6811594202898551,
+            "ccop": 0.0005311753034729491
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.062349033816425134,
+            "scoh": 0.16319444444444445,
+            "scop": 0.10084541062801931,
+            "CMQ": 0.749593047679059,
+            "ccoh": 0.75,
+            "ccop": 0.0004069523209409788
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy",
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.0701388888888889,
+            "scoh": 0.16333333333333336,
+            "scop": 0.09319444444444445,
+            "CMQ": 0.7462888888888888,
+            "ccoh": 0.7466666666666666,
+            "ccop": 0.00037777777777777777
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.09679487179487177,
+            "scoh": 0.18589743589743588,
+            "scop": 0.0891025641025641,
+            "CMQ": 0.7303715976331361,
+            "ccoh": 0.7307692307692307,
+            "ccop": 0.0003976331360946746
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView",
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.servlet.OREController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.047898860398860404,
+            "scoh": 0.1388888888888889,
+            "scop": 0.09099002849002849,
+            "CMQ": 0.7774693387229,
+            "ccoh": 0.7777777777777778,
+            "ccop": 0.00030843905487780134
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController",
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.04861111111111112,
+            "scoh": 0.13690476190476192,
+            "scop": 0.0882936507936508,
+            "CMQ": 0.7854343383443912,
+            "ccoh": 0.7857142857142857,
+            "ccop": 0.00027994736989445985
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "28": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.028325123152709353,
+            "scoh": 0.11494252873563218,
+            "scop": 0.08661740558292283,
+            "CMQ": 0.7928486495668422,
+            "ccoh": 0.7931034482758621,
+            "ccop": 0.0002547987090198743
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "28": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController"
+            ],
+            "29": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": -0.00028735632183908566,
+            "scoh": 0.09444444444444443,
+            "scop": 0.09473180076628351,
+            "CMQ": 0.799746333729687,
+            "ccoh": 0.8,
+            "ccop": 0.0002536662703131193
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler",
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "28": [
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "29": [
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "30": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler"
+            ]
+        }
+    },
+    "KMeans_31": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": 0.002956989247311831,
+            "scoh": 0.0967741935483871,
+            "scop": 0.09381720430107526,
+            "CMQ": 0.8062203722973754,
+            "ccoh": 0.8064516129032258,
+            "ccop": 0.00023124060585038734
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController",
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "28": [
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "29": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "30": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler"
+            ],
+            "31": [
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ]
+        }
+    },
+    "KMeans_32": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": -0.02016129032258064,
+            "scoh": 0.078125,
+            "scop": 0.09828629032258064,
+            "CMQ": 0.8435467611862643,
+            "ccoh": 0.84375,
+            "ccop": 0.00020323881373569198
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler",
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController"
+            ],
+            "28": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "29": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "30": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler"
+            ],
+            "31": [
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "32": [
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ]
+        }
+    },
+    "KMeans_33": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": -0.05942234848484848,
+            "scoh": 0.06060606060606061,
+            "scop": 0.12002840909090909,
+            "CMQ": 0.8785905934343434,
+            "ccoh": 0.8787878787878788,
+            "ccop": 0.00019728535353535353
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController"
+            ],
+            "28": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "29": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "30": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler"
+            ],
+            "31": [
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "32": [
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "33": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ]
+        }
+    },
+    "KMeans_34": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": -0.0873440285204991,
+            "scoh": 0.04411764705882353,
+            "scop": 0.13146167557932265,
+            "CMQ": 0.9115835930872106,
+            "ccoh": 0.9117647058823529,
+            "ccop": 0.0001811127951423642
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph",
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController"
+            ],
+            "28": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "29": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "30": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler"
+            ],
+            "31": [
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "32": [
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "33": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "34": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig"
+            ]
+        }
+    },
+    "KMeans_35": {
+        "metrics": {
+            "CHM": 0.4583333333333333,
+            "CHD": 0.25,
+            "IFN": 1.0,
+            "SMQ": -0.09789915966386555,
+            "scoh": 0.02857142857142857,
+            "scop": 0.1264705882352941,
+            "CMQ": 0.9426904879598899,
+            "ccoh": 0.9428571428571428,
+            "ccop": 0.00016665489725301884
+        },
+        "named_clusters": {
+            "1": [
+                "net.metadata.openannotation.lorestore.views.OAAtomFeedView"
+            ],
+            "2": [
+                "net.metadata.openannotation.lorestore.servlet.PlaceholderController"
+            ],
+            "3": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.CompoundObjectImpl",
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREQueryHandler"
+            ],
+            "4": [
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalUser",
+                "net.metadata.openannotation.lorestore.security.drupal.DrupalSessionAuthenticationFilter"
+            ],
+            "5": [
+                "net.metadata.openannotation.lorestore.triplestore.MemoryTripleStoreConnectorFactory"
+            ],
+            "6": [
+                "net.metadata.openannotation.lorestore.util.OATripleCallback"
+            ],
+            "7": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreQueryHandler"
+            ],
+            "8": [
+                "net.metadata.openannotation.lorestore.model.NamedGraph"
+            ],
+            "9": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOREUpdateHandler"
+            ],
+            "10": [
+                "net.metadata.openannotation.lorestore.servlet.LorestoreResponse"
+            ],
+            "11": [
+                "net.metadata.openannotation.lorestore.views.OANamedGraphsView"
+            ],
+            "12": [
+                "net.metadata.openannotation.lorestore.triplestore.SimpleSesamePool"
+            ],
+            "13": [
+                "net.metadata.openannotation.lorestore.model.OpenAnnotation"
+            ],
+            "14": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreValidationHandler"
+            ],
+            "15": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoUpdateHandler"
+            ],
+            "16": [
+                "net.metadata.openannotation.lorestore.servlet.sesame.SesameOREQueryHandler"
+            ],
+            "17": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreAccessPolicy"
+            ],
+            "18": [
+                "net.metadata.openannotation.lorestore.access.LoreStoreIdentityProvider"
+            ],
+            "19": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreAdminController"
+            ],
+            "20": [
+                "net.metadata.openannotation.lorestore.util.OAJSONLDSerializer"
+            ],
+            "21": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.AbstractRDF2GoQueryHandler"
+            ],
+            "22": [
+                "net.metadata.openannotation.lorestore.triplestore.TripleStoreConnectorFactory"
+            ],
+            "23": [
+                "net.metadata.openannotation.lorestore.servlet.OREController"
+            ],
+            "24": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.OpenAnnotationImpl"
+            ],
+            "25": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAQueryHandler"
+            ],
+            "26": [
+                "net.metadata.openannotation.lorestore.access.AllowEverythingAccessPolicy"
+            ],
+            "27": [
+                "net.metadata.openannotation.lorestore.servlet.AnnotationController"
+            ],
+            "28": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.OAValidationHandler"
+            ],
+            "29": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreUpdateHandler"
+            ],
+            "30": [
+                "net.metadata.openannotation.lorestore.servlet.rdf2go.RDF2GoOAUpdateHandler"
+            ],
+            "31": [
+                "net.metadata.openannotation.lorestore.model.UploadItem"
+            ],
+            "32": [
+                "net.metadata.openannotation.lorestore.util.UIDGenerator"
+            ],
+            "33": [
+                "net.metadata.openannotation.lorestore.model.rdf2go.NamedGraphImpl"
+            ],
+            "34": [
+                "net.metadata.openannotation.lorestore.servlet.LoreStoreControllerConfig"
+            ],
+            "35": [
+                "net.metadata.openannotation.lorestore.access.DefaultLoreStoreAccessPolicy"
+            ]
+        }
+    }
+}

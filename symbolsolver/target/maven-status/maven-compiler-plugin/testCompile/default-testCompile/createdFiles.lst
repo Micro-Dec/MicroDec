@@ -1,0 +1,8 @@
+metrics/IRNProjectsTest.class
+StringUtilsTest.class
+ParseTests.class
+metrics/CHDProjectsTest.class
+metrics/OPNProjectsTest.class
+metrics/MetricsCalculatorTest.class
+ExtractIdentifiedClassesTest.class
+metrics/CHMProjectsTest.class

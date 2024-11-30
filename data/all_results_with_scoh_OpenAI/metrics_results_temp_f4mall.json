@@ -1,0 +1,5150 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.8482843137254902,
+            "CHD": 0.8004601840736295,
+            "IFN": 2.0,
+            "SMQ": 0.3374108734402852,
+            "scoh": 0.33778966131907306,
+            "scop": 0.0003787878787878788,
+            "CMQ": 0.3933935998641881,
+            "ccoh": 0.4233935998641881,
+            "ccop": 0.03
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "dao.ProductDao",
+                "dao.MainDao",
+                "vo.ProductVo",
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.ItemsVo",
+                "vo.EvalVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.graph.GraphAddrVo",
+                "controller.EvalController",
+                "dao.EvalDao",
+                "vo.ItemsArrayVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao",
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo",
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "service.StockService",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl",
+                "controller.StockController",
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.8755952380952381,
+            "CHD": 0.8720238095238095,
+            "IFN": 1.75,
+            "SMQ": 0.31686624649859946,
+            "scoh": 0.31843487394957987,
+            "scop": 0.001568627450980392,
+            "CMQ": 0.45875350140056026,
+            "ccoh": 0.48097572362278246,
+            "ccop": 0.02222222222222222
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.ItemsVo",
+                "vo.EvalVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "controller.EvalController",
+                "dao.EvalDao",
+                "vo.ItemsArrayVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "service.StockService",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl",
+                "controller.StockController"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "dao.DemandDao",
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo",
+                "dao.MainDao",
+                "vo.graph.GraphAddrVo",
+                "interceptor.AdminCheckInterceptor"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.8896011396011395,
+            "CHD": 0.9017094017094016,
+            "IFN": 1.5555555555555556,
+            "SMQ": 0.3261746365212752,
+            "scoh": 0.32759270374816596,
+            "scop": 0.0014180672268907563,
+            "CMQ": 0.5122649059623849,
+            "ccoh": 0.5258703481392557,
+            "ccop": 0.013605442176870748
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.ItemsVo",
+                "vo.EvalVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "controller.EvalController",
+                "dao.EvalDao",
+                "vo.ItemsArrayVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "service.StockService",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl",
+                "controller.StockController"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao",
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo",
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "dao.MainDao",
+                "vo.graph.GraphAddrVo"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.8923076923076924,
+            "CHD": 0.9115384615384615,
+            "IFN": 1.4,
+            "SMQ": 0.3223028273809524,
+            "scoh": 0.32430555555555557,
+            "scop": 0.0020027281746031744,
+            "CMQ": 0.4787273242630386,
+            "ccoh": 0.49275793650793653,
+            "ccop": 0.01403061224489796
+        },
+        "named_clusters": {
+            "1": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "2": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "service.StockService",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl",
+                "controller.StockController"
+            ],
+            "3": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao",
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo",
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "7": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo",
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao",
+                "vo.ItemsArrayVo"
+            ],
+            "8": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "dao.MainDao",
+                "vo.graph.GraphAddrVo"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.9022727272727273,
+            "CHD": 0.9545454545454546,
+            "IFN": 1.2727272727272727,
+            "SMQ": 0.3377363040123457,
+            "scoh": 0.3425925925925926,
+            "scop": 0.004856288580246914,
+            "CMQ": 0.47597001763668434,
+            "ccoh": 0.48985890652557323,
+            "ccop": 0.013888888888888888
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "service.StockService",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl",
+                "controller.StockController"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo",
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "dao.MainDao",
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao"
+            ],
+            "9": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo",
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao",
+                "vo.ItemsArrayVo"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.9520833333333334,
+            "CHD": 0.9583333333333334,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.36087595532039973,
+            "scoh": 0.3669047619047619,
+            "scop": 0.0060288065843621405,
+            "CMQ": 0.5035449735449736,
+            "ccoh": 0.5153968253968255,
+            "ccop": 0.011851851851851851
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "service.StockService",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl",
+                "controller.StockController"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo",
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "dao.MainDao",
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo",
+                "vo.ItemsArrayVo"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.9520833333333334,
+            "CHD": 0.9583333333333334,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.375976430976431,
+            "scoh": 0.3825757575757576,
+            "scop": 0.0065993265993266,
+            "CMQ": 0.5478145087235997,
+            "ccoh": 0.5570707070707072,
+            "ccop": 0.009256198347107437
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "service.StockService",
+                "controller.StockController"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo",
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "dao.MainDao",
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo",
+                "vo.ItemsArrayVo"
+            ],
+            "11": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.9520833333333334,
+            "CHD": 0.9583333333333334,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.33787177328844004,
+            "scoh": 0.3604166666666668,
+            "scop": 0.022544893378226714,
+            "CMQ": 0.6114057239057239,
+            "ccoh": 0.6189814814814815,
+            "ccop": 0.007575757575757576
+        },
+        "named_clusters": {
+            "1": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao"
+            ],
+            "2": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "3": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "4": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo",
+                "vo.ItemsArrayVo"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "7": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo",
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "8": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "vo.graph.GraphAddrVo"
+            ],
+            "9": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "10": [
+                "service.StockService",
+                "controller.StockController"
+            ],
+            "11": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "12": [
+                "dao.MainDao"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.9610119047619049,
+            "CHD": 0.9761904761904763,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.316820987654321,
+            "scoh": 0.33782051282051284,
+            "scop": 0.020999525166191833,
+            "CMQ": 0.6476660092044708,
+            "ccoh": 0.6534188034188035,
+            "ccop": 0.005752794214332676
+        },
+        "named_clusters": {
+            "1": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "5": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "6": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "7": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "8": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo",
+                "vo.ItemsArrayVo"
+            ],
+            "9": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "vo.graph.GraphAddrVo"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "12": [
+                "service.StockService",
+                "controller.StockController"
+            ],
+            "13": [
+                "dao.MainDao"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.9610119047619049,
+            "CHD": 0.9761904761904763,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.29121896621896626,
+            "scoh": 0.32202380952380955,
+            "scop": 0.030804843304843305,
+            "CMQ": 0.6690653973621006,
+            "ccoh": 0.6734126984126984,
+            "ccop": 0.004347301050597754
+        },
+        "named_clusters": {
+            "1": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "vo.ItemsArrayVo"
+            ],
+            "8": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao",
+                "vo.graph.GraphAddrVo"
+            ],
+            "9": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "service.StockService",
+                "controller.StockController"
+            ],
+            "12": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo"
+            ],
+            "13": [
+                "dao.MainDao"
+            ],
+            "14": [
+                "interceptor.AdminCheckInterceptor"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.9750000000000001,
+            "CHD": 1.0,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.275842151675485,
+            "scoh": 0.3061111111111111,
+            "scop": 0.030268959435626103,
+            "CMQ": 0.6919198790627361,
+            "ccoh": 0.6951851851851851,
+            "ccop": 0.0032653061224489797
+        },
+        "named_clusters": {
+            "1": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "controller.CartController",
+                "dao.DemandDao"
+            ],
+            "2": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "3": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "4": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo"
+            ],
+            "5": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "8": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "9": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "10": [
+                "service.StockService",
+                "controller.StockController"
+            ],
+            "11": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "12": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "dao.MainDao"
+            ],
+            "15": [
+                "vo.graph.GraphAddrVo"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.2571952160493828,
+            "scoh": 0.2911458333333334,
+            "scop": 0.03395061728395062,
+            "CMQ": 0.7092361111111111,
+            "ccoh": 0.7121527777777777,
+            "ccop": 0.0029166666666666664
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "service.StockService",
+                "controller.StockController"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "7": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "controller.CartController"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo"
+            ],
+            "11": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "12": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "13": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "14": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "dao.DemandDao"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.ItemsArrayVo"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.26379989495798317,
+            "scoh": 0.2995798319327731,
+            "scop": 0.035779936974789914,
+            "CMQ": 0.6660863610149943,
+            "ccoh": 0.6686274509803922,
+            "ccop": 0.0025410899653979238
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "dao.DemandDao"
+            ],
+            "3": [
+                "dao.ProductDao",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "8": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "9": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "service.StockService",
+                "controller.StockController"
+            ],
+            "12": [
+                "dao.MainDao"
+            ],
+            "13": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "controller.CartController"
+            ],
+            "16": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "17": [
+                "vo.ItemsArrayVo"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.19222040668119098,
+            "scoh": 0.2361111111111111,
+            "scop": 0.04389070442992012,
+            "CMQ": 0.6889038404032637,
+            "ccoh": 0.6907407407407408,
+            "ccop": 0.0018369003374770388
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo",
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "service.StockService"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "7": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "controller.CartController"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo"
+            ],
+            "11": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "12": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "13": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "14": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "dao.DemandDao"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.ItemsArrayVo"
+            ],
+            "17": [
+                "controller.StockController"
+            ],
+            "18": [
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.1904117933723197,
+            "scoh": 0.2298245614035088,
+            "scop": 0.03941276803118909,
+            "CMQ": 0.6581785848637187,
+            "ccoh": 0.6596491228070175,
+            "ccop": 0.0014705379432987927
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo"
+            ],
+            "3": [
+                "service.StockService"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "7": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "controller.CartController"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "dao.ItemsDao",
+                "controller.ItemsController",
+                "vo.ItemsViewVo",
+                "vo.ItemsVo"
+            ],
+            "11": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "12": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "13": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "14": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "dao.DemandDao"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.ItemsArrayVo"
+            ],
+            "17": [
+                "controller.StockController"
+            ],
+            "18": [
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo"
+            ],
+            "19": [
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.19475877192982458,
+            "scoh": 0.2475,
+            "scop": 0.05274122807017543,
+            "CMQ": 0.6087257617728532,
+            "ccoh": 0.61,
+            "ccop": 0.0012742382271468144
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo"
+            ],
+            "3": [
+                "service.StockService"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "7": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "controller.CartController"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "controller.ItemsController",
+                "vo.ItemsViewVo"
+            ],
+            "11": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "12": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "13": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "14": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "dao.DemandDao"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.ItemsArrayVo"
+            ],
+            "17": [
+                "controller.StockController"
+            ],
+            "18": [
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo"
+            ],
+            "19": [
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "20": [
+                "dao.ItemsDao",
+                "vo.ItemsVo"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.9750000000000001,
+            "CHD": 0.9692307692307692,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.23293650793650794,
+            "scoh": 0.2777777777777778,
+            "scop": 0.04484126984126984,
+            "CMQ": 0.663469387755102,
+            "ccoh": 0.665079365079365,
+            "ccop": 0.0016099773242630386
+        },
+        "named_clusters": {
+            "1": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "2": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "service.StockService",
+                "controller.StockController"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "8": [
+                "dao.DemandDao"
+            ],
+            "9": [
+                "controller.ItemsController",
+                "vo.ItemsViewVo"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "12": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "13": [
+                "controller.CartController"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "16": [
+                "dao.ProductDao",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "dao.MainDao"
+            ],
+            "18": [
+                "vo.ItemsArrayVo"
+            ],
+            "19": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "20": [
+                "dao.ItemsDao",
+                "vo.ItemsVo"
+            ],
+            "21": [
+                "vo.option.CategoryVo"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.9519230769230769,
+            "CHD": 0.9230769230769231,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.18417508417508416,
+            "scoh": 0.23636363636363636,
+            "scop": 0.05218855218855219,
+            "CMQ": 0.6899533367065834,
+            "ccoh": 0.6909090909090909,
+            "ccop": 0.0009557542025074492
+        },
+        "named_clusters": {
+            "1": [
+                "dao.ItemsDao",
+                "vo.ItemsVo"
+            ],
+            "2": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "3": [
+                "service.StockService"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao",
+                "dao.DemandDao"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "8": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "9": [
+                "dao.ProductDao",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "12": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao"
+            ],
+            "13": [
+                "controller.ItemsController",
+                "vo.ItemsViewVo"
+            ],
+            "14": [
+                "dao.MainDao"
+            ],
+            "15": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo"
+            ],
+            "18": [
+                "vo.ItemsArrayVo"
+            ],
+            "19": [
+                "controller.CartController"
+            ],
+            "20": [
+                "controller.StockController"
+            ],
+            "21": [
+                "vo.DemandVo"
+            ],
+            "22": [
+                "vo.option.CategoryVo"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.9647435897435896,
+            "CHD": 0.9487179487179488,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.1824220465524813,
+            "scoh": 0.23550724637681156,
+            "scop": 0.053085199824330256,
+            "CMQ": 0.7003088107401563,
+            "ccoh": 0.7014492753623188,
+            "ccop": 0.0011404646221625085
+        },
+        "named_clusters": {
+            "1": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "2": [
+                "dao.ProductDao",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo"
+            ],
+            "3": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "8": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "9": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao"
+            ],
+            "10": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "11": [
+                "vo.ItemsArrayVo"
+            ],
+            "12": [
+                "dao.ItemsDao",
+                "vo.ItemsVo"
+            ],
+            "13": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "14": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "15": [
+                "controller.StockController"
+            ],
+            "16": [
+                "dao.MainDao"
+            ],
+            "17": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "18": [
+                "dao.DemandDao"
+            ],
+            "19": [
+                "vo.option.CategoryVo"
+            ],
+            "20": [
+                "service.StockService"
+            ],
+            "21": [
+                "controller.CartController"
+            ],
+            "22": [
+                "vo.DemandVo"
+            ],
+            "23": [
+                "controller.ItemsController",
+                "vo.ItemsViewVo"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.9793956043956045,
+            "CHD": 0.9780219780219781,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.1848580917874396,
+            "scoh": 0.23611111111111108,
+            "scop": 0.051253019323671496,
+            "CMQ": 0.6226134215500946,
+            "ccoh": 0.6236111111111112,
+            "ccop": 0.0009976895610165932
+        },
+        "named_clusters": {
+            "1": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "2": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "5": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController",
+                "vo.option.ColorVo"
+            ],
+            "8": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "9": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "10": [
+                "dao.ItemsDao",
+                "vo.ItemsVo"
+            ],
+            "11": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "14": [
+                "vo.option.SexVo",
+                "vo.option.CategoryVo"
+            ],
+            "15": [
+                "vo.option.MaterialVo"
+            ],
+            "16": [
+                "dao.MainDao"
+            ],
+            "17": [
+                "controller.ItemsController",
+                "vo.ItemsViewVo"
+            ],
+            "18": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "19": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockOutDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "20": [
+                "vo.ItemsArrayVo"
+            ],
+            "21": [
+                "vo.option.BrandVo",
+                "vo.option.SizeVo"
+            ],
+            "22": [
+                "service.StockService"
+            ],
+            "23": [
+                "dao.DemandDao"
+            ],
+            "24": [
+                "controller.CartController"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.17391203703703703,
+            "scoh": 0.22,
+            "scop": 0.04608796296296296,
+            "CMQ": 0.7245222222222222,
+            "ccoh": 0.7253333333333333,
+            "ccop": 0.0008111111111111112
+        },
+        "named_clusters": {
+            "1": [
+                "service.StockService"
+            ],
+            "2": [
+                "controller.ItemsController",
+                "vo.ItemsViewVo"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "vo.DemandVo"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "8": [
+                "vo.option.SizeVo"
+            ],
+            "9": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "12": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "13": [
+                "vo.option.SexVo"
+            ],
+            "14": [
+                "controller.MemberController",
+                "vo.MemberVo",
+                "dao.MemberDao"
+            ],
+            "15": [
+                "vo.ItemsArrayVo"
+            ],
+            "16": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "17": [
+                "dao.MainDao"
+            ],
+            "18": [
+                "controller.CartController"
+            ],
+            "19": [
+                "dao.ItemsDao",
+                "vo.ItemsVo"
+            ],
+            "20": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "21": [
+                "controller.StockController"
+            ],
+            "22": [
+                "vo.option.CategoryVo"
+            ],
+            "23": [
+                "dao.DemandDao"
+            ],
+            "24": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "25": [
+                "dao.ProductDao",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.MaterialVo"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.9910714285714286,
+            "CHD": 1.0,
+            "IFN": 1.0,
+            "SMQ": 0.15002564102564103,
+            "scoh": 0.2128205128205128,
+            "scop": 0.0627948717948718,
+            "CMQ": 0.717011439842209,
+            "ccoh": 0.717948717948718,
+            "ccop": 0.0009372781065088758
+        },
+        "named_clusters": {
+            "1": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "2": [
+                "controller.ItemsController"
+            ],
+            "3": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "4": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "5": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "8": [
+                "dao.ProductDao",
+                "vo.option.ColorVo",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.SexVo"
+            ],
+            "9": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "service.StockService"
+            ],
+            "12": [
+                "dao.MainDao"
+            ],
+            "13": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "14": [
+                "dao.ItemsDao",
+                "vo.ItemsVo"
+            ],
+            "15": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "16": [
+                "vo.ItemsArrayVo"
+            ],
+            "17": [
+                "dao.DemandDao"
+            ],
+            "18": [
+                "controller.StockController"
+            ],
+            "19": [
+                "controller.CartController"
+            ],
+            "20": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "21": [
+                "vo.option.MaterialVo"
+            ],
+            "22": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "23": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "24": [
+                "vo.option.CategoryVo"
+            ],
+            "25": [
+                "vo.ItemsViewVo"
+            ],
+            "26": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.14797008547008547,
+            "scoh": 0.20679012345679013,
+            "scop": 0.05882003798670465,
+            "CMQ": 0.727591496822266,
+            "ccoh": 0.728395061728395,
+            "ccop": 0.0008035649061290087
+        },
+        "named_clusters": {
+            "1": [
+                "dao.DemandDao"
+            ],
+            "2": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "3": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "7": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "vo.ItemsArrayVo"
+            ],
+            "11": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "dao.ItemsDao",
+                "vo.ItemsVo"
+            ],
+            "14": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "15": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "16": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "dao.MainDao"
+            ],
+            "19": [
+                "dao.ProductDao",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo",
+                "vo.option.SexVo"
+            ],
+            "20": [
+                "vo.ItemsViewVo"
+            ],
+            "21": [
+                "controller.CartController"
+            ],
+            "22": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "23": [
+                "service.StockService"
+            ],
+            "24": [
+                "vo.option.CategoryVo"
+            ],
+            "25": [
+                "controller.ItemsController"
+            ],
+            "26": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.12233612580834803,
+            "scoh": 0.1875,
+            "scop": 0.06516387419165197,
+            "CMQ": 0.7850564093950337,
+            "ccoh": 0.7857142857142857,
+            "ccop": 0.0006578763192519806
+        },
+        "named_clusters": {
+            "1": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "2": [
+                "controller.ItemsController"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "7": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "8": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "9": [
+                "vo.option.ColorVo"
+            ],
+            "10": [
+                "service.StockService"
+            ],
+            "11": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "12": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "13": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "14": [
+                "dao.MainDao"
+            ],
+            "15": [
+                "dao.ProductDao",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo",
+                "vo.option.MaterialVo"
+            ],
+            "16": [
+                "dao.ItemsDao"
+            ],
+            "17": [
+                "vo.ItemsArrayVo"
+            ],
+            "18": [
+                "controller.CartController"
+            ],
+            "19": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "20": [
+                "controller.StockController"
+            ],
+            "21": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "22": [
+                "dao.DemandDao"
+            ],
+            "23": [
+                "vo.option.CategoryVo"
+            ],
+            "24": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "25": [
+                "vo.ItemsVo"
+            ],
+            "26": [
+                "vo.ItemsViewVo"
+            ],
+            "27": [
+                "vo.option.SexVo"
+            ],
+            "28": [
+                "dao.stockdao.StockOutDaoImpl"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.10675971538040502,
+            "scoh": 0.16379310344827586,
+            "scop": 0.05703338806787083,
+            "CMQ": 0.8316925105357243,
+            "ccoh": 0.832183908045977,
+            "ccop": 0.0004913975102526148
+        },
+        "named_clusters": {
+            "1": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "2": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "controller.ItemsController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "7": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInDaoImpl",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "8": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "9": [
+                "vo.option.SizeVo"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "12": [
+                "service.StockService"
+            ],
+            "13": [
+                "dao.MainDao"
+            ],
+            "14": [
+                "vo.option.SexVo"
+            ],
+            "15": [
+                "dao.ProductDao",
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "16": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "17": [
+                "vo.ItemsArrayVo"
+            ],
+            "18": [
+                "vo.option.CategoryVo"
+            ],
+            "19": [
+                "dao.DemandDao"
+            ],
+            "20": [
+                "controller.CartController"
+            ],
+            "21": [
+                "controller.StockController"
+            ],
+            "22": [
+                "vo.option.BrandVo"
+            ],
+            "23": [
+                "vo.ItemsVo"
+            ],
+            "24": [
+                "vo.ItemsViewVo"
+            ],
+            "25": [
+                "vo.option.ColorVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "28": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "29": [
+                "dao.ItemsDao"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 0.9793956043956045,
+            "CHD": 0.9780219780219781,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.09885057471264368,
+            "scoh": 0.17222222222222222,
+            "scop": 0.07337164750957854,
+            "CMQ": 0.7883339939225791,
+            "ccoh": 0.788888888888889,
+            "ccop": 0.0005548949663099485
+        },
+        "named_clusters": {
+            "1": [
+                "vo.ItemsViewVo"
+            ],
+            "2": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "3": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "6": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "7": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "8": [
+                "controller.IndexController"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "12": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "13": [
+                "controller.StockController"
+            ],
+            "14": [
+                "dao.MainDao"
+            ],
+            "15": [
+                "vo.ItemsVo"
+            ],
+            "16": [
+                "dao.ProductDao",
+                "vo.option.BrandVo",
+                "vo.option.SizeVo"
+            ],
+            "17": [
+                "vo.ItemsArrayVo"
+            ],
+            "18": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "19": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "20": [
+                "service.StockService"
+            ],
+            "21": [
+                "controller.CartController"
+            ],
+            "22": [
+                "dao.DemandDao"
+            ],
+            "23": [
+                "vo.option.CategoryVo"
+            ],
+            "24": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "25": [
+                "controller.ItemsController"
+            ],
+            "26": [
+                "dao.ItemsDao"
+            ],
+            "27": [
+                "vo.option.SexVo"
+            ],
+            "28": [
+                "vo.option.MaterialVo"
+            ],
+            "29": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "30": [
+                "vo.option.ColorVo"
+            ]
+        }
+    },
+    "KMeans_31": {
+        "metrics": {
+            "CHM": 0.9647435897435896,
+            "CHD": 0.9487179487179488,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.10170250896057348,
+            "scoh": 0.17204301075268816,
+            "scop": 0.07034050179211468,
+            "CMQ": 0.795213319458897,
+            "ccoh": 0.7956989247311828,
+            "ccop": 0.00048560527228581337
+        },
+        "named_clusters": {
+            "1": [
+                "vo.option.BrandVo"
+            ],
+            "2": [
+                "dao.ItemsDao"
+            ],
+            "3": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "4": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "5": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "6": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "7": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "8": [
+                "controller.IndexController"
+            ],
+            "9": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "vo.ItemsArrayVo"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "dao.MainDao"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "16": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "17": [
+                "controller.CartController"
+            ],
+            "18": [
+                "dao.ProductDao",
+                "vo.option.ColorVo"
+            ],
+            "19": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "20": [
+                "service.StockService"
+            ],
+            "21": [
+                "vo.option.CategoryVo"
+            ],
+            "22": [
+                "dao.DemandDao"
+            ],
+            "23": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "24": [
+                "vo.option.SizeVo"
+            ],
+            "25": [
+                "vo.ItemsVo"
+            ],
+            "26": [
+                "controller.ItemsController"
+            ],
+            "27": [
+                "vo.ItemsViewVo"
+            ],
+            "28": [
+                "vo.option.MaterialVo"
+            ],
+            "29": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "30": [
+                "vo.option.SexVo"
+            ],
+            "31": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ]
+        }
+    },
+    "KMeans_32": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.08030913978494625,
+            "scoh": 0.15104166666666669,
+            "scop": 0.07073252688172044,
+            "CMQ": 0.8329065318244883,
+            "ccoh": 0.8333333333333333,
+            "ccop": 0.0004268015088449532
+        },
+        "named_clusters": {
+            "1": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "2": [
+                "controller.CartController"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "vo.StockVo",
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "7": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "8": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "vo.ItemsViewVo"
+            ],
+            "11": [
+                "vo.option.SexVo"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.CartVo",
+                "controller.DemandController",
+                "dao.CartDao"
+            ],
+            "14": [
+                "dao.ProductDao"
+            ],
+            "15": [
+                "vo.ItemsArrayVo"
+            ],
+            "16": [
+                "dao.MainDao"
+            ],
+            "17": [
+                "vo.ItemsVo"
+            ],
+            "18": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "19": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "20": [
+                "controller.ItemsController"
+            ],
+            "21": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "22": [
+                "service.StockService"
+            ],
+            "23": [
+                "dao.DemandDao"
+            ],
+            "24": [
+                "dao.ItemsDao"
+            ],
+            "25": [
+                "vo.option.CategoryVo"
+            ],
+            "26": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "27": [
+                "vo.option.MaterialVo"
+            ],
+            "28": [
+                "vo.option.ColorVo"
+            ],
+            "29": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "30": [
+                "vo.option.SizeVo"
+            ],
+            "31": [
+                "controller.IndexController"
+            ],
+            "32": [
+                "vo.option.BrandVo"
+            ]
+        }
+    },
+    "KMeans_33": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.10029987373737373,
+            "scoh": 0.16666666666666666,
+            "scop": 0.06636679292929293,
+            "CMQ": 0.7975601182277319,
+            "ccoh": 0.797979797979798,
+            "ccop": 0.0004196797520661157
+        },
+        "named_clusters": {
+            "1": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "2": [
+                "controller.ItemsController"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "7": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "8": [
+                "dao.CartDao"
+            ],
+            "9": [
+                "dao.ProductDao"
+            ],
+            "10": [
+                "controller.StockController"
+            ],
+            "11": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "12": [
+                "controller.IndexController",
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "13": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "14": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.ItemsVo"
+            ],
+            "17": [
+                "vo.ItemsArrayVo"
+            ],
+            "18": [
+                "service.StockService"
+            ],
+            "19": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "20": [
+                "dao.DemandDao"
+            ],
+            "21": [
+                "vo.option.CategoryVo"
+            ],
+            "22": [
+                "vo.ItemsViewVo"
+            ],
+            "23": [
+                "controller.CartController"
+            ],
+            "24": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "25": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "26": [
+                "vo.option.SexVo"
+            ],
+            "27": [
+                "dao.ItemsDao"
+            ],
+            "28": [
+                "vo.StockVo",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "29": [
+                "vo.option.BrandVo"
+            ],
+            "30": [
+                "vo.option.MaterialVo"
+            ],
+            "31": [
+                "vo.CartVo",
+                "controller.DemandController"
+            ],
+            "32": [
+                "vo.option.SizeVo"
+            ],
+            "33": [
+                "vo.option.ColorVo"
+            ]
+        }
+    },
+    "KMeans_34": {
+        "metrics": {
+            "CHM": 0.9520833333333334,
+            "CHD": 0.9249999999999999,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.08682412358882949,
+            "scoh": 0.16176470588235295,
+            "scop": 0.07494058229352346,
+            "CMQ": 0.8035339236974972,
+            "ccoh": 0.803921568627451,
+            "ccop": 0.0003876449299538321
+        },
+        "named_clusters": {
+            "1": [
+                "vo.ItemsVo"
+            ],
+            "2": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "3": [
+                "service.StockService"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "dao.MemberDao",
+                "vo.DemandVo"
+            ],
+            "7": [
+                "controller.IndexController"
+            ],
+            "8": [
+                "vo.CartVo",
+                "controller.DemandController"
+            ],
+            "9": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "vo.StockVo",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "12": [
+                "vo.ItemsArrayVo"
+            ],
+            "13": [
+                "vo.ItemsViewVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "vo.option.BrandVo"
+            ],
+            "16": [
+                "dao.MainDao"
+            ],
+            "17": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "18": [
+                "vo.option.CategoryVo"
+            ],
+            "19": [
+                "controller.CartController"
+            ],
+            "20": [
+                "dao.DemandDao"
+            ],
+            "21": [
+                "vo.option.ColorVo"
+            ],
+            "22": [
+                "controller.StockController"
+            ],
+            "23": [
+                "controller.ItemsController"
+            ],
+            "24": [
+                "vo.option.SizeVo"
+            ],
+            "25": [
+                "vo.option.SexVo"
+            ],
+            "26": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "27": [
+                "vo.option.MaterialVo"
+            ],
+            "28": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "29": [
+                "dao.ItemsDao"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "32": [
+                "dao.ProductDao"
+            ],
+            "33": [
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "34": [
+                "dao.CartDao"
+            ]
+        }
+    },
+    "KMeans_35": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.06568627450980392,
+            "scoh": 0.14285714285714285,
+            "scop": 0.07717086834733893,
+            "CMQ": 0.8377506296636302,
+            "ccoh": 0.8380952380952381,
+            "ccop": 0.00034460843160793726
+        },
+        "named_clusters": {
+            "1": [
+                "dao.ProductDao"
+            ],
+            "2": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "3": [
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "dao.MemberDao"
+            ],
+            "7": [
+                "controller.CartController"
+            ],
+            "8": [
+                "controller.IndexController"
+            ],
+            "9": [
+                "vo.EvalVo",
+                "controller.EvalController",
+                "dao.EvalDao"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "service.StockService"
+            ],
+            "12": [
+                "dao.DemandDao"
+            ],
+            "13": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "14": [
+                "vo.ItemsArrayVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "dao.CartDao"
+            ],
+            "17": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "18": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "19": [
+                "controller.StockController"
+            ],
+            "20": [
+                "vo.ItemsViewVo"
+            ],
+            "21": [
+                "controller.ItemsController"
+            ],
+            "22": [
+                "vo.option.CategoryVo"
+            ],
+            "23": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "24": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "25": [
+                "vo.ItemsVo"
+            ],
+            "26": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "27": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "28": [
+                "vo.option.BrandVo"
+            ],
+            "29": [
+                "vo.option.SexVo"
+            ],
+            "30": [
+                "vo.option.MaterialVo"
+            ],
+            "31": [
+                "vo.option.ColorVo"
+            ],
+            "32": [
+                "vo.CartVo",
+                "controller.DemandController"
+            ],
+            "33": [
+                "vo.option.SizeVo"
+            ],
+            "34": [
+                "vo.DemandVo"
+            ],
+            "35": [
+                "vo.StockVo",
+                "dao.stockdao.StockInvDaoImpl"
+            ]
+        }
+    },
+    "KMeans_36": {
+        "metrics": {
+            "CHM": 0.9499007936507936,
+            "CHD": 0.9761904761904763,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.061309523809523814,
+            "scoh": 0.1388888888888889,
+            "scop": 0.07757936507936508,
+            "CMQ": 0.8515343915343915,
+            "ccoh": 0.8518518518518517,
+            "ccop": 0.00031746031746031746
+        },
+        "named_clusters": {
+            "1": [
+                "controller.IndexController"
+            ],
+            "2": [
+                "service.StockService"
+            ],
+            "3": [
+                "controller.ItemsController"
+            ],
+            "4": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "5": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "8": [
+                "vo.option.ColorVo"
+            ],
+            "9": [
+                "dao.CartDao"
+            ],
+            "10": [
+                "controller.EvalController"
+            ],
+            "11": [
+                "vo.StockVo",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "12": [
+                "dao.MemberDao"
+            ],
+            "13": [
+                "dao.MainDao"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "vo.ItemsVo"
+            ],
+            "16": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "17": [
+                "vo.option.MaterialVo"
+            ],
+            "18": [
+                "dao.ProductDao"
+            ],
+            "19": [
+                "dao.DemandDao"
+            ],
+            "20": [
+                "controller.StockController"
+            ],
+            "21": [
+                "vo.ItemsViewVo"
+            ],
+            "22": [
+                "vo.ProductVo",
+                "controller.ProductController"
+            ],
+            "23": [
+                "vo.ItemsArrayVo"
+            ],
+            "24": [
+                "vo.option.CategoryVo"
+            ],
+            "25": [
+                "controller.CartController"
+            ],
+            "26": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "27": [
+                "dao.ItemsDao"
+            ],
+            "28": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "29": [
+                "vo.option.SexVo"
+            ],
+            "30": [
+                "vo.CartVo",
+                "controller.DemandController"
+            ],
+            "31": [
+                "vo.option.BrandVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "vo.EvalVo",
+                "dao.EvalDao"
+            ],
+            "34": [
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "vo.option.SizeVo"
+            ],
+            "36": [
+                "vo.DemandVo"
+            ]
+        }
+    },
+    "KMeans_37": {
+        "metrics": {
+            "CHM": 0.9750000000000001,
+            "CHD": 0.9692307692307692,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.03603603603603604,
+            "scoh": 0.12162162162162163,
+            "scop": 0.08558558558558559,
+            "CMQ": 0.8825988150312476,
+            "ccoh": 0.882882882882883,
+            "ccop": 0.00028406785163541924
+        },
+        "named_clusters": {
+            "1": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "2": [
+                "controller.ItemsController"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "service.StockService"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "vo.CartVo",
+                "controller.DemandController"
+            ],
+            "8": [
+                "vo.option.ColorVo"
+            ],
+            "9": [
+                "dao.MemberDao"
+            ],
+            "10": [
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "11": [
+                "controller.CartController"
+            ],
+            "12": [
+                "vo.EvalVo",
+                "dao.EvalDao"
+            ],
+            "13": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "14": [
+                "vo.option.BrandVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "17": [
+                "vo.ItemsArrayVo"
+            ],
+            "18": [
+                "vo.ProductVo"
+            ],
+            "19": [
+                "dao.ItemsDao"
+            ],
+            "20": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "21": [
+                "vo.option.MaterialVo"
+            ],
+            "22": [
+                "controller.StockController"
+            ],
+            "23": [
+                "vo.option.CategoryVo"
+            ],
+            "24": [
+                "dao.ProductDao"
+            ],
+            "25": [
+                "vo.StockVo",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "26": [
+                "dao.DemandDao"
+            ],
+            "27": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "28": [
+                "vo.ItemsViewVo"
+            ],
+            "29": [
+                "vo.ItemsVo"
+            ],
+            "30": [
+                "vo.option.SexVo"
+            ],
+            "31": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "32": [
+                "vo.option.SizeVo"
+            ],
+            "33": [
+                "dao.CartDao"
+            ],
+            "34": [
+                "vo.DemandVo"
+            ],
+            "35": [
+                "controller.EvalController"
+            ],
+            "36": [
+                "controller.IndexController"
+            ],
+            "37": [
+                "controller.ProductController"
+            ]
+        }
+    },
+    "KMeans_38": {
+        "metrics": {
+            "CHM": 0.9711538461538461,
+            "CHD": 0.9615384615384616,
+            "IFN": 1.0769230769230769,
+            "SMQ": 0.017069701280227584,
+            "scoh": 0.10526315789473684,
+            "scop": 0.08819345661450925,
+            "CMQ": 0.9120237254548853,
+            "ccoh": 0.9122807017543861,
+            "ccop": 0.0002569762995008185
+        },
+        "named_clusters": {
+            "1": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "2": [
+                "vo.option.CategoryVo"
+            ],
+            "3": [
+                "dao.ItemsDao"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "5": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "6": [
+                "vo.StockVo",
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "7": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "8": [
+                "controller.IndexController"
+            ],
+            "9": [
+                "controller.DemandController"
+            ],
+            "10": [
+                "vo.EvalVo",
+                "dao.EvalDao"
+            ],
+            "11": [
+                "dao.MemberDao"
+            ],
+            "12": [
+                "service.StockService"
+            ],
+            "13": [
+                "vo.option.SizeVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "controller.CartController"
+            ],
+            "16": [
+                "dao.MainDao"
+            ],
+            "17": [
+                "dao.ProductDao"
+            ],
+            "18": [
+                "vo.ItemsArrayVo"
+            ],
+            "19": [
+                "controller.ItemsController"
+            ],
+            "20": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "21": [
+                "vo.ItemsVo"
+            ],
+            "22": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "23": [
+                "controller.StockController"
+            ],
+            "24": [
+                "controller.ProductController"
+            ],
+            "25": [
+                "vo.option.MaterialVo"
+            ],
+            "26": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "27": [
+                "dao.DemandDao"
+            ],
+            "28": [
+                "vo.ItemsViewVo"
+            ],
+            "29": [
+                "vo.option.BrandVo"
+            ],
+            "30": [
+                "vo.option.SexVo"
+            ],
+            "31": [
+                "vo.option.ColorVo"
+            ],
+            "32": [
+                "dao.CartDao"
+            ],
+            "33": [
+                "vo.DemandVo"
+            ],
+            "34": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "35": [
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "vo.ProductVo"
+            ],
+            "38": [
+                "vo.CartVo"
+            ]
+        }
+    },
+    "KMeans_39": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.00101214574898785,
+            "scoh": 0.08974358974358974,
+            "scop": 0.0887314439946019,
+            "CMQ": 0.9399305384815719,
+            "ccoh": 0.9401709401709402,
+            "ccop": 0.00024040168936823527
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "dao.FaqDao",
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "8": [
+                "vo.EvalVo",
+                "dao.EvalDao"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ]
+        }
+    },
+    "KMeans_40": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.0012820512820512775,
+            "scoh": 0.0875,
+            "scop": 0.08621794871794872,
+            "CMQ": 0.9414497041420118,
+            "ccoh": 0.9416666666666667,
+            "ccop": 0.00021696252465483237
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "8": [
+                "vo.EvalVo",
+                "dao.EvalDao"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "service.StockServiceImpl",
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ],
+            "40": [
+                "dao.FaqDao"
+            ]
+        }
+    },
+    "KMeans_41": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": -0.0277439024390244,
+            "scoh": 0.07317073170731707,
+            "scop": 0.10091463414634147,
+            "CMQ": 0.9428841959151298,
+            "ccoh": 0.9430894308943089,
+            "ccop": 0.0002052349791790601
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo",
+                "dao.GraphDao"
+            ],
+            "8": [
+                "vo.EvalVo",
+                "dao.EvalDao"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ],
+            "40": [
+                "dao.FaqDao"
+            ],
+            "41": [
+                "service.StockServiceImpl"
+            ]
+        }
+    },
+    "KMeans_42": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": -0.041231126596980264,
+            "scoh": 0.05952380952380952,
+            "scop": 0.10075493612078978,
+            "CMQ": 0.9442528944950972,
+            "ccoh": 0.9444444444444444,
+            "ccop": 0.0001915499493471789
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo"
+            ],
+            "8": [
+                "vo.EvalVo",
+                "dao.EvalDao"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController",
+                "vo.MemberVo"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ],
+            "40": [
+                "dao.FaqDao"
+            ],
+            "41": [
+                "service.StockServiceImpl"
+            ],
+            "42": [
+                "dao.GraphDao"
+            ]
+        }
+    },
+    "KMeans_43": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": -0.061461794019933555,
+            "scoh": 0.046511627906976744,
+            "scop": 0.1079734219269103,
+            "CMQ": 0.9688168759481438,
+            "ccoh": 0.9689922480620154,
+            "ccop": 0.00017537211387168893
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo"
+            ],
+            "8": [
+                "vo.EvalVo",
+                "dao.EvalDao"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ],
+            "40": [
+                "dao.FaqDao"
+            ],
+            "41": [
+                "service.StockServiceImpl"
+            ],
+            "42": [
+                "dao.GraphDao"
+            ],
+            "43": [
+                "vo.MemberVo"
+            ]
+        }
+    },
+    "KMeans_44": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": -0.07267441860465117,
+            "scoh": 0.03409090909090909,
+            "scop": 0.10676532769556026,
+            "CMQ": 0.9695360607401513,
+            "ccoh": 0.9696969696969696,
+            "ccop": 0.00016090895681829357
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo",
+                "dao.CommentDao"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo"
+            ],
+            "8": [
+                "vo.EvalVo"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ],
+            "40": [
+                "dao.FaqDao"
+            ],
+            "41": [
+                "service.StockServiceImpl"
+            ],
+            "42": [
+                "dao.GraphDao"
+            ],
+            "43": [
+                "vo.MemberVo"
+            ],
+            "44": [
+                "dao.EvalDao"
+            ]
+        }
+    },
+    "KMeans_45": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": -0.06944444444444445,
+            "scoh": 0.03333333333333333,
+            "scop": 0.10277777777777777,
+            "CMQ": 0.9628119579634731,
+            "ccoh": 0.9629629629629629,
+            "ccop": 0.00015100499948984798
+        },
+        "named_clusters": {
+            "1": [
+                "controller.BoardController",
+                "vo.BoardVo",
+                "dao.BoardDao"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo"
+            ],
+            "8": [
+                "vo.EvalVo"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ],
+            "40": [
+                "dao.FaqDao"
+            ],
+            "41": [
+                "service.StockServiceImpl"
+            ],
+            "42": [
+                "dao.GraphDao"
+            ],
+            "43": [
+                "vo.MemberVo"
+            ],
+            "44": [
+                "dao.EvalDao"
+            ],
+            "45": [
+                "dao.CommentDao"
+            ]
+        }
+    },
+    "KMeans_46": {
+        "metrics": {
+            "CHM": 0.9519230769230769,
+            "CHD": 0.9230769230769231,
+            "IFN": 1.0769230769230769,
+            "SMQ": -0.06859903381642513,
+            "scoh": 0.03260869565217391,
+            "scop": 0.10120772946859903,
+            "CMQ": 0.9563733109290765,
+            "ccoh": 0.9565217391304348,
+            "ccop": 0.00014842820135825807
+        },
+        "named_clusters": {
+            "1": [
+                "vo.option.BrandVo"
+            ],
+            "2": [
+                "controller.CartController"
+            ],
+            "3": [
+                "controller.CommentController",
+                "vo.CommentVo"
+            ],
+            "4": [
+                "controller.BoardController",
+                "vo.BoardVo"
+            ],
+            "5": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "6": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "7": [
+                "dao.GraphDao"
+            ],
+            "8": [
+                "dao.MemberDao"
+            ],
+            "9": [
+                "controller.ItemsController"
+            ],
+            "10": [
+                "dao.MainDao"
+            ],
+            "11": [
+                "vo.EvalVo"
+            ],
+            "12": [
+                "vo.CartVo"
+            ],
+            "13": [
+                "controller.StockController"
+            ],
+            "14": [
+                "service.StockServiceImpl"
+            ],
+            "15": [
+                "dao.ProductDao"
+            ],
+            "16": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "17": [
+                "dao.ItemsDao"
+            ],
+            "18": [
+                "service.StockService"
+            ],
+            "19": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "vo.ItemsArrayVo"
+            ],
+            "22": [
+                "vo.option.MaterialVo"
+            ],
+            "23": [
+                "vo.ProductVo"
+            ],
+            "24": [
+                "dao.DemandDao"
+            ],
+            "25": [
+                "vo.ItemsViewVo"
+            ],
+            "26": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "27": [
+                "vo.MemberVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "vo.option.SizeVo"
+            ],
+            "30": [
+                "vo.option.SexVo"
+            ],
+            "31": [
+                "controller.IndexController"
+            ],
+            "32": [
+                "vo.option.ColorVo"
+            ],
+            "33": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "34": [
+                "vo.DemandVo"
+            ],
+            "35": [
+                "dao.CartDao"
+            ],
+            "36": [
+                "controller.ProductController"
+            ],
+            "37": [
+                "controller.EvalController"
+            ],
+            "38": [
+                "controller.DemandController"
+            ],
+            "39": [
+                "vo.StockVo"
+            ],
+            "40": [
+                "dao.stockdao.StockDao"
+            ],
+            "41": [
+                "controller.MemberController"
+            ],
+            "42": [
+                "dao.FaqDao"
+            ],
+            "43": [
+                "vo.graph.GraphCategoryVo"
+            ],
+            "44": [
+                "dao.EvalDao"
+            ],
+            "45": [
+                "dao.CommentDao"
+            ],
+            "46": [
+                "dao.BoardDao"
+            ]
+        }
+    },
+    "KMeans_47": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": -0.08487511563367252,
+            "scoh": 0.02127659574468085,
+            "scop": 0.10615171137835337,
+            "CMQ": 0.9785881952247251,
+            "ccoh": 0.9787234042553191,
+            "ccop": 0.0001352090305940383
+        },
+        "named_clusters": {
+            "1": [
+                "vo.BoardVo"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController",
+                "vo.CommentVo"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo"
+            ],
+            "8": [
+                "vo.EvalVo"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ],
+            "40": [
+                "dao.FaqDao"
+            ],
+            "41": [
+                "service.StockServiceImpl"
+            ],
+            "42": [
+                "dao.GraphDao"
+            ],
+            "43": [
+                "vo.MemberVo"
+            ],
+            "44": [
+                "dao.EvalDao"
+            ],
+            "45": [
+                "dao.CommentDao"
+            ],
+            "46": [
+                "controller.BoardController"
+            ],
+            "47": [
+                "dao.BoardDao"
+            ]
+        }
+    },
+    "KMeans_48": {
+        "metrics": {
+            "CHM": 0.9618055555555555,
+            "CHD": 0.9194444444444444,
+            "IFN": 1.1666666666666667,
+            "SMQ": -0.09463652482269504,
+            "scoh": 0.010416666666666666,
+            "scop": 0.10505319148936171,
+            "CMQ": 0.9998758236507218,
+            "ccoh": 1.0,
+            "ccop": 0.00012417634927820533
+        },
+        "named_clusters": {
+            "1": [
+                "vo.BoardVo"
+            ],
+            "2": [
+                "vo.ProductVo"
+            ],
+            "3": [
+                "vo.FaqVo",
+                "controller.FaqController"
+            ],
+            "4": [
+                "dao.CartDao"
+            ],
+            "5": [
+                "dao.stockdao.StockInvDaoImpl"
+            ],
+            "6": [
+                "controller.CommentController"
+            ],
+            "7": [
+                "vo.graph.GraphCategoryVo"
+            ],
+            "8": [
+                "vo.EvalVo"
+            ],
+            "9": [
+                "interceptor.AdminCheckInterceptor"
+            ],
+            "10": [
+                "dao.ItemsDao"
+            ],
+            "11": [
+                "controller.MemberController"
+            ],
+            "12": [
+                "controller.StockController"
+            ],
+            "13": [
+                "vo.ItemsArrayVo"
+            ],
+            "14": [
+                "vo.graph.GraphAddrVo"
+            ],
+            "15": [
+                "dao.MainDao"
+            ],
+            "16": [
+                "vo.option.SexVo"
+            ],
+            "17": [
+                "vo.option.BrandVo"
+            ],
+            "18": [
+                "vo.option.SizeVo"
+            ],
+            "19": [
+                "service.StockService"
+            ],
+            "20": [
+                "vo.option.CategoryVo"
+            ],
+            "21": [
+                "dao.DemandDao"
+            ],
+            "22": [
+                "controller.CartController"
+            ],
+            "23": [
+                "vo.ItemsViewVo"
+            ],
+            "24": [
+                "vo.DemandVo"
+            ],
+            "25": [
+                "vo.StockVo"
+            ],
+            "26": [
+                "vo.option.MaterialVo"
+            ],
+            "27": [
+                "vo.option.ColorVo"
+            ],
+            "28": [
+                "vo.ItemsVo"
+            ],
+            "29": [
+                "controller.ItemsController"
+            ],
+            "30": [
+                "dao.stockdao.StockInDaoImpl"
+            ],
+            "31": [
+                "vo.CartVo"
+            ],
+            "32": [
+                "dao.stockdao.StockOutDaoImpl"
+            ],
+            "33": [
+                "dao.ProductDao"
+            ],
+            "34": [
+                "dao.stockdao.StockDao"
+            ],
+            "35": [
+                "controller.ProductController"
+            ],
+            "36": [
+                "controller.EvalController"
+            ],
+            "37": [
+                "dao.MemberDao"
+            ],
+            "38": [
+                "controller.IndexController"
+            ],
+            "39": [
+                "controller.DemandController"
+            ],
+            "40": [
+                "dao.FaqDao"
+            ],
+            "41": [
+                "service.StockServiceImpl"
+            ],
+            "42": [
+                "dao.GraphDao"
+            ],
+            "43": [
+                "vo.MemberVo"
+            ],
+            "44": [
+                "dao.EvalDao"
+            ],
+            "45": [
+                "dao.CommentDao"
+            ],
+            "46": [
+                "controller.BoardController"
+            ],
+            "47": [
+                "dao.BoardDao"
+            ],
+            "48": [
+                "vo.CommentVo"
+            ]
+        }
+    }
+}

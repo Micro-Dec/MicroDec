@@ -1,0 +1,2108 @@
+{
+    "KMeans_5": {
+        "metrics": {
+            "CHM": 0.7015151515151514,
+            "CHD": 0.8840630685739381,
+            "IFN": 1.75,
+            "SMQ": 0.3811688311688312,
+            "scoh": 0.38571428571428573,
+            "scop": 0.004545454545454545,
+            "CMQ": 0.8263636363636363,
+            "ccoh": 0.8363636363636363,
+            "ccop": 0.01
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "2": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser",
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl",
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.service.impl.UserServiceImpl",
+                "com.mbyte.easy.security.entity.SysUserRoles",
+                "com.mbyte.easy.security.service.IUserService",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper",
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper",
+                "com.mbyte.easy.security.mapper.SysRoleMapper",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "5": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ]
+        }
+    },
+    "KMeans_6": {
+        "metrics": {
+            "CHM": 0.7015151515151514,
+            "CHD": 0.8840630685739381,
+            "IFN": 1.75,
+            "SMQ": 0.33643162393162396,
+            "scoh": 0.3523860398860399,
+            "scop": 0.015954415954415956,
+            "CMQ": 0.7777920227920229,
+            "ccoh": 0.7866809116809117,
+            "ccop": 0.008888888888888889
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser",
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.service.impl.UserServiceImpl",
+                "com.mbyte.easy.security.entity.SysUserRoles",
+                "com.mbyte.easy.security.service.IUserService",
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "5": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ]
+        }
+    },
+    "KMeans_7": {
+        "metrics": {
+            "CHM": 0.7015151515151514,
+            "CHD": 0.8840630685739381,
+            "IFN": 1.75,
+            "SMQ": 0.3538016216587645,
+            "scoh": 0.3777056277056277,
+            "scop": 0.02390400604686319,
+            "CMQ": 0.7471655328798186,
+            "ccoh": 0.7585034013605442,
+            "ccop": 0.011337868480725623
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.service.impl.UserServiceImpl",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "2": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser",
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "3": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl",
+                "com.mbyte.easy.security.service.IUserService",
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "6": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "7": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ]
+        }
+    },
+    "KMeans_8": {
+        "metrics": {
+            "CHM": 0.6484615384615384,
+            "CHD": 0.882264957264957,
+            "IFN": 1.4,
+            "SMQ": 0.3767006802721089,
+            "scoh": 0.39502164502164505,
+            "scop": 0.018320964749536178,
+            "CMQ": 0.830395794681509,
+            "ccoh": 0.8354978354978355,
+            "ccop": 0.00510204081632653
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "5": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "6": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser",
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.service.impl.UserServiceImpl",
+                "com.mbyte.easy.security.service.IUserService",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "7": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "8": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ]
+        }
+    },
+    "KMeans_9": {
+        "metrics": {
+            "CHM": 0.6190476190476191,
+            "CHD": 0.893584656084656,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.3675154320987654,
+            "scoh": 0.39444444444444443,
+            "scop": 0.026929012345679012,
+            "CMQ": 0.7790123456790123,
+            "ccoh": 0.7851851851851852,
+            "ccop": 0.006172839506172839
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.service.impl.UserServiceImpl",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser",
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.service.IUserService",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "8": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ]
+        }
+    },
+    "KMeans_10": {
+        "metrics": {
+            "CHM": 0.6190476190476191,
+            "CHD": 0.893584656084656,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.37697530864197526,
+            "scoh": 0.4149999999999999,
+            "scop": 0.03802469135802469,
+            "CMQ": 0.7155555555555555,
+            "ccoh": 0.72,
+            "ccop": 0.0044444444444444444
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser",
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "6": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.service.impl.UserServiceImpl",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "7": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "8": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "9": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ]
+        }
+    },
+    "KMeans_11": {
+        "metrics": {
+            "CHM": 0.6190476190476191,
+            "CHD": 0.893584656084656,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.31888888888888894,
+            "scoh": 0.3772727272727273,
+            "scop": 0.058383838383838385,
+            "CMQ": 0.7721212121212119,
+            "ccoh": 0.7757575757575755,
+            "ccop": 0.0036363636363636364
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "6": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "8": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "9": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser",
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "10": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "11": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ]
+        }
+    },
+    "KMeans_12": {
+        "metrics": {
+            "CHM": 0.6190476190476191,
+            "CHD": 0.893584656084656,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.2699705387205388,
+            "scoh": 0.3527777777777778,
+            "scop": 0.08280723905723904,
+            "CMQ": 0.7898530762167124,
+            "ccoh": 0.7944444444444443,
+            "ccop": 0.004591368227731864
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "5": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "8": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "9": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser",
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "11": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ]
+        }
+    },
+    "KMeans_13": {
+        "metrics": {
+            "CHM": 0.6190476190476191,
+            "CHD": 0.893584656084656,
+            "IFN": 1.1666666666666667,
+            "SMQ": 0.19521011396011398,
+            "scoh": 0.32564102564102565,
+            "scop": 0.13043091168091167,
+            "CMQ": 0.7801775147928994,
+            "ccoh": 0.7846153846153846,
+            "ccop": 0.004437869822485207
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.controller.AdminController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "6": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "7": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "8": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "9": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ]
+        }
+    },
+    "KMeans_14": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.1857142857142857,
+            "scoh": 0.30357142857142855,
+            "scop": 0.11785714285714285,
+            "CMQ": 0.8008976371613733,
+            "ccoh": 0.8047619047619047,
+            "ccop": 0.003864267600531337
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "4": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "5": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "6": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "8": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "9": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "10": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "11": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.IUserService"
+            ]
+        }
+    },
+    "KMeans_15": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.18611111111111106,
+            "scoh": 0.2944444444444444,
+            "scop": 0.10833333333333334,
+            "CMQ": 0.8142403628117914,
+            "ccoh": 0.8177777777777777,
+            "ccop": 0.0035374149659863946
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "4": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService",
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "5": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "6": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "7": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "8": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.service.IResourceService",
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "9": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "10": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ]
+        }
+    },
+    "KMeans_16": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.1829861111111111,
+            "scoh": 0.29166666666666663,
+            "scop": 0.10868055555555553,
+            "CMQ": 0.8305555555555556,
+            "ccoh": 0.8333333333333334,
+            "ccop": 0.0027777777777777775
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "5": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "11": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.security.mapper.SysUserMapper",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "12": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "13": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "14": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "15": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "16": [
+                "com.mbyte.easy.security.service.IUserService"
+            ]
+        }
+    },
+    "KMeans_17": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.18321078431372548,
+            "scoh": 0.28431372549019607,
+            "scop": 0.10110294117647059,
+            "CMQ": 0.8405420991926182,
+            "ccoh": 0.8431372549019608,
+            "ccop": 0.002595155709342561
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole",
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "3": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "4": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "5": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "6": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "7": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "8": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "9": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "10": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "11": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "12": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "15": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ]
+        }
+    },
+    "KMeans_18": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.1860021786492375,
+            "scoh": 0.2777777777777778,
+            "scop": 0.0917755991285403,
+            "CMQ": 0.8494596095518817,
+            "ccoh": 0.8518518518518519,
+            "ccop": 0.0023922422999700967
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "6": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "7": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "8": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "9": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "15": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "16": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "18": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ]
+        }
+    },
+    "KMeans_19": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.14522417153996098,
+            "scoh": 0.23684210526315788,
+            "scop": 0.09161793372319689,
+            "CMQ": 0.91016039123149,
+            "ccoh": 0.9122807017543859,
+            "ccop": 0.002120310522895934
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.controller.ResourceController",
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "8": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "11": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IRoleService",
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "15": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "18": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "19": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ]
+        }
+    },
+    "KMeans_20": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.1473684210526316,
+            "scoh": 0.25,
+            "scop": 0.10263157894736842,
+            "CMQ": 0.8480886426592797,
+            "ccoh": 0.85,
+            "ccop": 0.0019113573407202216
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "3": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "4": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "5": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "6": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider",
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "7": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "8": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "11": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "12": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "14": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "15": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "16": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "18": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "19": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "20": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ]
+        }
+    },
+    "KMeans_21": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.11309523809523808,
+            "scoh": 0.21428571428571427,
+            "scop": 0.10119047619047619,
+            "CMQ": 0.9030385487528345,
+            "ccoh": 0.9047619047619048,
+            "ccop": 0.0017233560090702948
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "3": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "4": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "5": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "6": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "7": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "8": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl",
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "15": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "16": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "17": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "20": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "21": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ]
+        }
+    },
+    "KMeans_22": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.11093073593073595,
+            "scoh": 0.20454545454545456,
+            "scop": 0.09361471861471861,
+            "CMQ": 0.9074230243061412,
+            "ccoh": 0.9090909090909091,
+            "ccop": 0.0016678847847679016
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource",
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ]
+        }
+    },
+    "KMeans_23": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": 0.07015810276679842,
+            "scoh": 0.17391304347826086,
+            "scop": 0.10375494071146245,
+            "CMQ": 0.9550531956443625,
+            "ccoh": 0.9565217391304348,
+            "ccop": 0.001468543486072271
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController",
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "23": [
+                "com.mbyte.easy.security.service.IResourceService"
+            ]
+        }
+    },
+    "KMeans_24": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": -0.012681159420289856,
+            "scoh": 0.14583333333333334,
+            "scop": 0.1585144927536232,
+            "CMQ": 0.9987003780718336,
+            "ccoh": 1.0,
+            "ccop": 0.0012996219281663514
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor",
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "23": [
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "24": [
+                "com.mbyte.easy.security.entity.SysUser"
+            ]
+        }
+    },
+    "KMeans_25": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": -0.0325,
+            "scoh": 0.12,
+            "scop": 0.1525,
+            "CMQ": 0.9988888888888889,
+            "ccoh": 1.0,
+            "ccop": 0.0011111111111111111
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.controller.RoleController",
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "23": [
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "24": [
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "25": [
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ]
+        }
+    },
+    "KMeans_26": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": -0.057692307692307696,
+            "scoh": 0.09615384615384616,
+            "scop": 0.15384615384615385,
+            "CMQ": 0.9989585798816568,
+            "ccoh": 1.0,
+            "ccop": 0.0010414201183431954
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "6": [
+                "com.mbyte.easy.common.web.AjaxResult",
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "23": [
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "24": [
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "25": [
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "26": [
+                "com.mbyte.easy.security.controller.RoleController"
+            ]
+        }
+    },
+    "KMeans_27": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": -0.07977207977207978,
+            "scoh": 0.07407407407407407,
+            "scop": 0.15384615384615385,
+            "CMQ": 0.9990909164698338,
+            "ccoh": 1.0,
+            "ccop": 0.0009090835301661512
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper",
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "6": [
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "23": [
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "24": [
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "25": [
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "26": [
+                "com.mbyte.easy.security.controller.RoleController"
+            ],
+            "27": [
+                "com.mbyte.easy.common.web.AjaxResult"
+            ]
+        }
+    },
+    "KMeans_28": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": -0.09325396825396826,
+            "scoh": 0.05357142857142857,
+            "scop": 0.14682539682539683,
+            "CMQ": 0.9991391618375746,
+            "ccoh": 1.0,
+            "ccop": 0.0008608381624254641
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper"
+            ],
+            "6": [
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.entity.SysRoleResources",
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "23": [
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "24": [
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "25": [
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "26": [
+                "com.mbyte.easy.security.controller.RoleController"
+            ],
+            "27": [
+                "com.mbyte.easy.common.web.AjaxResult"
+            ],
+            "28": [
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ]
+        }
+    },
+    "KMeans_29": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": -0.10591133004926108,
+            "scoh": 0.034482758620689655,
+            "scop": 0.14039408866995073,
+            "CMQ": 0.9991931374214371,
+            "ccoh": 1.0,
+            "ccop": 0.0008068625785629353
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController",
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper"
+            ],
+            "6": [
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "23": [
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "24": [
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "25": [
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "26": [
+                "com.mbyte.easy.security.controller.RoleController"
+            ],
+            "27": [
+                "com.mbyte.easy.common.web.AjaxResult"
+            ],
+            "28": [
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "29": [
+                "com.mbyte.easy.security.entity.SysRoleResources"
+            ]
+        }
+    },
+    "KMeans_30": {
+        "metrics": {
+            "CHM": 0.6857142857142857,
+            "CHD": 0.9087868480725623,
+            "IFN": 1.0,
+            "SMQ": -0.13735632183908048,
+            "scoh": 0.016666666666666666,
+            "scop": 0.15402298850574714,
+            "CMQ": 0.9992865636147443,
+            "ccoh": 1.0,
+            "ccop": 0.000713436385255648
+        },
+        "named_clusters": {
+            "1": [
+                "com.mbyte.easy.security.mapper.SysRoleMapper"
+            ],
+            "2": [
+                "com.mbyte.easy.security.mapper.SysOrganizationMapper",
+                "com.mbyte.easy.security.entity.SysOrganization"
+            ],
+            "3": [
+                "com.mbyte.easy.generator.controller.SysGeneratorController"
+            ],
+            "4": [
+                "com.mbyte.easy.common.ueditor.Ueditor"
+            ],
+            "5": [
+                "com.mbyte.easy.security.mapper.SysUserRolesMapper"
+            ],
+            "6": [
+                "com.mbyte.easy.common.controller.BaseController"
+            ],
+            "7": [
+                "com.mbyte.easy.security.auth.MyAuthenticationProvider"
+            ],
+            "8": [
+                "com.mbyte.easy.security.controller.ResourceController"
+            ],
+            "9": [
+                "com.mbyte.easy.security.mapper.SysRoleResourcesMapper"
+            ],
+            "10": [
+                "com.mbyte.easy.security.controller.UserController"
+            ],
+            "11": [
+                "com.mbyte.easy.security.controller.AdminController"
+            ],
+            "12": [
+                "com.mbyte.easy.security.service.impl.RoleServiceImpl"
+            ],
+            "13": [
+                "com.mbyte.easy.security.service.IUserService"
+            ],
+            "14": [
+                "com.mbyte.easy.security.service.impl.ResourceServiceImpl"
+            ],
+            "15": [
+                "com.mbyte.easy.security.entity.SysRole"
+            ],
+            "16": [
+                "com.mbyte.easy.generator.service.ISysGeneratorService"
+            ],
+            "17": [
+                "com.mbyte.easy.security.service.impl.UserServiceImpl"
+            ],
+            "18": [
+                "com.mbyte.easy.security.mapper.SysUserMapper"
+            ],
+            "19": [
+                "com.mbyte.easy.security.entity.SysResource"
+            ],
+            "20": [
+                "com.mbyte.easy.config.WebSecurityConfig"
+            ],
+            "21": [
+                "com.mbyte.easy.security.service.IRoleService"
+            ],
+            "22": [
+                "com.mbyte.easy.security.mapper.SysResourceMapper"
+            ],
+            "23": [
+                "com.mbyte.easy.security.service.IResourceService"
+            ],
+            "24": [
+                "com.mbyte.easy.security.entity.SysUser"
+            ],
+            "25": [
+                "com.mbyte.easy.common.ueditor.UeditorController"
+            ],
+            "26": [
+                "com.mbyte.easy.security.controller.RoleController"
+            ],
+            "27": [
+                "com.mbyte.easy.common.web.AjaxResult"
+            ],
+            "28": [
+                "com.mbyte.easy.security.entity.SysUserRoles"
+            ],
+            "29": [
+                "com.mbyte.easy.security.entity.SysRoleResources"
+            ],
+            "30": [
+                "com.mbyte.easy.generator.entity.SysGenerator"
+            ]
+        }
+    }
+}
