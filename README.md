@@ -22,7 +22,7 @@ Before running the tool, ensure you have the following:
   - All results reported in the paper.
   - Results of baseline comparisons.
   - OpenAI embedding data.
-- The ground truth data is located in the file `MicroDec/GT_data.xlsx`.
+- The ground truth data and predicted results are located in the `MicroDec/results` folder.
 
 ## Contact
 For any further assistance regarding the duplication of this repository, please contact me directly.
